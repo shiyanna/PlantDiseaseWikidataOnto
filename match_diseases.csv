@@ -1,0 +1,1341 @@
+Category,Disease,Disease fullname,Pathogen,Afflict,EPPO code
+FUNGAL AND OOMYCETE DISEASES,Black bundle disease,black bundle disease of maize,Sarocladium strictum,Corn (syn. Maize),ACREST
+BACTERIA AND PHYTOPLASMAS,Crown gall,Crown gall,Agrobacterium tumefaciens,Alfalfa,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Almond,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Anemone,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Apple,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Avocado,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Bedding Plants,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Beet,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Bellflower,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Blueberry,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Butterfly Flower,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Cacao,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Carnation,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Carrot,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Chrysanthemum,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Cineraria,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Cotton,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Crucifers,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,English (Persian) Walnut,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,European Hazelnut,AGRBTU
+VIRUS DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Foliage Plants (House Plants),AGRBTU
+VIRUS DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Foliage Plants (House Plants),AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Fuchsia,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Garden Dahlia,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Geranium,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Hemp,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Hop,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Kalanchoë,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Mango,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,"Mimulus, Monkey-Flower",AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Passionfruit,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Peach and Nectarine,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Pecan,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Poinsettia,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Primulas,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Rapeseed = Canola,AGRBTU
+BACTERIAL DISEASE,Crown gall,Crown gall,Agrobacterium tumefaciens,Rhododendron,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Rose,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Sunflower and Jerusalem Artichoke,AGRBTU
+BACTERIAL DISEASES,Crown gall,Crown gall,Agrobacterium tumefaciens,Sweetpotato,AGRBTU
+PARASITIC SEED PLANTS,Crown gall,Crown gall,Agrobacterium tumefaciens,Tea,AGRBTU
+FUNGAL DISEASES,White rust,white rust of crucifers,Albugo candida,Mustard,ALBUCA
+FUNGAL and OOMYCETE DISEASES,White rust,white rust of salsify,Pustula tragopogonis,Sunflower and Jerusalem Artichoke,ALBUTR
+FUNGAL and OOMYCETE DISEASES,White rust,white rust of sunflower,Pustula tragopogonis,Sunflower and Jerusalem Artichoke,ALBUTR
+FUNGAL DISEASES,Brown spot,brown spot of tobacco,Alternaria alternata,Tobacco,ALTEAL
+FUNGAL DISEASES,Fruit rot,fruit rot of tomato,Alternaria alternata,Mango,ALTEAL
+FUNGAL DISEASES,Leaf spot,leaf spot of cotton,Alternaria macrospora,Cotton,ALTEMC
+FUNGAL DISEASES,Brown spot,brown spot of passion fruit,Alternaria passiflorae,Passionfruit,ALTEPA
+FUNGAL AND OOMYCETE DISEASES,Stackburn,stackburn disease of rice,Alternaria padwickii,Rice,ALTEPD
+FUNGAL AND OOMYCETE DISEASES,Purple blotch,purple blotch,Alternaria porri,Onion and Garlic,ALTEPO
+FUNGAL AND OOMYCETE DISEASES,Purple blotch,purple blotch of eggplant,Alternaria porri,Onion and Garlic,ALTEPO
+FUNGAL AND OOMYCETE DISEASES,Purple blotch,purple blotch of leek,Alternaria porri,Onion and Garlic,ALTEPO
+FUNGAL AND OOMYCETE DISEASES,Purple blotch,purple blotch of onion,Alternaria porri,Onion and Garlic,ALTEPO
+FUNGAL and OOMYCETE DISEASES,Black rot,black rot of carrot,Alternaria radicina,Carrot,ALTERA
+FUNGAL DISEASES,Early blight,early blight of eggplant,Alternaria solani,Potato,ALTESO
+FUNGAL DISEASES,Early blight,early blight of potato,Alternaria solani,Potato,ALTESO
+FUNGAL DISEASES,Early blight,early blight of tomato,Alternaria solani,Potato,ALTESO
+FUNGAL DISEASES,Black root,black root of radish,Aphanomyces raphani,Mustard,APHARA
+FUNGAL DISEASES,Black root,black root of radish,Aphanomyces raphani,Rapeseed = Canola,APHARA
+FUNGAL DISEASES,Leaf spot,leaf spot of barley,Ascochyta hordei,Barley,ASCOHD
+FUNGAL DISEASES,Leaf spot,leaf spot of papaya,Asperisporium caricae,Papaya,ASPRCA
+VIRUS DISEASES,Bean mild mosaic,bean mild mosaic,Bean mild mosaic virus,Bean,BMMV00
+VIRUS DISEASES,Bean mild mosaic,bean mild mosaic,Bean mild mosaic virus,Soybean,BMMV00
+FUNGAL DISEASES,White rot,white rot of apple,Botryosphaeria dothidea,Apple,BOTSDO
+FUNGAL DISEASES,Dieback,dieback of oak,Botryosphaeria quercuum,Mango,BOTSQU
+FUNGAL DISEASES,Downy mildew,downy mildew of lettuce,Bremia lactucae,Cineraria,BREMLA
+FUNGAL AND OOMYCETE DISEASES,Downy mildew,downy mildew of lettuce,Bremia lactucae,Lettuce,BREMLA
+PARASITIC SEED PLANTS,Damping-off,Damping-off of tea,Calonectria kyotensis,Tea,CALOKY
+FUNGAL AND OOMYCETE DISEASES,Black rot,black rot of sweet potato,Ceratocystis fimbriata,Lettuce,CERAFI
+MISCELLANEOUS DISEASES AND DISORDERS,Wilt,wilt of cocoa,Ceratocystis fimbriata,Coffee,CERAFI
+MISCELLANEOUS DISEASES AND DISORDERS,Canker,canker of coffee,Ceratocystis fimbriata,Coffee,CERAFI
+MISCELLANEOUS DISEASES AND DISORDERS,Canker,canker of cocoa,Ceratocystis fimbriata,Coffee,CERAFI
+FUNGAL DISEASES,Pineapple disease,pineapple disease of sugarcane,Thielaviopsis paradoxa,Sugarcane,CERAPA
+FUNGAL DISEASES,Dutch elm disease,dutch elm disease,Ophiostoma ulmi,Elm,CERAUL
+FUNGAL DISEASES,Early blight,early blight of celery,Cercospora apii,Celery,CERCAP
+MISCELLANEOUS DISEASES AND DISORDERS,Brown eye spot,brown eye spot of coffee,Cercospora coffeicola,Coffee,CERCCO
+FUNGAL DISEASES,Brown spot,brown spot of sugarcane,Cercospora longipes,Sugarcane,CERCLO
+FUNGAL DISEASES,Barn spot,barn spot of tobacco,Cercospora nicotianae,Tobacco,CERCNI
+FUNGAL AND OOMYCETE DISEASES,Narrow brown leaf spot,Narrow brown leaf spot of rice,Cercospora janseana,Rice,CERCOR
+FUNGAL DISEASES,Summer black stem,summer black stem of clover,Cercospora zebrina,Red Clover,CERCZE
+PARASITIC SEED PLANTS,Bird's eye spot,bird's eye spot of tea,Pseudocercospora theae,Tea,CERSTH
+FUNGAL DISEASES,Ergot,ergot of grasses,Claviceps fusiformis,Pearl Millet,CLAVFU
+FUNGAL DISEASES,Ergot,ergot of millet,Claviceps fusiformis,Pearl Millet,CLAVFU
+FUNGAL AND OOMYCETE DISEASES,Ergot,ergot of maize,Claviceps gigantea,Corn (syn. Maize),CLAVGI
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Ergot,ergot of pearl millet,Claviceps microcephala,Wheat,CLAVMI
+FUNGAL DISEASES,Ergot,ergot of cereals,Claviceps purpurea,Barley,CLAVPU
+FUNGAL DISEASES,Ergot,ergot of cereals,Claviceps purpurea,Oats,CLAVPU
+FUNGAL DISEASES,Ergot,ergot of cereals,Claviceps purpurea,Rye,CLAVPU
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Ergot,ergot of cereals,Claviceps purpurea,Wheat,CLAVPU
+FUNGAL DISEASES,Ergot,ergot of rye,Claviceps purpurea,Barley,CLAVPU
+FUNGAL DISEASES,Ergot,ergot of rye,Claviceps purpurea,Oats,CLAVPU
+FUNGAL DISEASES,Ergot,ergot of rye,Claviceps purpurea,Rye,CLAVPU
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Ergot,ergot of rye,Claviceps purpurea,Wheat,CLAVPU
+FUNGAL DISEASES,Leaf spot,leaf spot of maize,Bipolaris maydis,Geranium,COCHHE
+FUNGAL DISEASES,Leaf spot,leaf spot of maize,Curvularia lunata,Mango,COCHLU
+FUNGAL DISEASES,Seedling blight,seedling blight of sugarcane,Curvularia lunata,Sugarcane,COCHLU
+FUNGAL AND OOMYCETE DISEASES,Brown spot,brown spot of rice,Bipolaris oryzae,Rice,COCHMI
+FUNGAL DISEASES,Root rot,root rot of cereals,Bipolaris sorokiniana,Oats,COCHSA
+FUNGAL DISEASES,Seedling blight,seedling blight of cereals,Bipolaris sorokiniana,Oats,COCHSA
+FUNGAL DISEASES,Spot blotch,spot blotch of barley,Bipolaris sorokiniana,Barley,COCHSA
+VIRUS DISEASES,Spot blotch,spot blotch of barley,Bipolaris sorokiniana,Cultivated Wild Rice,COCHSA
+FUNGAL DISEASES,Spot blotch,spot blotch of barley,Bipolaris sorokiniana,Rye,COCHSA
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Spot blotch,spot blotch of barley,Bipolaris sorokiniana,Wheat,COCHSA
+FUNGAL DISEASES,Spot blotch,spot blotch of wheat,Bipolaris sorokiniana,Barley,COCHSA
+VIRUS DISEASES,Spot blotch,spot blotch of wheat,Bipolaris sorokiniana,Cultivated Wild Rice,COCHSA
+FUNGAL DISEASES,Spot blotch,spot blotch of wheat,Bipolaris sorokiniana,Rye,COCHSA
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Spot blotch,spot blotch of wheat,Bipolaris sorokiniana,Wheat,COCHSA
+FUNGAL DISEASES,Leaf spot,leaf spot of millet,Bipolaris setariae,Geranium,COCHSE
+FUNGAL DISEASES,Victoria blight,victoria blight of oat,Bipolaris victoriae,Oats,COCHVI
+VIRUS DISEASES,Anthracnose,anthracnose of capsicum,Colletotrichum capsici,Foliage Plants (House Plants),COLLCA
+BACTERIAL DISEASES,Anthracnose,anthracnose of capsicum,Colletotrichum capsici,Poinsettia,COLLCA
+FUNGAL DISEASES,Anthracnose,anthracnose of potato,Colletotrichum coccodes,Hemp,COLLCC
+FUNGAL AND OOMYCETE DISEASES,Anthracnose,anthracnose of potato,Colletotrichum coccodes,Onion and Garlic,COLLCC
+FUNGAL DISEASES,Anthracnose,anthracnose of strawberry,Colletotrichum coccodes,Hemp,COLLCC
+FUNGAL AND OOMYCETE DISEASES,Anthracnose,anthracnose of strawberry,Colletotrichum coccodes,Onion and Garlic,COLLCC
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Colletotrichum coccodes,Hemp,COLLCC
+FUNGAL AND OOMYCETE DISEASES,Anthracnose,anthracnose of tomato,Colletotrichum coccodes,Onion and Garlic,COLLCC
+FUNGAL DISEASES,Black dot,black dot disease of potato,Colletotrichum coccodes,Potato,COLLCC
+FUNGAL AND OOMYCETE DISEASES,Smudge,smudge of onion,Colletotrichum circinans,Onion and Garlic,COLLCI
+FUNGI,Anthracnose,anthracnose of capsicum,Colletotrichum dematium,Alfalfa,COLLDE
+BACTERIAL DISEASES,Anthracnose,anthracnose of capsicum,Colletotrichum dematium,Poinsettia,COLLDE
+FUNGAL DISEASES,Anthracnose,anthracnose of capsicum,Colletotrichum dematium,Spinach,COLLDE
+FUNGI,Anthracnose,anthracnose of salvia,Colletotrichum dematium,Alfalfa,COLLDE
+BACTERIAL DISEASES,Anthracnose,anthracnose of salvia,Colletotrichum dematium,Poinsettia,COLLDE
+FUNGAL DISEASES,Anthracnose,anthracnose of salvia,Colletotrichum dematium,Spinach,COLLDE
+FUNGI,Anthracnose,anthracnose of lucerne,Colletotrichum destructivum,Alfalfa,COLLDT
+FUNGAL DISEASES,Anthracnose,anthracnose of lucerne,Colletotrichum destructivum,Tobacco,COLLDT
+FUNGI,Anthracnose,anthracnose of tobacco,Colletotrichum destructivum,Alfalfa,COLLDT
+FUNGAL DISEASES,Anthracnose,anthracnose of tobacco,Colletotrichum destructivum,Tobacco,COLLDT
+FUNGI,Anthracnose,anthracnose of lucerne,Colletotrichum truncatum,Alfalfa,COLLDU
+VIRAL & VIROID DISEASES,Anthracnose,anthracnose of lucerne,Colletotrichum truncatum,Lentil,COLLDU
+VIRAL AND VIROID DISEASES,Anthracnose,anthracnose of lucerne,Colletotrichum truncatum,Pigeonpea,COLLDU
+FUNGI,Anthracnose,stem anthracnose of Lima bean,Colletotrichum truncatum,Alfalfa,COLLDU
+VIRAL & VIROID DISEASES,Anthracnose,stem anthracnose of Lima bean,Colletotrichum truncatum,Lentil,COLLDU
+VIRAL AND VIROID DISEASES,Anthracnose,stem anthracnose of Lima bean,Colletotrichum truncatum,Pigeonpea,COLLDU
+FUNGI,Anthracnose,stem anthracnose of soybean,Colletotrichum truncatum,Alfalfa,COLLDU
+VIRAL & VIROID DISEASES,Anthracnose,stem anthracnose of soybean,Colletotrichum truncatum,Lentil,COLLDU
+VIRAL AND VIROID DISEASES,Anthracnose,stem anthracnose of soybean,Colletotrichum truncatum,Pigeonpea,COLLDU
+FUNGAL DISEASES,Anthracnose,anthracnose of strawberry,Colletotrichum fragariae,Bedding Plants,COLLFR
+FUNGAL DISEASES,Anthracnose,anthracnose of cereals,Colletotrichum graminicola,Barley,COLLGR
+FUNGAL DISEASES,Anthracnose,anthracnose of cereals,Colletotrichum graminicola,Oats,COLLGR
+FUNGAL DISEASES,Anthracnose,anthracnose of cereals,Colletotrichum graminicola,Rye,COLLGR
+FUNGAL DISEASES,Anthracnose,anthracnose of maize,Colletotrichum graminicola,Barley,COLLGR
+FUNGAL DISEASES,Anthracnose,anthracnose of maize,Colletotrichum graminicola,Oats,COLLGR
+FUNGAL DISEASES,Anthracnose,anthracnose of maize,Colletotrichum graminicola,Rye,COLLGR
+FUNGAL DISEASES,Anthracnose,anthracnose of sorghum,Colletotrichum graminicola,Barley,COLLGR
+FUNGAL DISEASES,Anthracnose,anthracnose of sorghum,Colletotrichum graminicola,Oats,COLLGR
+FUNGAL DISEASES,Anthracnose,anthracnose of sorghum,Colletotrichum graminicola,Rye,COLLGR
+FUNGAL DISEASES,Anthracnose,anthracnose of crucifers,Colletotrichum higginsianum,Crucifers,COLLHG
+FUNGAL AND OOMYCETE DISEASES,Anthracnose,anthracnose of bean,Colletotrichum lindemuthianum,Bean,COLLLD
+VIRAL & VIROID DISEASES,Anthracnose,anthracnose of bean,Colletotrichum lindemuthianum,Lentil,COLLLD
+FUNGAL AND OOMYCETE DISEASES,Anthracnose,anthracnose of pea,Colletotrichum lindemuthianum,Bean,COLLLD
+VIRAL & VIROID DISEASES,Anthracnose,anthracnose of pea,Colletotrichum lindemuthianum,Lentil,COLLLD
+FUNGAL DISEASES,Anthracnose,anthracnose of flax,Colletotrichum lini,Flax,COLLLI
+UNDETERMINED ETIOLOGY,Anthracnose,anthracnose of banana,Colletotrichum musae,Banana and Plantain,COLLMU
+FUNGI,Anthracnose,anthracnose,Colletotrichum trifolii,Alfalfa,COLLTF
+FUNGI,Anthracnose,anthracnose of lucerne,Colletotrichum trifolii,Alfalfa,COLLTF
+FUNGI,Anthracnose,southern anthracnose of clover,Colletotrichum trifolii,Alfalfa,COLLTF
+FUNGAL DISEASES,Southern anthracnose,southern anthracnose of clover,Colletotrichum trifolii,Red Clover,COLLTF
+FUNGAL DISEASES,Brand canker,brand canker of rose,Coniothyrium wernsdorffiae,Rose,CONIWE
+BACTERIAL DISEASES,Leafy gall,Leafy gall of ornamentals,Rhodococcus fascians,Caneberries,CORBFA
+BACTERIAL DISEASES,Fasciation,Fasciation of strawberry,Rhodococcus fascians,Carnation,CORBFA
+BACTERIAL DISEASES,Fasciation,Fasciation of strawberry,Rhodococcus fascians,Chrysanthemum,CORBFA
+BACTERIAL DISEASES,Leafy gall,Leafy gall of tobacco,Rhodococcus fascians,Caneberries,CORBFA
+BACTERIAL DISEASES,Gumming,gumming disease of grasses,Rathayibacter iranicus,Wheat,CORBIR
+BACTERIAL DISEASES,Bacterial canker,bacterial canker of tomato,Clavibacter michiganensis,Pepper,CORBMI
+VIRAL & VIROID DISEASES,Wood decay,wood decay,Trametes versicolor,Black Walnut,CORLVE
+PARASITIC SEED PLANTS,Black rot,black rot of tea,Corticium invisum,Tea,CORTIN
+FUNGAL AND OOMYCETE DISEASES,Thread blight,thread blight of coffee,Corticium koleroga,Citrus,CORTKO
+MISCELLANEOUS DISEASES AND DISORDERS,Thread blight,thread blight of coffee,Corticium koleroga,Coffee,CORTKO
+FUNGAL AND OOMYCETE DISEASES,Thread blight,thread blight of tropical crops,Corticium koleroga,Citrus,CORTKO
+MISCELLANEOUS DISEASES AND DISORDERS,Thread blight,thread blight of tropical crops,Corticium koleroga,Coffee,CORTKO
+PARASITIC SEED PLANTS,Black rot,black rot of tea,Corticium theae,Tea,CORTTH
+FUNGAL DISEASES,Leaf spot,leaf spot of cotton,Corynespora cassiicola,African Violet,CORYCA
+FUNGAL DISEASES,Leaf spot,leaf spot of cotton,Corynespora cassiicola,Cattleya Lindl. spp,CORYCA
+FUNGAL DISEASES,Leaf spot,leaf spot of tobacco,Corynespora cassiicola,African Violet,CORYCA
+FUNGAL DISEASES,Leaf spot,leaf spot of tobacco,Corynespora cassiicola,Cattleya Lindl. spp,CORYCA
+FUNGAL DISEASES,Target spot,target spot of cucurbits,Corynespora cassiicola,Cotton,CORYCA
+FUNGAL DISEASES,Target spot,target spot of cucurbits,Corynespora cassiicola,Soybean,CORYCA
+FUNGAL DISEASES,Target spot,target spot of soybean,Corynespora cassiicola,Cotton,CORYCA
+FUNGAL DISEASES,Target spot,target spot of soybean,Corynespora cassiicola,Soybean,CORYCA
+FUNGAL DISEASES,Leaf spot,leaf spot of tomato,Corynespora cassiicola,African Violet,CORYCA
+FUNGAL DISEASES,Leaf spot,leaf spot of tomato,Corynespora cassiicola,Cattleya Lindl. spp,CORYCA
+Stem Rusts,Stalactiform blister rust,stalactiform blister rust of pine,Cronartium coleosporioides,Conifer,CRONCL
+Stem Rusts,Comandra blister rust,comandra blister rust of pine,Cronartium comandrae,Conifer,CRONCO
+Stem Rusts,Eastern gall rust,Eastern gall rust of pine,Cronartium quercuum,Conifer,CRONQU
+UNDETERMINED ETIOLOGY,Leaf spot,leaf spot of maize,Curvularia eragrostidis,Banana and Plantain,CURVER
+PARASITIC SEED PLANTS,Root rot,root rot of tea,Cylindrocladiella camelliae,Tea,CYLDCA
+PARASITIC SEED PLANTS,Root rot,root rot of araucaria,Cylindrocladium clavatum,Tea,CYLDCL
+PARASITIC SEED PLANTS,Root rot,root rot of tea,Cylindrocladium clavatum,Tea,CYLDCL
+PARASITIC SEED PLANTS,Root rot,root rot of pine,Cylindrocladium clavatum,Tea,CYLDCL
+FUNGAL DISEASES,Sooty blotch,sooty blotch of clover,Polythrincium trifolii,Red Clover,CYMATR
+FUNGAL DISEASES,Sheath rot,sheath rot of sugarcane,Cytospora sacchari,Sugarcane,CYTOSA
+FUNGAL AND OOMYCETE DISEASES,Mal secco,mal secco of citrus,Plenodomus tracheiphilus,Citrus,DEUTTR
+FUNGAL AND OOMYCETE DISEASES,Melanose,melanose of citrus,Diaporthe citri,Citrus,DIAPCI
+FUNGAL DISEASES,Stem canker,stem canker of bean,Diaporthe phaseolorum,Soybean,DIAPPH
+FUNGAL DISEASES,Fairy-ring leaf spot,fairy-ring leaf spot of carnation,Cladosporium echinulatum,Carnation,DIDMDI
+FUNGAL DISEASES,Black spot,black spot of roses,Diplocarpon rosae,Rose,DIPCRO
+FUNGAL DISEASES,Eye spot,eye spot of  sugarcane,Bipolaris sacchari,Sugarcane,DRECSA
+FUNGAL DISEASES,Seedling blight,seedling blight of sugarcane,Bipolaris sacchari,Sugarcane,DRECSA
+FUNGAL DISEASES,Brown stripe,brown stripe of sugarcane,Bipolaris stenospila,Sugarcane,DRECST
+FUNGAL AND OOMYCETE DISEASES,Scab,scab of Lima bean,Elsinoë phaseoli,Bean,ELSIPH
+Stem Rusts,Western gall rust,Western gall rust of pine,Cronartium harknessii,Conifer,ENDCHA
+FUNGAL AND OOMYCETE DISEASES,Leaf smut,leaf smut of rice,Eballistra oryzae,Rice,ENTYOR
+BACTERIAL DISEASES,Fire blight,fire blight,Erwinia amylovora,Apple,ERWIAM
+BACTERIAL DISEASES,Fire blight,fire blight,Erwinia amylovora,Caneberries,ERWIAM
+BACTERIAL DISEASES,Bacterial soft rot,Bacterial soft rot of potato,Pectobacterium atrosepticum,Bedding Plants,ERWIAT
+BACTERIAL DISEASES,Bacterial soft rot,Bacterial soft rot of potato,Pectobacterium atrosepticum,Carrot,ERWIAT
+BACTERIAL DISEASES,Leaf scorch,Leaf scorch of almond,Xylella fastidiosa,Sycamore,XYLEFA
+BACTERIAL DISEASES,Pink seed,pink seed of wheat,Erwinia rhapontici,Wheat,ERWIRH
+BACTERIAL DISEASES,Bacterial wilt,Bacterial wilt of cucurbits,Erwinia tracheiphila,Cucurbits,ERWITR
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cucurbits,Golovinomyces cichoracearum,Cucurbits,ERYSCI
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of cucurbits,Golovinomyces cichoracearum,Lettuce,ERYSCI
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of cucurbits,Golovinomyces cichoracearum,Sunflower and Jerusalem Artichoke,ERYSCI
+FUNGAL DISEASES,Powdery mildew,powdery mildew of lettuce,Golovinomyces cichoracearum,Cucurbits,ERYSCI
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of lettuce,Golovinomyces cichoracearum,Lettuce,ERYSCI
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of lettuce,Golovinomyces cichoracearum,Sunflower and Jerusalem Artichoke,ERYSCI
+FUNGAL DISEASES,Powdery mildew,powdery mildew of ornamentals,Golovinomyces cichoracearum,Cucurbits,ERYSCI
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of ornamentals,Golovinomyces cichoracearum,Lettuce,ERYSCI
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of ornamentals,Golovinomyces cichoracearum,Sunflower and Jerusalem Artichoke,ERYSCI
+FUNGAL DISEASES,Powdery mildew,powdery mildew of tobacco,Golovinomyces cichoracearum,Cucurbits,ERYSCI
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of tobacco,Golovinomyces cichoracearum,Lettuce,ERYSCI
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of tobacco,Golovinomyces cichoracearum,Sunflower and Jerusalem Artichoke,ERYSCI
+FUNGAL DISEASES,Powdery mildew,powdery mildew of potato,Golovinomyces cichoracearum,Cucurbits,ERYSCI
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of potato,Golovinomyces cichoracearum,Lettuce,ERYSCI
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of potato,Golovinomyces cichoracearum,Sunflower and Jerusalem Artichoke,ERYSCI
+FUNGAL DISEASES,Powdery mildew,powdery mildew of chicory,Golovinomyces cichoracearum,Cucurbits,ERYSCI
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of chicory,Golovinomyces cichoracearum,Lettuce,ERYSCI
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of chicory,Golovinomyces cichoracearum,Sunflower and Jerusalem Artichoke,ERYSCI
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cereals,Blumeria graminis,Barley,ERYSGR
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Powdery mildew,powdery mildew of cereals,Blumeria graminis,Wheat,ERYSGR
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of carrot,Erysiphe heraclei,Carrot,ERYSHE
+FUNGAL DISEASES,Powdery mildew,powdery mildew of carrot,Erysiphe heraclei,Celery,ERYSHE
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of parsley,Erysiphe heraclei,Carrot,ERYSHE
+FUNGAL DISEASES,Powdery mildew,powdery mildew of parsley,Erysiphe heraclei,Celery,ERYSHE
+FUNGAL DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Anemone,ERYSPG
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Bean,ERYSPG
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Beet,ERYSPG
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Carrot,ERYSPG
+FUNGAL DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Common House or Florist's Hydrangea,ERYSPG
+FUNGAL DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Crucifers,ERYSPG
+FUNGAL DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Garden Dahlia,ERYSPG
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Lentil,ERYSPG
+FUNGAL DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Mustard,ERYSPG
+FUNGAL DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Primulas,ERYSPG
+FUNGAL DISEASES,Powdery mildew,powdery mildew of Polygonaceae,Erysiphe polygoni,Red Clover,ERYSPG
+FUNGI,Powdery mildew,powdery mildew of legumes,Erysiphe pisi,Alfalfa,ERYSPI
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of legumes,Erysiphe pisi,Lentil,ERYSPI
+FUNGI,Powdery mildew,powdery mildew of pea,Erysiphe pisi,Alfalfa,ERYSPI
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of pea,Erysiphe pisi,Lentil,ERYSPI
+PARASITIC SEED PLANTS,Net blister blight,net blister blight of tea,Exobasidium reticulatum,Tea,EXOBRE
+PARASITIC SEED PLANTS,Blister blight,blister blight of tea,Exobasidium vexans,Tea,EXOBVE
+FUNGAL DISEASES,Seedling blight,seedling blight of cereals,Fusarium culmorum,Oats,FUSACU
+MISCELLANEOUS DISEASES AND DISORDERS,Wilt,wilt,Fusarium oxysporum,Coffee,FUSAOX
+FUNGAL DISEASES,Wilt,wilt,Fusarium oxysporum,Flax,FUSAOX
+MISCELLANEOUS DISEASES AND DISORDERS,Wilt,seedling wilt,Fusarium oxysporum,Coffee,FUSAOX
+FUNGAL DISEASES,Wilt,seedling wilt,Fusarium oxysporum,Flax,FUSAOX
+MISCELLANEOUS DISEASES AND DISORDERS,Stem canker,stem canker,Fusarium solani,English (Persian) Walnut,FUSASO
+MISCELLANEOUS DISEASES AND DISORDERS,Stem canker,stem canker,Fusarium solani,European Hazelnut,FUSASO
+FUNGAL DISEASES,Take-all,take-all of cereals,Gaeumannomyces graminis,Barley,GAEUGR
+FUNGAL DISEASES,Take-all,take-all of cereals,Gaeumannomyces graminis,Rye,GAEUGR
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Take-all,take-all of cereals,Gaeumannomyces graminis,Wheat,GAEUGR
+FUNGAL DISEASES,Butt rot,white butt rot of ornamentals,Ganoderma applanatum,Sycamore,GANOAP
+FUNGAL DISEASES,Butt rot,white butt rot of trees,Ganoderma applanatum,Sycamore,GANOAP
+PARASITIC SEED PLANTS,Root rot,root rot of pine,Ganoderma applanatum,Tea,GANOAP
+PARASITIC SEED PLANTS,Red root rot,red root rot of rubber,Ganoderma philippii,Tea,GANOPH
+FUNGAL and OOMYCETE DISEASES,Sour rot,sour rot of citrus,Geotrichum candidum,Carrot,GEOTCA
+FUNGAL AND OOMYCETE DISEASES,Sour rot,sour rot of citrus,Geotrichum candidum,Citrus,GEOTCA
+FUNGAL DISEASES,Sour rot,sour rot of citrus,Geotrichum candidum,Peach and Nectarine,GEOTCA
+FUNGAL and OOMYCETE DISEASES,Downy mildew,downy mildew of beet,Peronospora farinosa,Beet,PEROFA
+FUNGAL AND OOMYCETE DISEASES,Bakanae,bakanae disease of rice,Fusarium fujikuroi,Rice,GIBBFU
+FUNGAL DISEASES,Damping-off,damping-off of safflower,Fusarium equiseti,Cucurbits,GIBBIN
+FUNGAL DISEASES,Canker,basal canker of hop,Fusarium sambucinum,Hop,GIBBPU
+FUNGAL DISEASES,Fruit blotch,fruit blotch of strawberry,Fusarium sambucinum,Strawberry,GIBBPU
+MISCELLANEOUS DISEASES AND DISORDERS,Bark disease,bark disease of coffee,Fusarium stilboides,Coffee,GIBBST
+MISCELLANEOUS DISEASES AND DISORDERS,Bark disease,storey's bark disease of coffee,Fusarium stilboides,Coffee,GIBBST
+FUNGAL DISEASES,Head blight,head blight of cereals,Fusarium graminearum,Oats,GIBBZE
+FUNGAL AND OOMYCETE DISEASES,Scab,scab of cereals,Fusarium graminearum,Rice,GIBBZE
+FUNGAL DISEASES,Scab,scab of cereals,Fusarium graminearum,Rye,GIBBZE
+FUNGAL AND OOMYCETE DISEASES,Zonate leaf spot,zonate leaf spot of sorghum,Microdochium sorghi,Corn (syn. Maize),GLOCSO
+FUNGAL AND OOMYCETE DISEASES,Zonate leaf spot,zonate leaf spot of maize,Microdochium sorghi,Corn (syn. Maize),GLOCSO
+PARASITIC SEED PLANTS,Anthracnose,anthracnose of tea,Gloeosporium theae-sinensis,Tea,GLOETS
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose of pepper,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of pepper,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL DISEASES,Bitter rot,bitter rot,Glomerella cingulata,Apple,GLOMCI
+FUNGAL DISEASES,Bitter rot,bitter rot,Glomerella cingulata,Cranberry,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Brown blight,brown blight,Glomerella cingulata,Coffee,GLOMCI
+PARASITIC SEED PLANTS,Brown blight,brown blight,Glomerella cingulata,Tea,GLOMCI
+FUNGAL DISEASES,Leaf spot,leaf spot,Glomerella cingulata,Geranium,GLOMCI
+FUNGAL DISEASES,Leaf spot,leaf spot of aubergine,Glomerella cingulata,Geranium,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose: lime tree,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose of olive,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of olive,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of soybean,Glomerella glycines,Soybean,GLOMGL
+FUNGAL DISEASES,Anthracnose,anthracnose of soybean,Glomerella glycines,Tobacco,GLOMGL
+FUNGAL DISEASES,Anthracnose,anthracnose of cotton,Colletotrichum gossypii,Cotton,GLOMGO
+FUNGAL DISEASES,Red rot,red rot of sugarcane,Colletotrichum falcatum,Sugarcane,GLOMTU
+FUNGAL DISEASES,Anthracnose,anthracnose,Apiognomonia errabunda,Sycamore,GNOMEB
+FUNGAL DISEASES,Iliau,iliau disease of sugarcane,Gnomonia iliau,Sugarcane,GNOMIL
+FUNGAL DISEASES,End rot,end rot of cranberry,Godronia cassandrae,Cranberry,GODRCA
+Cankers and Twig Blights,Scleroderris canker,Scleroderris canker of conifers,Gremmeniella abietina,Conifer,GREMAB
+Cankers and Twig Blights,Scleroderris canker,Scleroderris canker of conifers,Gremmeniella abietina,Conifer,GREMAB
+Cankers and Twig Blights,Scleroderris canker,Scleroderris canker of conifers,Gremmeniella abietina,Conifer,GREMAB
+Cankers and Twig Blights,Scleroderris canker,Scleroderris canker of conifers,Gremmeniella abietina,Conifer,GREMAB
+FUNGI AND OOMYCETES,Black rot,black rot of grapevine,Phyllosticta ampelicida,Grape,GUIGBI
+PARASITIC SEED PLANTS,Copper blight,copper blight of tea,Guignardia camelliae,Tea,GUIGCA
+FUNGAL AND OOMYCETE DISEASES,Black spot,black spot of citrus,Phyllosticta citricarpa,Citrus,GUIGCI
+FUNGAL DISEASES,Orange rust,orange rust of blackberry,Arthuriomyces peckianus,Caneberries,GYMCIN
+FUNGAL DISEASES,Orange rust,orange rust of Rubus,Arthuriomyces peckianus,Caneberries,GYMCIN
+FUNGAL DISEASES,Stamen blight,stamen blight of raspberry,Hapalosphaeria deformans,Caneberries,HAPSDE
+FUNGAL DISEASES,Black pox,black pox of apple,Helminthosporium papulosum,Apple,HELMPA
+FUNGAL DISEASES,Black pox,black pox of pear,Helminthosporium papulosum,Apple,HELMPA
+FUNGAL DISEASES,Silver scurf,silver scurf of potato,Helminthosporium solani,Potato,HELMSO
+FUNGAL DISEASES,Northern anthracnose,northern anthracnose of clover,Aureobasidium caulivorum,Red Clover,KABACA
+Diseases with Insect Vectors,Black stain root disease,black stain root disease of conifers,Grosmannia wageneri,Conifer,LEPGWA
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of parsley,Leveillula lanuginosa,Carrot,LEVELA
+FUNGI,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Alfalfa,LEVETA
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Carrot,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Chickpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Hemp,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Jerusalem Cherry,LEVETA
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Lentil,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Onion and Garlic,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Passionfruit,LEVETA
+FUNGAL AND RELATED DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Pepper,LEVETA
+VIRAL AND VIROID DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Pigeonpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cotton,Leveillula taurica,Spinach,LEVETA
+FUNGI,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Alfalfa,LEVETA
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Carrot,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Chickpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Hemp,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Jerusalem Cherry,LEVETA
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Lentil,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Onion and Garlic,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Passionfruit,LEVETA
+FUNGAL AND RELATED DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Pepper,LEVETA
+VIRAL AND VIROID DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Pigeonpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of eggplant,Leveillula taurica,Spinach,LEVETA
+FUNGI,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Alfalfa,LEVETA
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Carrot,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Chickpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Hemp,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Jerusalem Cherry,LEVETA
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Lentil,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Onion and Garlic,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Passionfruit,LEVETA
+FUNGAL AND RELATED DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Pepper,LEVETA
+VIRAL AND VIROID DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Pigeonpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of pepper,Leveillula taurica,Spinach,LEVETA
+FUNGI,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Alfalfa,LEVETA
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Carrot,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Chickpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Hemp,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Jerusalem Cherry,LEVETA
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Lentil,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Onion and Garlic,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Passionfruit,LEVETA
+FUNGAL AND RELATED DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Pepper,LEVETA
+VIRAL AND VIROID DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Pigeonpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of tomato,Leveillula taurica,Spinach,LEVETA
+PARASITIC SEED PLANTS,Dieback,Dieback of tea,Leptothyrium theae,Tea,LPTYTH
+FUNGAL AND OOMYCETE DISEASES,Stem rot,stem rot of rice,Nakataea oryzae,Rice,MAGNSA
+PARASITIC SEED PLANTS,Horse-hair blight,horse-hair blight of rubber,Marasmius crinisequi,Tea,MARACR
+PARASITIC SEED PLANTS,Horse-hair blight,horse-hair blight of tea,Marasmius crinisequi,Tea,MARACR
+FUNGAL DISEASES,Lethal bole rot,lethal bole rot of coconut,Marasmiellus cocophilus,Coconut Palm,MARLCO
+FUNGAL AND OOMYCETE DISEASES,Anthracnose,anthracnose of lettuce,Microdochium panattonianum,Lettuce,MARSPA
+FUNGI AND OOMYCETES,Bitter rot,bitter rot of grapevine,Greeneria uvicola,Grape,MELCFU
+FUNGAL DISEASES,Brown rot,brown rot of apple,Monilinia fructicola,Almond,MONIFC
+FUNGAL DISEASES,Brown rot,brown rot of stone fruits,Monilinia fructicola,Almond,MONIFC
+FUNGAL DISEASES,Brown rot,american brown rot of stone fruits,Monilinia fructicola,Almond,MONIFC
+FUNGAL DISEASES,American brown rot,american brown rot of stone fruits,Monilinia fructicola,Apple,MONIFC
+FUNGAL DISEASES,European brown rot,european brown rot of stonefruit,Monilinia laxa,Apple,MONILA
+FUNGAL DISEASES,Cottonball,cottonball disease of cranberry,Monilinia oxycocci,Cranberry,MONIOX
+FUNGAL DISEASES,Leaf spot,leaf spot of papaya,Mycosphaerella caricae,Papaya,MYCOCC
+FUNGAL DISEASES,Leaf spot,leaf spot of cotton,Mycosphaerella gossypina,Cotton,MYCOGO
+FUNGAL DISEASES,Pasmo,Pasmo disease of flax,Mycosphaerella linicola,Flax,MYCOLN
+UNDETERMINED ETIOLOGY,Speckle,speckle disease of banana,Mycosphaerella musae,Banana and Plantain,MYCOMS
+FUNGAL AND OOMYCETE DISEASES,Yellow leaf blight,yellow leaf blight of maize,Didymella maydis,Corn (syn. Maize),MYCOZM
+FUNGAL AND OOMYCETE DISEASES,Floury leaf spot,floury leaf spot of bean,Ramularia phaseoli,Bean,MYCVPH
+FUNGAL DISEASES,Powdery mildew,powdery mildew of heather,Oidium ericinum,Azalea,OIDIER
+FUNGAL DISEASES,Powdery mildew,powdery mildew of heather,Oidium ericinum,Rhododendron,OIDIER
+FUNGAL DISEASES,Powdery mildew,powdery mildew of mango,Oidium mangiferae,Mango,OIDIMA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of citrus,Oidium tingitaninum,Citrus,OIDITI
+FUNGAL AND OOMYCETE DISEASES,Downy mildew,downy mildew of onion,Peronospora destructor,Onion and Garlic,PERODE
+FUNGAL DISEASES,Downy mildew,downy mildew of carnation,Peronospora dianthi,Carnation,PERODI
+FUNGAL and OOMYCETE DISEASES,Downy mildew,downy mildew of Chenopodiaceae,Peronospora farinosa,Beet,PEROFA
+FUNGAL DISEASES,Downy mildew,downy mildew of soybean,Peronospora manshurica,Soybean,PEROMA
+FUNGAL AND RELATED DISEASES,Downy mildew,downy mildew of tobacco,Peronospora hyoscyami,Pepper,PEROTA
+OOMYCETES,Downy mildew,downy mildew of clover,Peronospora trifoliorum,Alfalfa,PEROTR
+FUNGAL DISEASES,Downy mildew,downy mildew of clover,Peronospora trifoliorum,Red Clover,PEROTR
+OOMYCETES,Downy mildew,downy mildew of lucerne,Peronospora trifoliorum,Alfalfa,PEROTR
+FUNGAL DISEASES,Downy mildew,downy mildew of lucerne,Peronospora trifoliorum,Red Clover,PEROTR
+OOMYCETES,Downy mildew,downy mildew of legumes,Peronospora viciae,Alfalfa,PEROVI
+VIRAL & VIROID DISEASES,Downy mildew,downy mildew of legumes,Peronospora viciae,Lentil,PEROVI
+OOMYCETES,Downy mildew,downy mildew of vetch,Peronospora viciae,Alfalfa,PEROVI
+VIRAL & VIROID DISEASES,Downy mildew,downy mildew of vetch,Peronospora viciae,Lentil,PEROVI
+UNDETERMINED ETIOLOGY,Leaf spot,leaf spot of eucalyptus,Pestalotiopsis disseminata,Banana and Plantain,PESTDI
+FUNGAL AND OOMYCETE DISEASES,Angular leaf spot,angular leaf spot of bean,Pseudocercospora griseola,Bean,PHAIGR
+Foliage Diseases,Swiss needle cast,swiss needle cast of fir,Nothophaeocryptopus gaeumannii,Conifer,PHARGA
+FUNGAL DISEASES,Brown stem rot,brown stem rot of soybean,Cadophora gregata,Soybean,PHIAGR
+FUNGAL DISEASES,Root rot,texas root rot of bean,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of bean,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of bean,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of cotton,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of cotton,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of cotton,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of grapevine,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of grapevine,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of grapevine,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of alfalfa,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of alfalfa,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,texas root rot of alfalfa,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,root rot of soybean,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,root rot of soybean,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,root rot of soybean,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,root rot of conifers,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,root rot of conifers,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,root rot of conifers,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Rust,rust of rose,Phragmidium mucronatum,Rose,PHRAMU
+FUNGI,Crown wart,Crown wart of lucerne,Physoderma alfalfae,Alfalfa,PHYDAL
+FUNGAL DISEASES,Leaf gall,leaf gall of clover,Physoderma trifolii,Red Clover,PHYDTR
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hardwood trees,Phyllactinia guttata,Azalea,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hardwood trees,Phyllactinia guttata,European Hazelnut,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hardwood trees,Phyllactinia guttata,Rhododendron,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hardwood trees,Phyllactinia guttata,Sycamore,PHYLGU
+FUNGAL DISEASES,Boll rot,boll rot of cotton,Lasiodiplodia theobromae,Cotton,PHYORH
+FUNGAL DISEASES,Stem-end rot,stem-end rot of mango,Lasiodiplodia theobromae,Papaya,PHYORH
+FUNGAL DISEASES,Dieback,dieback of citrus,Lasiodiplodia theobromae,Mango,PHYORH
+BACTERIAL DISEASES,Dieback,dieback of citrus,Lasiodiplodia theobromae,Poinsettia,PHYORH
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Tar spot,common tar spot of grasses,Phyllachora graminis,Wheat,PHYRGR
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Tar spot,tar spot of maize,Phyllachora graminis,Wheat,PHYRGR
+UNDETERMINED ETIOLOGY,Black cross,black cross disease of banana,Phyllachora musicola,Banana and Plantain,PHYRMU
+MISCELLANEOUS DISEASES AND DISORDERS,Leaf spot,leaf spot of coffee,Phyllosticta coffeicola,Coffee,PHYSCO
+FUNGAL DISEASES,Black root rot,black root rot of hop,Phytophthora citricola,Hop,PHYTCI
+OOMYCETE DISEASES,Root rot,root rot of safflower,Phytophthora drechsleri,Cucurbits,PHYTDR
+OOMYCETE DISEASES,Late blight,late blight of potato,Phytophthora infestans,Bedding Plants,PHYTIN
+FUNGAL DISEASES,Late blight,late blight of potato,Phytophthora infestans,Potato,PHYTIN
+OOMYCETE DISEASES,Late blight,late blight of tomato,Phytophthora infestans,Bedding Plants,PHYTIN
+FUNGAL DISEASES,Late blight,late blight of tomato,Phytophthora infestans,Potato,PHYTIN
+FUNGAL DISEASES,Root rot,root rot of crucifers,Phytophthora megasperma,Rapeseed = Canola,PHYTME
+FUNGAL DISEASES,Root rot,root rot of lucerne,Phytophthora megasperma,Rapeseed = Canola,PHYTME
+FUNGAL and OOMYCETE DISEASES,Downy mildew,downy mildew of carrot,Plasmopara crustosa,Carrot,PLASCR
+FUNGAL and OOMYCETE DISEASES,Downy mildew,downy mildew of umbellifers,Plasmopara crustosa,Carrot,PLASCR
+FUNGAL DISEASES,Downy mildew,downy mildew of sunflower,Plasmopara halstedii,Cineraria,PLASHA
+FUNGAL and OOMYCETE DISEASES,Downy mildew,downy mildew of sunflower,Plasmopara halstedii,Sunflower and Jerusalem Artichoke,PLASHA
+FUNGI AND OOMYCETES,Downy mildew,downy mildew of grapevine,Plasmopara viticola,Grape,PLASVI
+FUNGAL DISEASES,Purple spot,purple spot of asparagus,Stemphylium vesicarium,Asparagus,PLEOAL
+FUNGAL DISEASES,Skin spot,skin spot of potato,Polyscytalum pustulans,Potato,PLSCPU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cherry,Podosphaera clandestina,Peach and Nectarine,PODOCL
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hawthorn,Podosphaera clandestina,Peach and Nectarine,PODOCL
+FUNGAL DISEASES,Powdery mildew,powdery mildew of quince,Podosphaera clandestina,Peach and Nectarine,PODOCL
+FUNGAL DISEASES,Powdery mildew,powdery mildew of apple,Podosphaera leucotricha,Apple,PODOLE
+FUNGAL DISEASES,Powdery mildew,powdery mildew of apple,Podosphaera leucotricha,Peach and Nectarine,PODOLE
+FUNGAL DISEASES,Powdery mildew,powdery mildew of apricot,Podosphaera tridactyla,Almond,PODOTR
+FUNGAL DISEASES,Powdery mildew,powdery mildew of plum,Podosphaera tridactyla,Almond,PODOTR
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cherry,Podosphaera tridactyla,Almond,PODOTR
+FUNGAL AND OOMYCETE DISEASES,Philippine downy mildew,philippine downy mildew of maize,Peronosclerospora philippinensis,Corn (syn. Maize),PRSCPH
+BACTERIAL DISEASES,Bacterial leaf blight,bacterial leaf blight of maize,Acidovorax avenae,Corn (syn. Maize),PSDMAV
+BACTERIAL DISEASES,Bacterial leaf blight,bacterial leaf blight of maize,Acidovorax avenae,Sorghum,PSDMAV
+BACTERIAL DISEASES,Sour skin,Sour skin of onion,Burkholderia cepacia,Onion and Garlic,PSDMCE
+VIRUS DISEASES,Bacterial blight,bacterial blight of endive,Pseudomonas cichorii,Foliage Plants (House Plants),PSDMCI
+BACTERIAL DISEASES,Varnish spot,varnish spot of lettuce,Pseudomonas cichorii,Lettuce,PSDMCI
+VIRUS DISEASES,Bacterial blight,bacterial blight of celery,Pseudomonas cichorii,Foliage Plants (House Plants),PSDMCI
+BACTERIAL DISEASES,Pink eye,Pink eye of potato,Pseudomonas fluorescens,Potato,PSDMFL
+BACTERIAL DISEASES,Mottled stripe,mottled stripe of sugarcane,Pseudomonas rubrisubalbicans,Sugarcane,PSDMRU
+BACTERIAL DISEASES,Leaf scorch,leaf scorch of elm,Xylella fastidiosa,Sycamore,XYLEFA
+BACTERIAL DISEASES,Leaf scorch,leaf scorch of oak,Xylella fastidiosa,Sycamore,XYLEFA
+BACTERIAL DISEASES,Leaf scorch,leaf scorch of plane,Xylella fastidiosa,Sycamore,XYLEFA
+BACTERIAL DISEASES,Leaf scorch,leaf scorch of mulberry,Xylella fastidiosa,Sycamore,XYLEFA
+BACTERIAL DISEASES,Leaf scorch,Leaf scorch of maple,Xylella fastidiosa,Sycamore,XYLEFA
+FUNGAL DISEASES,Downy mildew,downy mildew of hemp,Pseudoperonospora cannabina,Hemp,PSPECA
+OOMYCETE DISEASES,Downy mildew,downy mildew of cucurbits,Pseudoperonospora cubensis,Cucurbits,PSPECU
+FUNGAL DISEASES,Downy mildew,downy mildew of hop,Pseudoperonospora humuli,Hop,PSPEHU
+FUNGAL DISEASES,Downy mildew,downy mildew of rose,Peronospora sparsa,Rose,PSPESR
+FUNGI AND OOMYCETES,Angular leaf scorch,angular leaf scorch of grapevine,Pseudopezicula tetraspora,Grape,PSPUTE
+FUNGAL DISEASES,Common leaf spot,common leaf spot of clover,Pseudopeziza trifolii,Red Clover,PSPZTI
+FUNGAL AND OOMYCETE DISEASES,Rust,rust of garlic,Puccinia allii,Onion and Garlic,PUCCAL
+FUNGAL AND OOMYCETE DISEASES,Rust,rust of onion,Puccinia allii,Onion and Garlic,PUCCAL
+FUNGAL DISEASES,Rust,rust of asparagus,Puccinia asparagi,Asparagus,PUCCAS
+FUNGAL and OOMYCETE DISEASES,Rust,rust of nut sedge,Puccinia canaliculata,Sunflower and Jerusalem Artichoke,PUCCCN
+FUNGAL and OOMYCETE DISEASES,Rust,rust of Cyperus esculentus,Puccinia canaliculata,Sunflower and Jerusalem Artichoke,PUCCCN
+FUNGAL DISEASES,Crown rust,crown rust of grasses,Puccinia coronata,Barley,PUCCCO
+FUNGAL DISEASES,Stem rust,black stem rust of cereals,Puccinia graminis,Barley,PUCCGR
+FUNGAL DISEASES,Stem rust,black stem rust of cereals,Puccinia graminis,Rye,PUCCGR
+FUNGAL DISEASES,"Rust, stem","rust, stem: cereals",Puccinia graminis,Oats,PUCCGR
+FUNGAL DISEASES,Leaf rust,dwarf leaf rust of barley,Puccinia hordei,Barley,PUCCHD
+FUNGAL DISEASES,Leaf rust,leaf rust of barley,Puccinia hordei,Barley,PUCCHD
+FUNGAL and OOMYCETE DISEASES,Rust,rust of sunflower,Puccinia helianthi,Sunflower and Jerusalem Artichoke,PUCCHE
+FUNGAL DISEASES,White rust,white rust of chrysanthemum,Puccinia horiana,Chrysanthemum,PUCCHN
+FUNGAL DISEASES,Rust,rust of mint,Puccinia menthae,Mint,PUCCME
+FUNGAL DISEASES,Common rust,common rust of potato,Puccinia pittieriana,Potato,PUCCPT
+FUNGAL DISEASES,Rust,leaf rust of sorghum,Puccinia purpurea,Sorghum,PUCCPU
+FUNGAL AND OOMYCETE DISEASES,Southern rust,southern rust of maize,Puccinia polysora,Corn (syn. Maize),PUCCPY
+FUNGAL DISEASES,Rust,rust of pelargonium,Puccinia pelargonii-zonalis,Geranium,PUCCPZ
+FUNGAL AND OOMYCETE DISEASES,Common rust,common rust of maize,Puccinia sorghi,Corn (syn. Maize),PUCCSO
+FUNGAL DISEASES,Rust,rust of eggplant,Puccinia substriata,Pearl Millet,PUCCSU
+FUNGAL DISEASES,Rust,rust of leaf millet,Puccinia substriata,Pearl Millet,PUCCSU
+FUNGAL DISEASES,Rust,rust of pearl millet,Puccinia substriata,Pearl Millet,PUCCSU
+FUNGAL DISEASES,Rust,rust of fuchsia,Pucciniastrum epilobii,Fuchsia,PUCIEP
+FUNGAL DISEASES,Rust,needle rust of hemlock,Pucciniastrum hydrangeae,Common House or Florist's Hydrangea,PUCIHY
+FUNGAL DISEASES,Rust,rust of hydrangea,Pucciniastrum hydrangeae,Common House or Florist's Hydrangea,PUCIHY
+FUNGAL AND OOMYCETE DISEASES,Sheath blotch,sheath blotch of rice,Pyrenochaeta oryzae,Rice,PYREOR
+FUNGAL DISEASES,Pink root,pink root of onion,Setophoma terrestris,Cucurbits,PYRETE
+FUNGAL AND OOMYCETE DISEASES,Pink root,pink root of onion,Setophoma terrestris,Onion and Garlic,PYRETE
+UNDETERMINED ETIOLOGY,Pitting,pitting disease of banana,Pyricularia grisea,Banana and Plantain,PYRIGR
+FUNGAL AND OOMYCETE DISEASES,Blast,blast of rice,Pyricularia oryzae,Rice,PYRIOR
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Blast,blast of rice,Pyricularia oryzae,Wheat,PYRIOR
+FUNGAL DISEASES,Net blotch,net blotch of barley,Pyrenophora teres,Barley,PYRNTE
+FUNGAL DISEASES,Tan spot,tan spot of cereals,Pyrenophora tritici-repentis,Barley,PYRNTR
+FUNGAL DISEASES,Tan spot,tan spot of wheat,Pyrenophora tritici-repentis,Barley,PYRNTR
+FUNGAL DISEASES,Light leaf spot,light leaf spot of rape,Pyrenopeziza brassicae,Crucifers,PYRPBR
+FUNGAL DISEASES,Leak,cottony leak of cucurbits,Pythium aphanidermatum,Potato,PYTHAP
+FUNGAL AND OOMYCETE DISEASES,Damping-off,damping-off,Pythium aphanidermatum,Citrus,PYTHAP
+OOMYCETE DISEASES,Damping-off,damping-off,Pythium aphanidermatum,Cucurbits,PYTHAP
+FUNGAL DISEASES,Damping-off,damping-off,Pythium aphanidermatum,Hemp,PYTHAP
+VIRAL AND VIROID DISEASES,Damping-off,damping-off,Pythium aphanidermatum,Pigeonpea,PYTHAP
+FUNGAL DISEASES,Damping-off,damping-off,Pythium aphanidermatum,Spinach,PYTHAP
+FUNGAL DISEASES,Foot rot,foot rot,Pythium aphanidermatum,Papaya,PYTHAP
+FUNGAL DISEASES,Root rot,root rot of sugarbeet,Pythium aphanidermatum,Papaya,PYTHAP
+BACTERIAL DISEASES,Root rot,root rot of sugarbeet,Pythium aphanidermatum,Poinsettia,PYTHAP
+FUNGAL AND OOMYCETE DISEASES,Damping-off,damping-off of seedlings,Pythium debaryanum,Chickpea,PYTHDE
+FUNGAL AND OOMYCETE DISEASES,Damping-off,damping-off of seedlings,Pythium debaryanum,Citrus,PYTHDE
+OOMYCETE DISEASES,Damping-off,Damping-off of beet,Pythium irregulare,Cucurbits,PYTHIR
+FUNGAL DISEASES,Snow rot,snow rot of cereals,Pythium iwayamai,Barley,PYTHIW
+VIRAL AND VIROID DISEASES,Damping-off,damping-off,Pythium splendens,Pigeonpea,PYTHSL
+FUNGAL DISEASES,Root rot,root rot,Pythium splendens,Mango,PYTHSL
+FUNGAL AND OOMYCETE DISEASES,Damping-off,damping-off of seedlings,Pythium ultimum,Citrus,PYTHUL
+OOMYCETE DISEASES,Damping-off,damping-off of seedlings,Pythium ultimum,Cucurbits,PYTHUL
+FUNGAL DISEASES,Root rot,root rot,Pythium ultimum,Papaya,PYTHUL
+FUNGAL DISEASES,Stem rot,stem rot of seedlings,Pythium ultimum,Papaya,PYTHUL
+FUNGAL AND OOMYCETE DISEASES,Damping-off,damping-off,Phytopythium vexans,Citrus,PYTHVE
+FUNGAL DISEASES,Sooty stripe,sooty stripe of sorghum,Ramulispora sorghi,Sorghum,RAMLSO
+FUNGAL and OOMYCETE DISEASES,Crater rot,crater rot of carrot,Rhizoctonia carotae,Carrot,RHIZCA
+PARASITIC SEED PLANTS,Collar rot,collar rot,Rhizoctonia solani,Tea,RHIZSO
+FUNGAL and OOMYCETE DISEASES,Damping-off,damping-off of seedlings,Rhizoctonia solani,Carrot,RHIZSO
+FUNGAL AND OOMYCETE DISEASES,Damping-off,damping-off of seedlings,Rhizoctonia solani,Citrus,RHIZSO
+FUNGAL DISEASES,Damping-off,damping-off of seedlings,Rhizoctonia solani,Coconut Palm,RHIZSO
+FUNGAL DISEASES,Damping-off,damping-off of seedlings,Rhizoctonia solani,Cucurbits,RHIZSO
+FUNGAL DISEASES,Damping-off,damping-off of seedlings,Rhizoctonia solani,Hemp,RHIZSO
+FUNGAL DISEASES,Damping-off,damping-off of seedlings,Rhizoctonia solani,Kalanchoë,RHIZSO
+FUNGAL DISEASES,Damping-off,damping-off of seedlings,Rhizoctonia solani,Mustard,RHIZSO
+FUNGAL DISEASES,Damping-off,damping-off of seedlings,Rhizoctonia solani,Passionfruit,RHIZSO
+FUNGAL DISEASES,Damping-off,damping-off of seedlings,Rhizoctonia solani,Spinach,RHIZSO
+FUNGAL and OOMYCETE DISEASES,Canker,stem canker,Rhizoctonia solani,Carrot,RHIZSO
+FUNGAL AND OOMYCETE DISEASES,Leaf scald,leaf scald of rice,Microdochium albescens,Rice,RHYNOR
+FUNGAL DISEASES,Scald,scald of cereals,Rhynchosporium secalis,Barley,RHYNSE
+FUNGAL DISEASES,Scald,scald of cereals,Rhynchosporium secalis,Rye,RHYNSE
+PARASITIC SEED PLANTS,White root rot,white root rot,Rigidoporus microporus,Tea,RIGILI
+FUNGAL AND OOMYCETE DISEASES,White root rot,white root rot of apple,Dematophora necatrix,Citrus,ROSLNE
+FUNGAL AND OOMYCETE DISEASES,White root rot,white root rot of grapevine,Dematophora necatrix,Citrus,ROSLNE
+FUNGAL AND OOMYCETE DISEASES,White root rot,white root rot of tea,Dematophora necatrix,Citrus,ROSLNE
+FUNGAL AND OOMYCETE DISEASES,White root rot,western white root rot of apple,Dematophora necatrix,Citrus,ROSLNE
+FUNGAL AND OOMYCETE DISEASES,Fly speck,fly speck of apple,Schizothyrium pomi,Citrus,SCHIPO
+FUNGAL AND OOMYCETE DISEASES,Fly speck,fly speck of citrus,Schizothyrium pomi,Citrus,SCHIPO
+FUNGAL AND OOMYCETE DISEASES,Fly speck,fly speck of grape,Schizothyrium pomi,Citrus,SCHIPO
+FUNGAL DISEASES,Greasy blotch,greasy blotch of carnation,Schizothyrium pomi,Carnation,SCHIPO
+FUNGAL and OOMYCETE DISEASES,Cottony rot,cottony rot,Sclerotinia sclerotiorum,Carrot,SCLESC
+FUNGAL DISEASES,Watery soft rot,watery soft rot,Sclerotinia sclerotiorum,Asparagus,SCLESC
+FUNGAL AND OOMYCETE DISEASES,Small sclerotial neck rot,small sclerotial neck rot of onion,Botryotinia squamosa,Onion and Garlic,SCLESQ
+VIRAL & VIROID DISEASES,Collar rot,collar rot,Athelia rolfsii,Lentil,SCLORO
+VIRAL AND VIROID DISEASES,Collar rot,collar rot,Athelia rolfsii,Pigeonpea,SCLORO
+FUNGAL DISEASES,Sclerotial blight,sclerotial blight,Athelia rolfsii,Sweetpotato,SCLORO
+PARASITIC SEED PLANTS,Sclerotial blight,sclerotial blight,Athelia rolfsii,Tea,SCLORO
+FUNGAL DISEASES,Seedling blight,seedling blight,Athelia rolfsii,Avocado,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Apple,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Barley,SCLORO
+FUNGAL AND OOMYCETE DISEASES,Southern blight,southern blight,Athelia rolfsii,Bean,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Bedding Plants,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Carnation,SCLORO
+FUNGAL and OOMYCETE DISEASES,Southern blight,southern blight,Athelia rolfsii,Carrot,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Chrysanthemum,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Common House or Florist's Hydrangea,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Crucifers,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Cucurbits,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Garden Dahlia,SCLORO
+FUNGAL AND OOMYCETE DISEASES,Southern blight,southern blight,Athelia rolfsii,Lettuce,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Mustard,SCLORO
+FUNGAL AND OOMYCETE DISEASES,Southern blight,southern blight,Athelia rolfsii,Onion and Garlic,SCLORO
+FUNGAL AND RELATED DISEASES,Southern blight,southern blight,Athelia rolfsii,Pepper,SCLORO
+FUNGAL DISEASES,Southern blight,southern blight,Athelia rolfsii,Red Clover,SCLORO
+FUNGAL AND OOMYCETE DISEASES,Crazy top,crazy top of maize,Sclerophthora macrospora,Corn (syn. Maize),SCPHMA
+FUNGAL DISEASES,Downy mildew,downy mildew of cereals,Sclerophthora macrospora,Oats,SCPHMA
+FUNGAL AND OOMYCETE DISEASES,Downy mildew,downy mildew of cereals,Sclerophthora macrospora,Rice,SCPHMA
+FUNGAL AND OOMYCETE DISEASES,Crazy top,crazy top of sorghum,Sclerophthora macrospora,Corn (syn. Maize),SCPHMA
+FUNGAL DISEASES,Downy mildew,downy mildew of sorghum,Sclerophthora macrospora,Oats,SCPHMA
+FUNGAL AND OOMYCETE DISEASES,Downy mildew,downy mildew of sorghum,Sclerophthora macrospora,Rice,SCPHMA
+FUNGAL DISEASES,Downy mildew,downy mildew of maize,Sclerophthora macrospora,Oats,SCPHMA
+FUNGAL AND OOMYCETE DISEASES,Downy mildew,downy mildew of maize,Sclerophthora macrospora,Rice,SCPHMA
+FUNGAL DISEASES,Downy mildew,downy mildew of pearl millet,Sclerophthora macrospora,Oats,SCPHMA
+FUNGAL AND OOMYCETE DISEASES,Downy mildew,downy mildew of pearl millet,Sclerophthora macrospora,Rice,SCPHMA
+FUNGAL DISEASES,Downy mildew,brown stripe downy mildew of maize,Sclerophthora rayssiae,Barley,SCPHRZ
+FUNGAL AND OOMYCETE DISEASES,Brown stripe downy mildew,brown stripe downy mildew of maize,Sclerophthora rayssiae,Corn (syn. Maize),SCPHRZ
+FUNGAL DISEASES,Halo spot,Halo spot of barley,Pseudoseptoria donacis,Barley,SELEDO
+FUNGAL DISEASES,Halo spot,Halo spot of barley,Pseudoseptoria donacis,Rye,SELEDO
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Halo spot,Halo spot of barley,Pseudoseptoria donacis,Wheat,SELEDO
+FUNGAL DISEASES,Halo spot,Halo spot of cereals,Pseudoseptoria donacis,Barley,SELEDO
+FUNGAL DISEASES,Halo spot,Halo spot of cereals,Pseudoseptoria donacis,Rye,SELEDO
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Halo spot,Halo spot of cereals,Pseudoseptoria donacis,Wheat,SELEDO
+FUNGAL DISEASES,Halo spot,Halo spot of grass,Pseudoseptoria donacis,Barley,SELEDO
+FUNGAL DISEASES,Halo spot,Halo spot of grass,Pseudoseptoria donacis,Rye,SELEDO
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Halo spot,Halo spot of grass,Pseudoseptoria donacis,Wheat,SELEDO
+FUNGAL DISEASES,Late blight,late blight of celery,Septoria apiicola,Celery,SEPTAP
+FUNGAL DISEASES,Late blight,late blight of celeriac,Septoria apiicola,Celery,SEPTAP
+FUNGAL DISEASES,Leaf blight,leaf blight of maize,Exserohilum turcicum,Sorghum,SETOTU
+FUNGAL DISEASES,Leaf blight,northern leaf blight of maize,Exserohilum turcicum,Sorghum,SETOTU
+FUNGAL DISEASES,Leaf blight,leaf blight of sorghum,Exserohilum turcicum,Sorghum,SETOTU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hop,Podosphaera macularis,Hop,SPHRMA
+FUNGAL AND OOMYCETE DISEASES,Head smut,head smut of maize,Sporisorium reilianum,Corn (syn. Maize),SPHTRE
+FUNGAL AND OOMYCETE DISEASES,Head smut,head smut of sorghum,Sporisorium reilianum,Corn (syn. Maize),SPHTRE
+FUNGAL DISEASES,Powdery scab,powdery scab of potato,Spongospora subterranea,Potato,SPONSU
+FUNGAL DISEASES,Leaf spot,grey leaf spot of Solanaceae,Stemphylium solani,Cotton,STEMSO
+FUNGAL DISEASES,Leaf spot,grey leaf spot of tomato,Stemphylium solani,Cotton,STEMSO
+FUNGAL DISEASES,Leaf spot,leaf spot of eggplant,Stemphylium solani,Cotton,STEMSO
+FUNGAL DISEASES,Silver leaf,silver leaf of plum,Chondrostereum purpureum,Almond,STERPU
+FUNGAL DISEASES,Silver leaf,silver leaf of plum,Chondrostereum purpureum,Apple,STERPU
+FUNGAL DISEASES,Silver leaf,silver leaf of plum,Chondrostereum purpureum,Blueberry,STERPU
+FUNGAL DISEASES,Silver leaf,silver leaf of plum,Chondrostereum purpureum,Peach and Nectarine,STERPU
+BACTERIAL DISEASES,Scab,common scab of potato,Streptomyces scabiei,Beet,STRESC
+BACTERIAL DISEASES,Scab,common scab of potato,Streptomyces scabiei,Carrot,STRESC
+BACTERIAL DISEASES,Common scab,common scab of potato,Streptomyces scabiei,Potato,STRESC
+BACTERIAL DISEASES,Scab,common scab of potato,Streptomyces scabiei,Rapeseed = Canola,STRESC
+BACTERIAL DISEASES,Scab,scab of potato,Streptomyces scabiei,Beet,STRESC
+BACTERIAL DISEASES,Scab,scab of potato,Streptomyces scabiei,Carrot,STRESC
+BACTERIAL DISEASES,Scab,scab of potato,Streptomyces scabiei,Rapeseed = Canola,STRESC
+FUNGAL DISEASES,Wart,wart disease of potato,Synchytrium endobioticum,Potato,SYNCEN
+FUNGAL DISEASES,Leaf curl,leaf curl of peach,Taphrina deformans,Almond,TAPHDE
+FUNGAL DISEASES,Leaf curl,leaf curl of peach,Taphrina deformans,Peach and Nectarine,TAPHDE
+FUNGAL AND OOMYCETE DISEASES,Kernel smut,kernel smut of rice,Tilletia barclayana,Rice,TILLBA
+FUNGAL DISEASES,Dwarf bunt,dwarf bunt of rye,Tilletia controversa,Barley,TILLCO
+FUNGAL DISEASES,Dwarf bunt,dwarf bunt of rye,Tilletia controversa,Rye,TILLCO
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Dwarf bunt,dwarf bunt of rye,Tilletia controversa,Wheat,TILLCO
+FUNGAL DISEASES,Dwarf bunt,dwarf bunt of wheat,Tilletia controversa,Barley,TILLCO
+FUNGAL DISEASES,Dwarf bunt,dwarf bunt of wheat,Tilletia controversa,Rye,TILLCO
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Dwarf bunt,dwarf bunt of wheat,Tilletia controversa,Wheat,TILLCO
+UNDETERMINED ETIOLOGY,Cigar-end,cigar-end disease of banana,Trachysphaera fructigena,Banana and Plantain,TRACFR
+FUNGAL DISEASES,Rust,rust of peach,Tranzschelia discolor,Anemone,TRANDI
+FUNGAL DISEASES,Rust,rust of peach,Tranzschelia discolor,Peach and Nectarine,TRANDI
+FUNGAL DISEASES,Rust,rust of stone fruit,Tranzschelia discolor,Anemone,TRANDI
+FUNGAL DISEASES,Rust,rust of stone fruit,Tranzschelia discolor,Peach and Nectarine,TRANDI
+FUNGAL DISEASES,Pink rot,pink rot of apple,Trichothecium roseum,Avocado,TRITRO
+FUNGAL DISEASES,Pink rot,pink rot of apple,Trichothecium roseum,Hemp,TRITRO
+FUNGI AND OOMYCETES,Powdery mildew,powdery mildew of grapevine,Erysiphe necator,Grape,UNCINE
+VIRAL AND VIROID DISEASES,Rust,rust of pigeon pea,Uredo cajani,Pigeonpea,UREDCA
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Flag smut,flag smut of grasses,Urocystis agropyri,Wheat,UROCAG
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Flag smut,flag smut of wheat,Urocystis agropyri,Wheat,UROCAG
+FUNGAL AND OOMYCETE DISEASES,Rust,rust of bean,Uromyces appendiculatus,Bean,UROMAP
+FUNGAL AND OOMYCETE DISEASES,Rust,brown rust of bean,Uromyces appendiculatus,Bean,UROMAP
+FUNGAL AND OOMYCETE DISEASES,Rust,rust of chick pea,Uromyces ciceris-arietini,Chickpea,UROMCA
+FUNGAL DISEASES,Rust,rust of carnation,Uromyces dianthi,Carnation,UROMDI
+FUNGAL DISEASES,Rust,rust of white clover,Uromyces trifolii-repentis,Red Clover,UROMRE
+FUNGI,Rust,rust of alfalfa,Uromyces striatus,Alfalfa,UROMST
+FUNGI,Rust,rust of clover,Uromyces striatus,Alfalfa,UROMST
+FUNGI,Rust,rust of lucerne,Uromyces striatus,Alfalfa,UROMST
+FUNGAL DISEASES,Rust,rust of pistachio,Pileolaria terebinthi,Pistachio,UROMTE
+FUNGAL DISEASES,Rust,rust of white clover,Uromyces trifolii,Red Clover,UROMTR
+VIRAL & VIROID DISEASES,Rust,rust: bean,Uromyces viciae-fabae,Lentil,UROMVF
+VIRAL & VIROID DISEASES,Rust,rust of broad bean,Uromyces viciae-fabae,Lentil,UROMVF
+VIRAL & VIROID DISEASES,Rust,rust of lentil,Uromyces viciae-fabae,Lentil,UROMVF
+VIRAL & VIROID DISEASES,Rust,rust of vetch,Uromyces viciae-fabae,Lentil,UROMVF
+FUNGAL DISEASES,Covered smut,covered smut of barley,Ustilago hordei,Barley,USTIHO
+FUNGAL AND OOMYCETE DISEASES,Common smut,common smut of maize,Ustilago maydis,Corn (syn. Maize),USTIMA
+FUNGAL DISEASES,Loose smut,loose smut of wheat,Ustilago tritici,Barley,USTINT
+FUNGAL DISEASES,Loose smut,loose smut of wheat,Ustilago tritici,Rye,USTINT
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Loose smut,loose smut of wheat,Ustilago tritici,Wheat,USTINT
+FUNGAL AND OOMYCETE DISEASES,False smut,false smut of maize,Ustilaginoidea virens,Corn (syn. Maize),USTNVI
+FUNGAL AND OOMYCETE DISEASES,False smut,false smut of rice,Ustilaginoidea virens,Corn (syn. Maize),USTNVI
+FUNGAL DISEASES,Cytospora canker,cytospora canker of peach,Cytospora leucostoma,Peach and Nectarine,VALSLE
+FUNGAL DISEASES,Scab,scab of stone fruit,Venturia carpophila,Almond,VENTCA
+FUNGAL DISEASES,Scab,scab of stone fruit,Venturia carpophila,Peach and Nectarine,VENTCA
+FUNGAL DISEASES,Scab,scab of almond,Venturia carpophila,Almond,VENTCA
+FUNGAL DISEASES,Scab,scab of almond,Venturia carpophila,Peach and Nectarine,VENTCA
+FUNGAL DISEASES,Scab,scab of apricot,Venturia carpophila,Almond,VENTCA
+FUNGAL DISEASES,Scab,scab of apricot,Venturia carpophila,Peach and Nectarine,VENTCA
+FUNGAL DISEASES,Scab,scab of peach,Venturia carpophila,Almond,VENTCA
+FUNGAL DISEASES,Scab,scab of peach,Venturia carpophila,Peach and Nectarine,VENTCA
+FUNGAL DISEASES,Scab,scab of plum,Venturia carpophila,Almond,VENTCA
+FUNGAL DISEASES,Scab,scab of plum,Venturia carpophila,Peach and Nectarine,VENTCA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Almond,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Avocado,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Barley,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Bedding Plants,VERTDA
+FUNGAL and OOMYCETE DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Beet,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Caneberries,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Geranium,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Hop,VERTDA
+FUNGAL AND OOMYCETE DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Lettuce,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Papaya,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Peach and Nectarine,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Pistachio,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Safflower,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Spinach,VERTDA
+FUNGAL and OOMYCETE DISEASES,Verticillium wilt,verticillium wilt,Verticillium dahliae,Sunflower and Jerusalem Artichoke,VERTDA
+BACTERIAL DISEASES,Leaf scald,Leaf scald of sugarcane,Xanthomonas albilineans,Sugarcane,XANTAB
+BACTERIA,Bacterial blight,bacterial blight of grapevine,Xylophilus ampelinus,Grape,XANTAM
+BACTERIAL DISEASES,Angular leaf spot,angular leaf spot of strawberry,Xanthomonas fragariae,Strawberry,XANTFR
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cineraria,Sphaerotheca fusca,Cineraria,SPHRFS
+FUNGAL DISEASES,Tar spot,tar spot of avocado,Phyllachora gratissima,Avocado,PHYRGT
+FUNGAL AND OOMYCETE DISEASES,Phaeosphaeria leaf spot,phaeosphaeria leaf spot of maize,Phaeosphaeria maydis,Corn (syn. Maize),PHSPMA
+FUNGAL AND OOMYCETE DISEASES,Late Wilt,late wilt of maize,Magnaporthiopsis maydis,Corn (syn. Maize),CPHUMA
+FUNGAL DISEASES,Wilt,wilt disease of sugarcane,Fusarium sacchari,Sugarcane,CPHUSA
+UNDETERMINED ETIOLOGY,Malayan leaf spot,malayan leaf spot of banana,Haplobasidion musae,Banana and Plantain,HAPBMU
+FUNGAL DISEASES,Root rot,Root rot of asparagus,Helicobasidium brebissonii,Caneberries,HLCBBR
+FUNGI,Violet root rot,Violet root rot of apple,Helicobasidium brebissonii,Alfalfa,HLCBBR
+FUNGAL DISEASES,Root rot,Violet root rot of apple,Helicobasidium brebissonii,Caneberries,HLCBBR
+FUNGAL DISEASES,Violet root rot,Violet root rot of apple,Helicobasidium brebissonii,Elm,HLCBBR
+FUNGAL DISEASES,Violet root rot,Violet root rot of apple,Helicobasidium brebissonii,Red Clover,HLCBBR
+FUNGI,Violet root rot,Violet root rot of sweet potato,Helicobasidium brebissonii,Alfalfa,HLCBBR
+FUNGAL DISEASES,Root rot,Violet root rot of sweet potato,Helicobasidium brebissonii,Caneberries,HLCBBR
+FUNGAL DISEASES,Violet root rot,Violet root rot of sweet potato,Helicobasidium brebissonii,Elm,HLCBBR
+FUNGAL DISEASES,Violet root rot,Violet root rot of sweet potato,Helicobasidium brebissonii,Red Clover,HLCBBR
+FUNGI,Violet root rot,Violet root rot of clover,Helicobasidium brebissonii,Alfalfa,HLCBBR
+FUNGAL DISEASES,Root rot,Violet root rot of clover,Helicobasidium brebissonii,Caneberries,HLCBBR
+FUNGAL DISEASES,Violet root rot,Violet root rot of clover,Helicobasidium brebissonii,Elm,HLCBBR
+FUNGAL DISEASES,Violet root rot,Violet root rot of clover,Helicobasidium brebissonii,Red Clover,HLCBBR
+FUNGAL DISEASES,Violet root rot,violet root rot of apple,Helicobasidium mompa,Sweetpotato,HLCBMO
+FUNGAL DISEASES,Violet root rot,violet root rot of mulberry,Helicobasidium mompa,Sweetpotato,HLCBMO
+FUNGAL DISEASES,Violet root rot,violet root rot of carrot,Helicobasidium mompa,Sweetpotato,HLCBMO
+FUNGI,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Alfalfa,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Beet,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Bellflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Carnation,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Corn (syn. Maize),MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Cotton,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Hemp,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Onion and Garlic,MCPHPH
+FUNGAL AND RELATED DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Pepper,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Potato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Safflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Sorghum,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Soybean,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Strawberry,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Sunflower and Jerusalem Artichoke,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Sweetpotato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of maize,Macrophomina phaseolina,Tobacco,MCPHPH
+FUNGI,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Alfalfa,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Beet,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Bellflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Carnation,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Corn (syn. Maize),MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Cotton,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Hemp,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Onion and Garlic,MCPHPH
+FUNGAL AND RELATED DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Pepper,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Potato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Safflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Sorghum,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Soybean,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Strawberry,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Sunflower and Jerusalem Artichoke,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Sweetpotato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sorghum,Macrophomina phaseolina,Tobacco,MCPHPH
+FUNGI,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Alfalfa,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Beet,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Bellflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Carnation,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Corn (syn. Maize),MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Cotton,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Hemp,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Onion and Garlic,MCPHPH
+FUNGAL AND RELATED DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Pepper,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Potato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Safflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Sorghum,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Soybean,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Strawberry,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Sunflower and Jerusalem Artichoke,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Sweetpotato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of soybean,Macrophomina phaseolina,Tobacco,MCPHPH
+FUNGAL DISEASES,Damping-off,damping-off of cotton,Macrophomina phaseolina,Hemp,MCPHPH
+FUNGAL DISEASES,Root rot,root rot of cotton,Macrophomina phaseolina,Rapeseed = Canola,MCPHPH
+FUNGI,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Alfalfa,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Beet,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Bellflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Carnation,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Corn (syn. Maize),MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Cotton,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Hemp,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Onion and Garlic,MCPHPH
+FUNGAL AND RELATED DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Pepper,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Potato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Safflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Sorghum,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Soybean,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Strawberry,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Sunflower and Jerusalem Artichoke,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Sweetpotato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of tobacco,Macrophomina phaseolina,Tobacco,MCPHPH
+FUNGAL DISEASES,Root rot,black root rot of conifers,Macrophomina phaseolina,Rapeseed = Canola,MCPHPH
+FUNGAL DISEASES,Powdery mildew,powdery mildew of soybean,Erysiphe diffusa,Soybean,MCRSDI
+FUNGAL DISEASES,Scurf,scurf of sweet potato,Monilochaetes infuscans,Sweetpotato,MNLCIN
+FUNGAL AND OOMYCETE DISEASES,Sheath rot,sheath rot of rice,Sarocladium oryzae,Rice,SARMOR
+VIRAL & VIROID DISEASES,Wood decay,wood decay,Schizophyllum commune,Black Walnut,SCYZCO
+BACTERIAL DISEASES,Stubborn,stubborn disease of citrus,Spiroplasma citri,Citrus,SPIRCI
+BACTERIAL DISEASES,Bacterial soft rot,bacterial soft rot of tobacco,Erwinia chrysanthemi,Bedding Plants,ERWICH
+BACTERIAL DISEASES,Bacterial soft rot,bacterial soft rot of tobacco,Erwinia chrysanthemi,Carrot,ERWICH
+BACTERIAL DISEASES,Bacterial soft rot,bacterial soft rot of tobacco,Erwinia chrysanthemi,Cyclamen,ERWICH
+BACTERIAL DISEASES,Bacterial soft rot,bacterial soft rot of tobacco,Erwinia chrysanthemi,Kalanchoë,ERWICH
+BACTERIA AND PHYTOPLASMAS,Dwarf,Dwarf disease of lucerne,Xylella fastidiosa,Alfalfa,XYLEFA
+BACTERIA AND PHYTOPLASMAS,Dwarf,Dwarf disease of alfalfa,Xylella fastidiosa,Alfalfa,XYLEFA
+VIRAL and VIROID DISEASES,Enation,enation of peach,Peach enation virus,Peach and Nectarine,PEV000
+FUNGAL DISEASES,Wart,wart of potato,Synchytrium endobioticum,Potato,SYNCEN
+FUNGAL DISEASES,Wart,black wart of potato,Synchytrium endobioticum,Potato,SYNCEN
+FUNGAL DISEASES,Root rot,root rot of asparagus,Phytophthora megasperma,Rapeseed = Canola,PHYTME
+FUNGAL DISEASES,Downy mildew,downy mildew of wheat,Sclerophthora macrospora,Oats,SCPHMA
+FUNGAL AND OOMYCETE DISEASES,Downy mildew,downy mildew of wheat,Sclerophthora macrospora,Rice,SCPHMA
+VIRAL AND VIROID DISEASES,Fusarium wilt,fusarium wilt of pigeon pea,Fusarium udum,Pigeonpea,FUSAUD
+FUNGAL DISEASES,Phialophora wilt,phialophora wilt of carnation,Phialophora cinerescens,Carnation,PHIACI
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Almond,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Avocado,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Barley,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Bedding Plants,VERTDA
+FUNGAL and OOMYCETE DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Beet,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Caneberries,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Geranium,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Hop,VERTDA
+FUNGAL AND OOMYCETE DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Lettuce,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Papaya,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Peach and Nectarine,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Pistachio,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Safflower,VERTDA
+FUNGAL DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Spinach,VERTDA
+FUNGAL and OOMYCETE DISEASES,Verticillium wilt,verticillium wilt of cotton,Verticillium dahliae,Sunflower and Jerusalem Artichoke,VERTDA
+FUNGAL DISEASES,Ergot,ergot of sorghum,Claviceps africana,Sorghum,CLAVAF
+FUNGAL DISEASES,Eastern filbert blight,Eastern filbert blight,Anisogramma anomala,European Hazelnut,CRSPAN
+FUNGAL AND OOMYCETE DISEASES,Phomopsis stem-end rot,phomopsis stem-end rot,Diaporthe citri,Citrus,DIAPCI
+FUNGAL DISEASES,Viscid rot,viscid rot of blueberry,Diaporthe vaccinii,Cranberry,DIAPVA
+MISCELLANEOUS DISEASES AND DISORDERS,Coffee berry disease,coffee berry disease,Colletotrichum kahawae,Coffee,COLLKA
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose of citrus,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of citrus,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose of mango,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of mango,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose of onion,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of onion,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose of tomato,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of tomato,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose of yam,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of yam,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL AND OOMYCETE DISEASES,Botrytis rot of garlic,botrytis rot of garlic,Botrytis porri,Onion and Garlic,BOTTPO
+FUNGI AND OOMYCETES,Rotbrenner,rotbrenner disease of grapevine,Pseudopeziza tracheiphila,Grape,PSPZTR
+FUNGAL DISEASES,Alternaria blotch,alternaria blotch of apple,Alternaria mali,Apple,ALTEMA
+FUNGAL DISEASES,Black spot,black spot of papaya,Asperisporium caricae,Papaya,ASPRCA
+FUNGAL DISEASES,Leaf spot,southern leaf spot of maize,Bipolaris maydis,Geranium,COCHHE
+FUNGAL AND OOMYCETE DISEASES,Southern corn leaf blight,southern corn leaf blight,Bipolaris maydis,Corn (syn. Maize),COCHHE
+Cankers and Twig Blights,Pitch canker,pitch canker of pine,Fusarium circinatum,Conifer,GIBBCI
+Cankers and Twig Blights,Pitch canker,pitch canker of pine,Fusarium circinatum,Conifer,GIBBCI
+FUNGAL DISEASES,Thecaphora smut,thecaphora smut of potato,Thecaphora solani,Potato,THPHSO
+FUNGAL DISEASES,Root rot,phymatotrichum root rot,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL and OOMYCETE DISEASES,Phymatotrichum root rot,phymatotrichum root rot,Phymatotrichopsis omnivora,Carrot,PHMPOM
+FUNGAL AND OOMYCETE DISEASES,Phymatotrichum root rot,phymatotrichum root rot,Phymatotrichopsis omnivora,Citrus,PHMPOM
+FUNGAL DISEASES,Root rot,phymatotrichum root rot,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Phymatotrichum root rot,phymatotrichum root rot,Phymatotrichopsis omnivora,Peanut,PHMPOM
+FUNGAL DISEASES,Root rot,phymatotrichum root rot,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Web blight,web blight,Rhizoctonia solani,African Daisy,RHIZSO
+FUNGAL AND OOMYCETE DISEASES,Web blight,web blight,Rhizoctonia solani,Bean,RHIZSO
+FUNGAL DISEASES,Web blight,web blight,Rhizoctonia solani,Cucurbits,RHIZSO
+VIRAL AND VIROID DISEASES,Web blight,web blight,Rhizoctonia solani,Pigeonpea,RHIZSO
+FUNGAL AND OOMYCETE DISEASES,Bottom rot,bottom rot of lettuce,Rhizoctonia solani,Lettuce,RHIZSO
+FUNGAL AND OOMYCETE DISEASES,Areolate leaf spot,areolate leaf spot,Rhizoctonia solani,Citrus,RHIZSO
+FUNGAL DISEASES,Leaf spot,areolate leaf spot,Rhizoctonia solani,Cotton,RHIZSO
+FUNGAL AND OOMYCETE DISEASES,Soybean rust,american soybean rust,Phakopsora meibomiae,Bean,PHAKME
+FUNGAL DISEASES,Rust,american soybean rust,Phakopsora meibomiae,Soybean,PHAKME
+FUNGAL DISEASES,Blotch rot,blotch rot of cranberry,Physalospora vaccinii,Cranberry,PHYOVA
+FUNGI,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Alfalfa,LEVETA
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Carrot,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Chickpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Hemp,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Jerusalem Cherry,LEVETA
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Lentil,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Onion and Garlic,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Passionfruit,LEVETA
+FUNGAL AND RELATED DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Pepper,LEVETA
+VIRAL AND VIROID DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Pigeonpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of aubergine,Leveillula taurica,Spinach,LEVETA
+FUNGAL DISEASES,Downy mildew,downy mildew of impatiens,Plasmopara obducens,Impatiens,PLASOB
+FUNGI AND OOMYCETES,Esca,esca of grapevine,Phellinus punctatus,Grape,PHELPU
+FUNGAL DISEASES,Brooks fruit spot,brooks fruit spot of apple,Mycosphaerella pomi,Apple,MYCOPO
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cucurbits,Podosphaera xanthii,Cucurbits,PODOXA
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of cucurbits,Podosphaera xanthii,Sunflower and Jerusalem Artichoke,PODOXA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of cucurbits,Podosphaera xanthii,Verbena,PODOXA
+FUNGAL DISEASES,Twig blight,twig blight of cranberry,Lophodermium oxycocci,Cranberry,LOPHOX
+FUNGAL DISEASES,Leaf spot,target leaf spot of rubber,Rhizoctonia solani,Cotton,RHIZSO
+FUNGI,Powdery mildew,powdery mildew of hop clover,Erysiphe pisi,Alfalfa,ERYSPI
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of hop clover,Erysiphe pisi,Lentil,ERYSPI
+FUNGI,Powdery mildew,powdery mildew of black medick,Erysiphe pisi,Alfalfa,ERYSPI
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of black medick,Erysiphe pisi,Lentil,ERYSPI
+FUNGI,Powdery mildew,powdery mildew of lucerne,Erysiphe pisi,Alfalfa,ERYSPI
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of lucerne,Erysiphe pisi,Lentil,ERYSPI
+FUNGI,Powdery mildew,powdery mildew of vetch,Erysiphe pisi,Alfalfa,ERYSPI
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of vetch,Erysiphe pisi,Lentil,ERYSPI
+FUNGI,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Alfalfa,LEVETA
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Carrot,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Chickpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Hemp,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Jerusalem Cherry,LEVETA
+VIRAL & VIROID DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Lentil,LEVETA
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Onion and Garlic,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Passionfruit,LEVETA
+FUNGAL AND RELATED DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Pepper,LEVETA
+VIRAL AND VIROID DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Pigeonpea,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of capsicum,Leveillula taurica,Spinach,LEVETA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of beech,Phyllactinia guttata,Azalea,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of beech,Phyllactinia guttata,European Hazelnut,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of beech,Phyllactinia guttata,Rhododendron,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of beech,Phyllactinia guttata,Sycamore,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hazel,Phyllactinia guttata,Azalea,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hazel,Phyllactinia guttata,European Hazelnut,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hazel,Phyllactinia guttata,Rhododendron,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of hazel,Phyllactinia guttata,Sycamore,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of birch,Phyllactinia guttata,Azalea,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of birch,Phyllactinia guttata,European Hazelnut,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of birch,Phyllactinia guttata,Rhododendron,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of birch,Phyllactinia guttata,Sycamore,PHYLGU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of Vaccinium,Podosphaera myrtillina,Lingonberry,PODOMY
+FUNGAL DISEASES,Powdery mildew,powdery mildew of composites,Podosphaera xanthii,Cucurbits,PODOXA
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of composites,Podosphaera xanthii,Sunflower and Jerusalem Artichoke,PODOXA
+FUNGAL DISEASES,Powdery mildew,powdery mildew of composites,Podosphaera xanthii,Verbena,PODOXA
+FUNGAL DISEASES,European brown rot,european brown rot of stonefruit,Monilinia laxa,Apple,MONILA
+FUNGAL DISEASES,Cercospora leaf spot,cercospora leaf spot of gerbera,Cercospora gerberae,African Daisy,CERCGE
+BACTERIAL DISEASES,Bacterial soft rot,Bacterial soft rot of vegetables,Pectobacterium atrosepticum,Bedding Plants,ERWIAT
+BACTERIAL DISEASES,Bacterial soft rot,Bacterial soft rot of vegetables,Pectobacterium atrosepticum,Carrot,ERWIAT
+PARASITIC SEED PLANTS,Dieback,dieback of tea,Leptothyrium theae,Tea,LPTYTH
+BACTERIA AND PHYTOPLASMAS,Dwarf,dwarf disease of alfalfa,Xylella fastidiosa,Alfalfa,XYLEFA
+BACTERIA AND PHYTOPLASMAS,Dwarf,dwarf disease of lucerne,Xylella fastidiosa,Alfalfa,XYLEFA
+BACTERIAL DISEASES,Leaf scorch,leaf scorch of almond,Xylella fastidiosa,Sycamore,XYLEFA
+BACTERIAL DISEASES,Leaf scorch,leaf scorch of maple,Xylella fastidiosa,Sycamore,XYLEFA
+FUNGAL AND OOMYCETE DISEASES,Narrow brown leaf spot,narrow brown leaf spot of rice,Cercospora janseana,Rice,CERCOR
+BACTERIA AND PHYTOPLASMAS,Crown gall,crown gall,Agrobacterium tumefaciens,Alfalfa,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Almond,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Anemone,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Apple,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Avocado,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Bedding Plants,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Beet,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Bellflower,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Blueberry,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Butterfly Flower,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Cacao,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Carnation,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Carrot,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Chrysanthemum,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Cineraria,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Cotton,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Crucifers,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,English (Persian) Walnut,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,European Hazelnut,AGRBTU
+VIRUS DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Foliage Plants (House Plants),AGRBTU
+VIRUS DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Foliage Plants (House Plants),AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Fuchsia,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Garden Dahlia,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Geranium,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Hemp,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Hop,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Kalanchoë,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Mango,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,"Mimulus, Monkey-Flower",AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Passionfruit,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Peach and Nectarine,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Pecan,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Poinsettia,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Primulas,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Rapeseed = Canola,AGRBTU
+BACTERIAL DISEASE,Crown gall,crown gall,Agrobacterium tumefaciens,Rhododendron,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Rose,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Sunflower and Jerusalem Artichoke,AGRBTU
+BACTERIAL DISEASES,Crown gall,crown gall,Agrobacterium tumefaciens,Sweetpotato,AGRBTU
+PARASITIC SEED PLANTS,Crown gall,crown gall,Agrobacterium tumefaciens,Tea,AGRBTU
+FUNGAL DISEASES,Halo spot,halo spot of barley,Pseudoseptoria donacis,Barley,SELEDO
+FUNGAL DISEASES,Halo spot,halo spot of barley,Pseudoseptoria donacis,Rye,SELEDO
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Halo spot,halo spot of barley,Pseudoseptoria donacis,Wheat,SELEDO
+FUNGAL DISEASES,Halo spot,halo spot of cereals,Pseudoseptoria donacis,Barley,SELEDO
+FUNGAL DISEASES,Halo spot,halo spot of cereals,Pseudoseptoria donacis,Rye,SELEDO
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Halo spot,halo spot of cereals,Pseudoseptoria donacis,Wheat,SELEDO
+FUNGAL DISEASES,Halo spot,halo spot of grass,Pseudoseptoria donacis,Barley,SELEDO
+FUNGAL DISEASES,Halo spot,halo spot of grass,Pseudoseptoria donacis,Rye,SELEDO
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Halo spot,halo spot of grass,Pseudoseptoria donacis,Wheat,SELEDO
+FUNGAL DISEASES,Pasmo,pasmo disease of flax,Mycosphaerella linicola,Flax,MYCOLN
+BACTERIAL DISEASES,Leaf scald,leaf scald of sugarcane,Xanthomonas albilineans,Sugarcane,XANTAB
+FUNGI,Crown wart,crown wart of lucerne,Physoderma alfalfae,Alfalfa,PHYDAL
+FUNGAL DISEASES,Root rot,root rot of asparagus,Helicobasidium brebissonii,Caneberries,HLCBBR
+FUNGI,Violet root rot,violet root rot of apple,Helicobasidium brebissonii,Alfalfa,HLCBBR
+FUNGAL DISEASES,Root rot,violet root rot of apple,Helicobasidium brebissonii,Caneberries,HLCBBR
+FUNGAL DISEASES,Violet root rot,violet root rot of apple,Helicobasidium brebissonii,Elm,HLCBBR
+FUNGAL DISEASES,Violet root rot,violet root rot of apple,Helicobasidium brebissonii,Red Clover,HLCBBR
+FUNGI,Violet root rot,violet root rot of clover,Helicobasidium brebissonii,Alfalfa,HLCBBR
+FUNGAL DISEASES,Root rot,violet root rot of clover,Helicobasidium brebissonii,Caneberries,HLCBBR
+FUNGAL DISEASES,Violet root rot,violet root rot of clover,Helicobasidium brebissonii,Elm,HLCBBR
+FUNGAL DISEASES,Violet root rot,violet root rot of clover,Helicobasidium brebissonii,Red Clover,HLCBBR
+FUNGI,Violet root rot,violet root rot of sweet potato,Helicobasidium brebissonii,Alfalfa,HLCBBR
+FUNGAL DISEASES,Root rot,violet root rot of sweet potato,Helicobasidium brebissonii,Caneberries,HLCBBR
+FUNGAL DISEASES,Violet root rot,violet root rot of sweet potato,Helicobasidium brebissonii,Elm,HLCBBR
+FUNGAL DISEASES,Violet root rot,violet root rot of sweet potato,Helicobasidium brebissonii,Red Clover,HLCBBR
+OOMYCETE DISEASES,Damping-off,damping-off of beet,Pythium irregulare,Cucurbits,PYTHIR
+BACTERIAL DISEASES,Fasciation,fasciation of strawberry,Rhodococcus fascians,Carnation,CORBFA
+BACTERIAL DISEASES,Fasciation,fasciation of strawberry,Rhodococcus fascians,Chrysanthemum,CORBFA
+BACTERIAL DISEASES,Leafy gall,leafy gall of ornamentals,Rhodococcus fascians,Caneberries,CORBFA
+BACTERIAL DISEASES,Leafy gall,leafy gall of tobacco,Rhodococcus fascians,Caneberries,CORBFA
+PARASITIC SEED PLANTS,Damping-off,damping-off of tea,Calonectria kyotensis,Tea,CALOKY
+Cankers and Twig Blights,Scleroderris canker,scleroderris canker of conifers,Gremmeniella abietina,Conifer,GREMAB
+Cankers and Twig Blights,Scleroderris canker,scleroderris canker of conifers,Gremmeniella abietina,Conifer,GREMAB
+Cankers and Twig Blights,Scleroderris canker,scleroderris canker of conifers,Gremmeniella abietina,Conifer,GREMAB
+Cankers and Twig Blights,Scleroderris canker,scleroderris canker of conifers,Gremmeniella abietina,Conifer,GREMAB
+BACTERIAL DISEASES,Bacterial wilt,bacterial wilt of cucurbits,Erwinia tracheiphila,Cucurbits,ERWITR
+BACTERIAL DISEASES,Bacterial soft rot,bacterial soft rot of potato,Pectobacterium atrosepticum,Bedding Plants,ERWIAT
+BACTERIAL DISEASES,Bacterial soft rot,bacterial soft rot of potato,Pectobacterium atrosepticum,Carrot,ERWIAT
+BACTERIAL DISEASES,Bacterial soft rot,bacterial soft rot of vegetables,Pectobacterium atrosepticum,Bedding Plants,ERWIAT
+BACTERIAL DISEASES,Bacterial soft rot,bacterial soft rot of vegetables,Pectobacterium atrosepticum,Carrot,ERWIAT
+BACTERIAL DISEASES,Pink eye,pink eye of potato,Pseudomonas fluorescens,Potato,PSDMFL
+BACTERIAL DISEASES,Sour skin,sour skin of onion,Burkholderia cepacia,Onion and Garlic,PSDMCE
+FUNGAL DISEASES,Root rot,Texas root rot of alfalfa,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of alfalfa,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of alfalfa,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of bean,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of bean,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of bean,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of cotton,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of cotton,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of cotton,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of grapevine,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of grapevine,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,Texas root rot of grapevine,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,European brown rot,European brown rot of stonefruit,Monilinia laxa,Apple,MONILA
+FUNGAL DISEASES,Brown rot,American brown rot of stone fruits,Monilinia fructicola,Almond,MONIFC
+FUNGAL DISEASES,American brown rot,American brown rot of stone fruits,Monilinia fructicola,Apple,MONIFC
+FUNGAL AND OOMYCETE DISEASES,Soybean rust,American soybean rust,Phakopsora meibomiae,Bean,PHAKME
+FUNGAL DISEASES,Rust,American soybean rust,Phakopsora meibomiae,Soybean,PHAKME
+FUNGAL AND OOMYCETE DISEASES,Philippine downy mildew,Philippine downy mildew of maize,Peronosclerospora philippinensis,Corn (syn. Maize),PRSCPH
+UNDETERMINED ETIOLOGY,Malayan leaf spot,Malayan leaf spot of banana,Haplobasidion musae,Banana and Plantain,HAPBMU
+MISCELLANEOUS DISEASES AND DISORDERS,Bark disease,Storey's bark disease of coffee,Fusarium stilboides,Coffee,GIBBST
+FUNGAL DISEASES,Dutch elm disease,Dutch elm disease,Ophiostoma ulmi,Elm,CERAUL
+Foliage Diseases,Swiss needle cast,Swiss needle cast of fir,Nothophaeocryptopus gaeumannii,Conifer,PHARGA
+FUNGAL DISEASES,Rust,rust of flax,Melampsora lini,Flax,MELMLI
+Canker and Twig Blight,Cypress canker,cypress canker,Seiridium cardinale,Conifer,SEIRCA
+Canker and Twig Blights,Cypress canker,cypress canker,Seiridium cardinale,Conifer,SEIRCA
+Cankers and Twig Blights,Cypress canker,cypress canker,Seiridium cardinale,Conifer,SEIRCA
+Cankers and Twig Blights,Cypress canker,cypress canker,Seiridium cardinale,Conifer,SEIRCA
+Cankers and Twig Blights,Cypress canker,cypress canker,Seiridium cardinale,Conifer,SEIRCA
+Cankers and Twig Blights,Cypress canker,cypress canker,Seiridium cardinale,Conifer,SEIRCA
+FUNGAL DISEASES,Leaf rust,leaf rust of blueberry,Pucciniastrum minimum,Azalea,THEKMI
+FUNGAL DISEASES,Leaf rust,leaf rust of blueberry,Pucciniastrum minimum,Blueberry,THEKMI
+FUNGI AND OOMYCETES,Esca,esca of grapevine,Fomitiporia mediterranea,Grape,FOMPME
+FUNGAL and OOMYCETE DISEASES,Rust,rust of nutsedge,Puccinia canaliculata,Sunflower and Jerusalem Artichoke,PUCCCN
+FUNGAL DISEASES,Rust,rust of epidendrum,Sphenospora kevorkianii,Cattleya Lindl. spp,SPRXKE
+Root Rots,Laminated root rot,laminated root rot,Coniferiporia sulphurascens,Conifer,PHELSU
+Root Rots,Laminated root rot,laminated root rot,Coniferiporia sulphurascens,Conifer,PHELSU
+Root Rots,Laminated root rot,laminated root rot,Coniferiporia sulphurascens,Conifer,PHELSU
+Root Rots,Laminated root rot,laminated root rot,Coniferiporia sulphurascens,Conifer,PHELSU
+Root Rots,Laminated root rot,laminated root rot,Coniferiporia sulphurascens,Conifer,PHELSU
+Root Rots,Laminated root rot,laminated root rot,Coniferiporia sulphurascens,Conifer,PHELSU
+BACTERIAL DISEASES,Sheath brown rot,sheath brown rot,Pseudomonas fuscovaginae,Rice,PSDMFU
+OOMYCETE DISEASES,Verbena downy mildew,verbena downy mildew,Peronospora verbenae,Bedding Plants,PEROVE
+FUNGAL DISEASES,Powdery mildew,blueberry powdery mildew,Erysiphe vaccinii,Blueberry,MCRSVA
+FUNGAL DISEASES,Powdery mildew,blueberry powdery mildew,Erysiphe vaccinii,Cranberry,MCRSVA
+FUNGAL DISEASES,Ergot,ergot,Claviceps purpurea,Barley,CLAVPU
+FUNGAL DISEASES,Ergot,ergot,Claviceps purpurea,Oats,CLAVPU
+FUNGAL DISEASES,Ergot,ergot,Claviceps purpurea,Rye,CLAVPU
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Ergot,ergot,Claviceps purpurea,Wheat,CLAVPU
+FUNGAL DISEASES,Powdery mildew,powdery mildew of gerbera,Golovinomyces cichoracearum,Cucurbits,ERYSCI
+FUNGAL AND OOMYCETE DISEASES,Powdery mildew,powdery mildew of gerbera,Golovinomyces cichoracearum,Lettuce,ERYSCI
+FUNGAL and OOMYCETE DISEASES,Powdery mildew,powdery mildew of gerbera,Golovinomyces cichoracearum,Sunflower and Jerusalem Artichoke,ERYSCI
+FUNGAL DISEASES,Rust,blueberry rust,Naohidemyces vaccinii,Cranberry,NAOHVA
+FUNGAL AND OOMYCETE DISEASES,Gray leaf spot,gray leaf spot of maize,Cercospora zeina,Corn (syn. Maize),CERCZN
+Foliage Diseases,Interior needle blight,interior needle blight syndrome,Phaeocryptopus nudus,Conifer,PHARNU
+Foliage Diseases,Needle blight,interior needle blight syndrome,Phaeocryptopus nudus,Conifer,PHARNU
+VIRUS DISEASES*,Leprosis,citrus leprosis,Citrus necrotic spot virus,Citrus,CINSV0
+BACTERIAL DISEASES,Bacterial leaf streak,bacterial leaf streak of corn,Xanthomonas vasicola pv. vasculorum,Corn (syn. Maize),XANTVV
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Anthracnose,anthracnose of cereals,Colletotrichum cereale,Wheat,COLLCE
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Anthracnose,anthracnose of sorghum,Colletotrichum cereale,Wheat,COLLCE
+FUNGAL DISEASES,Gum canker,gum canker of pistachio,Cytospora terebinthi,Pistachio,CYTOTE
+FUNGI,Yellow leaf blotch,yellow leaf blotch of alfalfa,Leptotrochila medicaginis,Alfalfa,LPTRME
+FUNGI,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Alfalfa,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Beet,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Bellflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Carnation,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Corn (syn. Maize),MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Cotton,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Hemp,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Onion and Garlic,MCPHPH
+FUNGAL AND RELATED DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Pepper,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Potato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Safflower,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Sorghum,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Soybean,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Strawberry,MCPHPH
+FUNGAL and OOMYCETE DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Sunflower and Jerusalem Artichoke,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Sweetpotato,MCPHPH
+FUNGAL DISEASES,Charcoal rot,charcoal rot of sunflower,Macrophomina phaseolina,Tobacco,MCPHPH
+FUNGAL AND OOMYCETE DISEASES,Red blotch of grains,red blotch of grains,Epicoccum nigrum,Rice,PHOMEC
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Anthracnose,anthracnose of turf,Colletotrichum cereale,Wheat,COLLCE
+FUNGI,Anthracnose,anthracnose of soybean,Colletotrichum truncatum,Alfalfa,COLLDU
+VIRAL & VIROID DISEASES,Anthracnose,anthracnose of soybean,Colletotrichum truncatum,Lentil,COLLDU
+VIRAL AND VIROID DISEASES,Anthracnose,anthracnose of soybean,Colletotrichum truncatum,Pigeonpea,COLLDU
+FUNGI,Anthracnose,anthracnose of capsicum,Colletotrichum truncatum,Alfalfa,COLLDU
+VIRAL & VIROID DISEASES,Anthracnose,anthracnose of capsicum,Colletotrichum truncatum,Lentil,COLLDU
+VIRAL AND VIROID DISEASES,Anthracnose,anthracnose of capsicum,Colletotrichum truncatum,Pigeonpea,COLLDU
+FUNGAL and OOMYCETE DISEASES,Cercospora leaf spot,cercospora leaf spot of beet,Cercospora beticola,Beet,CERCBE
+FUNGAL DISEASES,Cercospora leaf spot,cercospora leaf spot of beet,Cercospora beticola,Spinach,CERCBE
+BACTERIAL DISEASES,Citrus variegated chlorosis,citrus variegated chlorosis,Xylella fastidiosa,Citrus,XYLEFA
+BACTERIAL DISEASES,Leaf scorch,leaf scorch of coffee,Xylella fastidiosa,Sycamore,XYLEFA
+BACTERIAL DISEASES,Leaf scorch,leaf scorch of oleander,Xylella fastidiosa,Sycamore,XYLEFA
+BACTERIAL DISEASES,Leaf scorch,leaf scorch of American sycamore,Xylella fastidiosa,Sycamore,XYLEFA
+FUNGAL AND OOMYCETE DISEASES,Northern corn leaf blight,northern corn leaf blight,Exserohilum turcicum,Corn (syn. Maize),SETOTU
+FUNGAL DISEASES,Leaf blight,northern corn leaf blight,Exserohilum turcicum,Sorghum,SETOTU
+BACTERIAL DISEASES,Bacterial fruit blotch,bacterial fruit blotch,Acidovorax citrulli,Cucurbits,PSDMAC
+FUNGAL AND OOMYCETE DISEASES,Blast,blast of wheat,Pyricularia oryzae,Rice,PYRIOR
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Blast,blast of wheat,Pyricularia oryzae,Wheat,PYRIOR
+FUNGAL AND OOMYCETE DISEASES,Blast,wheat blast,Pyricularia oryzae,Rice,PYRIOR
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Blast,wheat blast,Pyricularia oryzae,Wheat,PYRIOR
+FUNGAL AND OOMYCETE DISEASES,Blast,rice blast,Pyricularia oryzae,Rice,PYRIOR
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Blast,rice blast,Pyricularia oryzae,Wheat,PYRIOR
+FUNGAL DISEASES,Ergot,ergot of pearl millet,Claviceps purpurea,Barley,CLAVPU
+FUNGAL DISEASES,Ergot,ergot of pearl millet,Claviceps purpurea,Oats,CLAVPU
+FUNGAL DISEASES,Ergot,ergot of pearl millet,Claviceps purpurea,Rye,CLAVPU
+FUNGAL AND FUNGAL-LIKE ORGANISM DISEASES,Ergot,ergot of pearl millet,Claviceps purpurea,Wheat,CLAVPU
+FUNGI,Phymatotrichopsis root rot,Phymatotrichopsis root rot,Phymatotrichopsis omnivora,Alfalfa,PHMPOM
+FUNGAL DISEASES,Root rot,Phymatotrichopsis root rot,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,Phymatotrichopsis root rot,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,Phymatotrichopsis root rot,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,cotton root rot,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,cotton root rot,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Cotton root rot,cotton root rot,Phymatotrichopsis omnivora,Pistachio,PHMPOM
+FUNGAL DISEASES,Root rot,cotton root rot,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Root rot,Ozonium root rot,Phymatotrichopsis omnivora,Caneberries,PHMPOM
+FUNGAL DISEASES,Root rot,Ozonium root rot,Phymatotrichopsis omnivora,Mango,PHMPOM
+FUNGAL DISEASES,Root rot,Ozonium root rot,Phymatotrichopsis omnivora,Rapeseed = Canola,PHMPOM
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose of jamun,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of jamun,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Avocado,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Bedding Plants,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Cacao,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Cassava,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Cattleya Lindl. spp,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Coconut Palm,GLOMCI
+MISCELLANEOUS DISEASES AND DISORDERS,Anthracnose,anthracnose of black plum,Glomerella cingulata,Coffee,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Cyclamen,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+VIRUS DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Foliage Plants (House Plants),GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Holiday Cacti,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Hop,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Kalanchoë,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Mango,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Mustard,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Passionfruit,GLOMCI
+POSTHARVEST DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Passionfruit,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Peach and Nectarine,GLOMCI
+BACTERIAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Poinsettia,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Rapeseed = Canola,GLOMCI
+FUNGAL DISEASES,Anthracnose,anthracnose of black plum,Glomerella cingulata,Soybean,GLOMCI
+FUNGAL AND OOMYCETE DISEASES,Smut,colchicum smut,Urocystis colchici,Onion and Garlic,UROCCL
+FUNGAL DISEASES,Gibbera twig blight,Gibbera twig blight,Gibbera vacciniicola,Blueberry,GIBBER
+FUNGAL DISEASES,Gibbera twig blight,Gibbera twig blight,Gibbera vacciniicola,Blueberry,GIBRVA
+Foliage Diseases,Brown spot needle blight,brown spot needle blight,Lecanosticta acicola,Conifer,SCIRAC
+Foliage Diseases,Dothistroma needle blight,Dothistroma needle blight,Dothistroma septosporum,Conifer,SCIRPI
+Foliage Diseases,Dothistroma needle blight,Dothistroma needle blight,Dothistroma pini,Conifer,DOTSPI
+Foliage Diseases,Dothistroma needle blight,Dothistroma needle blight,Dothistroma pini,Conifer,DOTSPI
+Foliage Diseases,Dothistroma needle blight,Dothistroma needle blight,Dothistroma pini,Conifer,DOTSPI
+FUNGAL AND OOMYCETE DISEASES,Neck rot,neck rot of onion,Botrytis aclada,Onion and Garlic,BOTRAC
+FUNGAL DISEASES,Downy mildew,downy mildew of cane fruit,Peronospora sparsa,Rose,PSPESR
+FUNGAL and OOMYCETE DISEASES,White rust,sunflower white rust,Pustula helianthicola,Sunflower and Jerusalem Artichoke,PUSTHE
