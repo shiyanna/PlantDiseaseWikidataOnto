@@ -1045,3 +1045,494 @@ _df
 _df.to_csv("host_disease_json_1.csv", index=False)
 
 #%%
+
+#######
+
+
+@lru_cache(maxsize=None)
+def get_taxonomy(taxon,authtoken = None):
+    if not authtoken:
+        global _AUTHTOKEN
+        authtoken = _AUTHTOKEN
+        
+    params = {
+        'authtoken': authtoken
+    }
+
+    url = 'https://data.eppo.int/api/rest/1.0/taxon/%s/taxonomy'
+    
+    res = json_get_request(url=url%taxon, params=params)
+    return res
+
+#%%
+@lru_cache(maxsize=None)
+def get_taxon_info(taxon,authtoken = None):
+    if not authtoken:
+        global _AUTHTOKEN
+        authtoken = _AUTHTOKEN
+        
+    params = {
+        'authtoken': authtoken
+    }
+
+    url = 'https://data.eppo.int/api/rest/1.0/taxon/%s'
+    
+    res = json_get_request(url=url%taxon, params=params)
+    return res
+
+#%%
+# data = pd.read_csv("m_taxons8.csv")
+data = pd.read_csv("a_taxons9.csv")
+#%%
+
+#%%
+load_f = lambda i: json.loads(repair_json(str(i).replace('(','[').replace(')',']').replace("None","null")) if i else '[]')
+#%%
+
+data['hosts']=data['hosts'].apply(load_f)
+data['corr_deseases']=data['corr_deseases'].apply(load_f)
+data.eppo = data.eppo.apply(lambda x: x or None)
+data.q = data.q.apply(lambda x: x or None)
+
+#%%
+## Populate eppos
+
+@lru_cache(maxsize=None)
+def read_local_eppo():
+    _df1 = pd.read_csv("eppo/gafname.txt")
+    _df2 = pd.read_csv("eppo/gainame.txt")
+    _df3 = pd.read_csv("eppo/pflname.txt")
+    _df = pd.concat((_df1,_df2,_df3))    
+    _names = _df["fullname"].dropna().tolist()
+    return _df, _names
+#%%
+#%%
+@lru_cache(maxsize=None)
+def search_local_eppo_names(name, limit = 20):
+    if name in _dfindings:
+        return _dfindings[name]
+    _df,_names = read_local_eppo()
+    column_as_list = _names
+    res = tuplify(process.extract(name, column_as_list,limit=limit))
+    return res
+
+#%%
+
+df_missing_eppo = data[data.eppo.isnull()]
+misses = df_missing_eppo["name"]
+len(misses)
+
+#%%
+
+findings = []
+
+for st in tqdm(misses):
+    f = search_local_eppo_names(st)
+    findings.append((st,f))
+
+len(findings)
+#%%
+findings
+#%%
+found = dict()
+not_found = set()
+for f in findings:
+    trg = f[1][0]
+    if trg[1]>90:
+        found[f[0]] = trg[0]
+    else:
+        not_found.add(f[0])
+found, not_found
+#%%
+len(found), len(not_found)
+
+#%%
+_eppo_df,_names = read_local_eppo()
+#%%
+
+print(len(data[data.eppo.isnull()]))
+
+for k,v in found.items():
+    ix = data[data.name==k].index
+    new_eppo = _eppo_df[_eppo_df.fullname==v].code.iloc[0]
+    data.loc[ix,"eppo"] = new_eppo
+    
+print(len(data[data.eppo.isnull()]))
+
+
+#%%
+## Uniquify
+
+#%%
+_data = data.copy()
+df = _data
+#%%
+len(_data), len(_data["name"].unique()), len(_data.q.unique()), len(_data.eppo.unique())
+#%%
+tuplify = lambda arr: tuple(i if type(i) == str else tuple(i) for i in arr if i) if arr else ()
+#%%
+_df = df
+df_by_name = _df.groupby('name').agg({
+    'q': 'first',
+    'eppo': 'first',
+    'hosts': lambda x: list(set(tuplify(i) for sublist in x for i in sublist)),
+    'corr_deseases': lambda x: list(set(tuplify(i) for sublist in x for i in sublist))
+}).reset_index()
+
+len(_df),len(df_by_name)
+#%%
+df_by_name
+#%%
+_df = df_by_name
+df_by_q_nulls = _df[_df.q.isnull()]
+df_by_q = _df[~_df.q.isnull()].groupby('q').agg({
+    'name': 'first',
+    'eppo': 'first',
+    'hosts': lambda x: list(set(tuple(i) for sublist in x for i in sublist)),
+    'corr_deseases': lambda x: list(set(tuple(i) for sublist in x for i in sublist))
+}).reset_index()
+df_by_q = pd.concat((df_by_q,df_by_q_nulls))
+len(_df), len(df_by_q)
+#%%
+df_by_q
+#%%
+_df = df_by_q
+
+df_by_eppo_nulls = _df[_df.eppo.isnull()]
+df_by_eppo = _df[~_df.eppo.isnull()].groupby('eppo').agg({
+    'name': 'first',
+    'q': 'first',
+    'hosts': lambda x: list(set(tuple(i) for sublist in x for i in sublist)),
+    'corr_deseases': lambda x: list(set(tuple(i) for sublist in x for i in sublist))
+}).reset_index()
+df_by_eppo = pd.concat((df_by_eppo,df_by_eppo_nulls))
+len(_df), len(df_by_eppo)
+#%%
+df_by_eppo
+
+data10 = df_by_eppo.copy()
+
+#%%
+df_by_eppo.to_csv('a_taxon11.csv',index=False)
+#%%
+
+## End Uniquify
+#%%
+_df_save = data10.copy()
+_df_save.columns
+#%%
+_df_save.hosts = _df_save.hosts.apply(json.dumps)
+_df_save.corr_deseases = _df_save.corr_deseases.apply(json.dumps)
+#%%
+_df_save = _df_save[["name","q","eppo","hosts","corr_deseases"]]
+_df_save
+#%%
+_df_save.to_csv('a_taxon11.csv',index=False)
+#%%
+
+## Parse pathogens' taxonomy by eppo
+
+#%%
+
+data10 = data10[["name","q","eppo","hosts","corr_deseases"]]
+data10
+
+#%%
+data12 = data10.copy().reset_index(drop=True)
+
+data12["level"]=[None]* len(data12)
+data12["parent"]=[None]* len(data12)
+data12 = data12[["level","parent","name","q","eppo","hosts","corr_deseases"]]
+
+for i in tqdm(data12.index):
+    
+    hits = get_taxonomy.cache_info().hits
+
+    row = data12.loc[i,:]
+    eppo = orig_eppo = row["eppo"]
+    
+    tax_list = get_taxonomy(eppo)
+    
+    if not tax_list:
+        info = get_taxon_info(eppo)
+        if info and info.get("replacedby"):
+            eppo = info.get("replacedby")
+            tax_list = get_taxonomy(eppo)
+        else:
+            continue
+    if not tax_list:
+        continue
+
+    for i,t in enumerate(tax_list):
+        if i==0:
+            parent_ix = None
+        else:
+            tt = tax_list[i-1]
+            parent_eppo = tt["eppocode"]
+            parent_ix = data12[data12["eppo"]==parent_eppo].index[0]
+        if t["eppocode"] in data12["eppo"].to_list(): # if eppo already in df - just set parent id
+            _ix = data12[data12["eppo"]==t["eppocode"]].index
+            data12.loc[_ix,"parent"] = parent_ix
+            data12.loc[_ix,"level"] = t["level"]
+            continue
+        else: # else: add new taxon
+            l = [t["level"],parent_ix,t["prefname"],None,t["eppocode"],[],[]]
+            data12.loc[len(data12)] = l
+
+    if hits == get_taxonomy.cache_info().hits:
+        time.sleep(1)
+        # pass
+
+
+data12.to_csv("a_taxon12.csv")
+
+#%%
+
+## Parse q's for aquired taxonomy
+
+#%%
+names = data12[data12["q"].isnull()]["name"]
+names
+
+#%%
+
+names_wd_search_dict = {}
+
+for name in tqdm(names):
+    hits = f_q_search_taxon_by_label.cache_info().hits
+
+    res = f_q_search_taxon_by_label(name)["results"]["bindings"]
+    if not res:
+        names_wd_search_dict[name] = None
+    else:
+        names_wd_search_dict[name] = res 
+    
+    if hits == f_q_search_taxon_by_label.cache_info().hits:
+        time.sleep(2)
+
+len(names_wd_search_dict)
+
+#%%
+def _extract_q(x):
+    
+    ob:list = names_wd_search_dict.get(x)
+    if ob is None or len(ob)>1: 
+        return None
+    
+    ob = ob[0]
+    q_uri = ob["item"]["value"].split("/")[-1]
+    return q_uri
+    
+
+extracted_q = data12["name"].apply(_extract_q)
+#%%
+
+data13 = data12.copy()
+
+#%%
+new_q = [data12.loc[i,"q"] or extracted_q.loc[i] for i in data12["q"].index]
+#%%
+len(data13[~data13["q"].isnull()]), sum(bool(_i) for _i in new_q)
+#%%
+data13["q"] = new_q
+extracted_q
+
+#%%
+
+## Parse hosts' taxonomy by eppo
+
+#%%
+# Gettig flat hosts
+
+hosts_set = set()
+hosts_df =pd.DataFrame(columns=["name","q","eppo"])
+for hosts in data12["hosts"].to_list():
+    for host in hosts:
+        host:tuple
+        hosts_set.add(host)
+
+for host in hosts_set:
+    if not host:
+        continue
+    if len(host) == 2:
+        host = (host[0], None, host[1])
+    hosts_df.loc[len(hosts_df)] = host
+
+#%%
+
+# Uniquify hosts
+
+#%%
+_df = hosts_df.copy()
+
+len(_df), len(_df["name"].unique()), len(_df.q.unique()), len(_df.eppo.unique())
+
+#%%
+df_by_name = _df.groupby('name').agg({
+    'q': lambda x: x.mode().min() if x.mode().any() else next((el for el in x if el), None),
+    'eppo': lambda x: x.mode().min() if x.mode().any() else next((el for el in x if el), None),
+}).reset_index()
+
+len(_df),len(df_by_name)
+#%%
+df_by_name
+#%%
+_df = df_by_name
+
+df_by_q_nulls = _df[_df.q.isnull()]
+df_by_q = _df[~_df.q.isnull()].groupby('q').agg({
+    'name': 'first',
+    'eppo': lambda x: x.mode().min() if x.mode().any() else next((el for el in x if el), None),
+}).reset_index()
+df_by_q = pd.concat((df_by_q,df_by_q_nulls))
+len(_df), len(df_by_q)
+#%%
+df_by_q
+#%%
+
+_df = df_by_q
+
+df_by_eppo_nulls = _df[_df.eppo.isnull()]
+df_by_eppo = _df[~_df.eppo.isnull()].groupby('eppo').agg({
+    'name': 'first',
+    'q': lambda x: x.mode().min() if x.mode().any() else next((el for el in x if el), None),
+}).reset_index()
+df_by_eppo = pd.concat((df_by_eppo,df_by_eppo_nulls))
+len(_df), len(df_by_eppo)
+#%%
+df_by_eppo
+
+hosts_u_df = df_by_eppo[["name","q","eppo",]]
+#%%
+
+# Get hosts' taxonomy
+
+#%%
+hosts_u_df["level"]=[None]* len(hosts_u_df)
+hosts_u_df["parent"]=[None]* len(hosts_u_df)
+hosts_u_df = hosts_u_df[["level","parent","name","q","eppo"]].reset_index(drop=True)
+
+#%%
+
+for i in tqdm(hosts_u_df.index):
+    
+    hits = get_taxonomy.cache_info().hits
+
+    row = hosts_u_df.loc[i,:]
+    eppo = orig_eppo = row["eppo"]
+    
+    tax_list = get_taxonomy(eppo)
+    
+    if not tax_list:
+        info = get_taxon_info(eppo)
+        if info and info.get("replacedby"):
+            eppo = info.get("replacedby")
+            tax_list = get_taxonomy(eppo)
+        else:
+            continue
+    if not tax_list:
+        continue
+
+
+    for i,t in enumerate(tax_list):
+        if i==0:
+            parent_ix = None
+        else:
+            tt = tax_list[i-1]
+            parent_eppo = tt["eppocode"]
+            parent_ix = hosts_u_df[hosts_u_df["eppo"]==parent_eppo].index[0]
+        if t["eppocode"] in hosts_u_df["eppo"].to_list(): # if eppo already in df - just set parent id
+            _ix = hosts_u_df[hosts_u_df["eppo"]==t["eppocode"]].index
+            hosts_u_df.loc[_ix,"parent"] = parent_ix
+            hosts_u_df.loc[_ix,"level"] = t["level"]
+            continue
+        else: # else: add new taxon
+            l = [t["level"],parent_ix,t["prefname"],None,t["eppocode"]]
+            hosts_u_df.loc[len(hosts_u_df)] = l
+
+        
+    if hits == get_taxonomy.cache_info().hits:
+        time.sleep(.5)
+        pass
+
+hosts_u_df
+#%%
+hosts_u_df.to_csv("plant_taxonomy1.csv")
+
+#%%
+
+# Parse q's for aquired taxonomy
+
+#%%
+
+names = hosts_u_df[hosts_u_df["q"].isnull()]["name"]
+names = [name.strip("x").strip() for name in names]
+
+#%%
+
+hosts_names_wd_search_dict = {}
+
+for name in tqdm(names):
+    hits = f_q_search_taxon_by_label.cache_info().hits
+
+    res = f_q_search_taxon_by_label(name)["results"]["bindings"]
+    if not res:
+        hosts_names_wd_search_dict[name] = None
+    else:
+        hosts_names_wd_search_dict[name] = res 
+    
+    if hits == f_q_search_taxon_by_label.cache_info().hits:
+        time.sleep(2)
+
+len(hosts_names_wd_search_dict)
+#%%
+hosts_names_wd_search_dict
+#%%
+
+#%%
+def _extract_q(x):
+    
+    ob:list = hosts_names_wd_search_dict.get(x)
+    if ob is None or len(ob)>1: 
+        return None
+    
+    ob = ob[0]
+    q_uri = ob["item"]["value"].split("/")[-1]
+    return q_uri
+    
+#%%
+extracted_q = hosts_u_df["name"].apply(_extract_q)
+#%%
+len(hosts_u_df),len(extracted_q)
+#%%
+
+names = hosts_u_df[hosts_u_df["q"].isnull()]["name"]
+names
+#%%
+hosts_u_df_2 = hosts_u_df.copy()
+hosts_u_df_2
+#%%
+new_q = [hosts_u_df.loc[i,"q"] or extracted_q.loc[i] for i in hosts_u_df["q"].index]
+#%%
+
+hosts_u_df_2["q"] = new_q
+#%%
+hosts_u_df_2.to_csv("plant_taxonomy2.csv")
+#%%
+
+
+
+#%%
+
+
+
+#%%
+
+
+
+#%%
+
+
+
+#%%
+
