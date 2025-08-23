@@ -1,0 +1,3100 @@
+,level,parent,name,q,eppo
+0,7,2104,Arrabidaea,Q8204880,1ABDG
+1,6,71,Abies,Q25350,1ABIG
+2,8,2110,Acer,Q10730504,1ACRG
+3,8,2110,Aesculus,Q158752,1AECG
+4,8,2114,Allium,Q124307982,1ALLG
+5,6,2116,Amaranthaceae,Q155931,1AMAF
+6,7,2119,Ananas,Q11284196,1ANHG
+7,8,2123,Anemone,Q158286,1ANMG
+8,8,2126,Anthurium,Q114566072,1AURG
+9,7,2127,Berberis,Q158503,1BEBG
+10,7,23,Brassica,Q58677,1BRSG
+11,6,31,Chamaecyparis,Q147791,1CHCG
+12,7,5,Chenopodioideae,Q1070132,1CHES
+13,8,2132,Chrysanthemum,Q59882,1CHYG
+14,8,2134,Citrus,Q110369372,1CIDG
+15,8,2134,Citroncirus,,1CJCG
+16,8,2136,Campanula,Q157069,1CMPG
+17,6,31,Cryptomeria,Q12323064,1CMYG
+18,8,2140,Chaenomeles,Q157616,1CNMG
+19,7,2142,Coffea,Q156354,1COFG
+20,6,2131,Asteraceae,Q25400,1COMF
+21,7,2144,Capsicum,Q201959,1CPSG
+22,8,2146,Caragana,Q849443,1CRAG
+23,6,2128,Brassicaceae,Q156888,1CRUF
+24,8,2140,Crataegus,Q132557,1CSCG
+25,7,2148,Castanea,Q15635070,1CSNG
+26,7,2148,Castanopsis,Q1065400,1CSOG
+27,8,2150,Cattleya,Q133733,1CTBG
+28,8,2140,Cotoneaster,Q5538,1CTTG
+29,8,2152,Catharanthus,Q1050790,1CTUG
+30,6,2153,Cucurbitaceae,Q8314,1CUCF
+31,5,2129,Cupressaceae,Q146037,1CUPF
+32,6,31,x Cuprocyparis,,1CUYG
+33,6,31,Cupressus,Q146911,1CVBG
+34,8,2155,Crocus,Q134006691,1CVOG
+35,7,2156,Corylus,Q145889,1CYLG
+36,8,2132,Dahlia,Q83631355,1DAHG
+37,7,2157,Dianthus,Q119788784,1DING
+38,7,2159,Dioscorea,Q71549,1DIUG
+39,6,2161,Ericaceae,Q17128757,1ERIF
+40,7,23,Erysimum,Q165206,1ERYG
+41,8,2164,Eucalyptus,Q30611712,1EUCG
+42,8,2165,Festuca,Q157337,1FESG
+43,8,2134,Fortunella,Q12483066,1FOLG
+44,8,2140,Fragaria,Q745,1FRAG
+45,8,2167,Galeopsis,Q61417598,1GAEG
+46,7,2169,Geranium,Q157211,1GERG
+47,8,2155,Gladiolus,Q5566295,1GLAG
+48,8,2172,Gossypium,Q719312,1GOSG
+49,6,2118,Poaceae,Q43238,1GRAF
+50,7,2174,Heliconia,Q23689005,1HEBG
+51,8,2132,Helianthus,Q26949,1HELG
+52,8,2176,Hyacinthus,Q125919111,1HYAG
+53,7,2178,Hydrangea,Q155997,1HYEG
+54,7,2179,Impatiens,Q141672,1IPAG
+55,6,31,Juniperus,Q25662,1IUPG
+56,7,2181,Kalanchoe,Q312063,1KANG
+57,6,2145,Fabaceae,Q44448,1LEGF
+58,7,2148,Lithocarpus,Q132402,1LIAG
+59,8,2165,Lolium,Q158509,1LOLG
+60,8,2182,Leucaena,Q311423,1LUAG
+61,8,2140,Malus,Q104819,1MABG
+62,8,2183,Mentha,Q1920954,1MENG
+63,7,2127,x Mahoberberis,,1MHBG
+64,7,2184,Mimulus,Q159372,1MIUG
+65,7,2185,Musa,Q127789291,1MUBG
+66,8,2183,Nepeta,Q20808863,1NEPG
+67,7,2186,Opuntia,Q158991,1OPUG
+68,8,2132,Osteospermum,Q942384,1OSPG
+69,7,2169,Pelargonium,Q146118,1PELG
+70,8,2146,Phaseolus,Q310438,1PHSG
+71,5,2106,Pinaceae,Q101680,1PINF
+72,2,2099,Pinophyta,Q132825,1PINP
+73,8,2187,Philodendron,Q131880,1PIOG
+74,6,2103,Plantaginaceae,Q1748235,1PLAF
+75,8,2189,Primula,Q158974,1PRIG
+76,8,2140,Prunus,Q190545,1PRNG
+77,7,2195,Prunella,Q107121195,1PRUNG
+78,8,2140,Pyracantha,Q157748,1PYEG
+79,8,2140,Pyrus,Q25203231,1PYUG
+80,7,2148,Quercus,Q17508763,1QUEG
+81,7,39,Azalea,Q5986917,1RHOG
+82,7,2196,Ribes,Q124519607,1RIBG
+83,8,2197,Rosa,Q131378692,1ROSG
+84,8,2197,Rubus,Q602740,1RUBG
+85,7,2199,Salix,Q83652995,1SAXG
+86,7,2186,Schlumbergera,Q240857,1SBGG
+87,7,2201,Scandix,Q1439641,1SCAG
+88,8,2146,Sesbania,Q311305,1SEBG
+89,8,2203,Shorea,Q132419,1SHOG
+90,7,2144,Solanum,Q146555,1SOLG
+91,8,2204,Sorghum,Q12111,1SORG
+92,8,2140,Sorbus,Q157964,1SOUG
+93,8,2206,Streptocarpus,Q159180,1SRQG
+94,8,2132,Tagetes,Q147552,1TAGG
+95,6,31,Thuja,Q147255,1THUG
+96,8,2207,Tilia,Q72740972,1TILG
+97,8,2146,Trifolium,Q2476791,1TRFG
+98,8,2165,Triticum,Q12106,1TRZG
+99,8,2165,x Triticosecale,,1TTLG
+100,7,2208,Ulmus,Q131113,1ULMG
+101,7,39,Vaccinium,Q5079636,1VACG
+102,7,74,Veronica,Q119788816,1VERG
+103,8,2152,Vinca,Q220925,1VING
+104,8,2212,Vitis,Q191019,1VITG
+105,2,2213,herbaceous ornamental plants,,2ORNH
+106,9,2214,Aconitum sp.,,AAOSS
+107,9,2218,Abelia chinensis,Q160081,ABECH
+108,9,2218,Abelia x grandiflora,,ABEGF
+109,7,1,Abies alba,Q146992,ABIAL
+110,7,1,Abies balsamea,Q428023,ABIBA
+111,7,1,Abies nordmanniana subsp. equitrojani,,ABIBR
+112,7,1,Abies concolor,Q145939,ABICO
+113,7,1,Abies grandis,Q147434,ABIGR
+114,7,1,Abies lasiocarpa,Q978755,ABILA
+115,7,1,Abies lasiocarpa var. arizonica,Q33133822,ABILZ
+116,7,1,Abies procera,Q1283223,ABIPR
+117,7,1,Abies sachalinensis,Q1520125,ABISA
+118,7,1,Abies sibirica,Q852262,ABISB
+119,9,2219,Abelmoschus esculentus,Q80531,ABMES
+120,9,2220,Aronia melanocarpa,Q162774,ABOME
+121,9,2221,Abutilon incanum,Q4670694,ABUIC
+122,9,2221,Abutilon theophrasti,Q606369,ABUTH
+123,9,2222,Acacia cultriformis,Q3023794,ACACL
+124,9,2222,Acacia dealbata,Q757123,ACADA
+125,9,2223,Vachellia farnesiana,Q23055981,ACAFA
+126,9,2224,Senegalia greggii,Q32856633,ACAGR
+127,9,2222,Acacia longifolia,Q2701053,ACALO
+128,9,2222,Acacia melanoxylon,Q386585,ACAME
+129,9,2222,Acacia saligna,Q402385,ACASA
+130,9,2222,Acacia sp.,,ACASS
+131,9,2227,Acalypha sp.,,ACCSS
+132,9,2228,Achillea millefolium,Q25408,ACHMI
+133,9,2228,Achillea ptarmica,Q1335122,ACHPT
+134,8,2230,Eleutherococcus sieboldianus,Q11066056,ACPSI
+135,9,2,Acer campestre,Q158785,ACRCA
+136,9,2,Acer circinatum,Q568923,ACRCJ
+137,9,2,Acer granatense,Q9577543,ACRGR
+138,9,2,Acer griseum,Q203985,ACRGS
+139,9,2,Acer japonicum,Q149269,ACRJA
+140,9,2,Acer macrophyllum,Q599523,ACRMA
+141,9,2,Acer negundo,Q161166,ACRNE
+142,9,2,Acer oliverianum,Q3205552,ACROL
+143,9,2,Acer palmatum,Q269224,ACRPA
+144,9,2,Acer pensylvanicum,Q1190312,ACRPE
+145,9,2,Acer platanoides,Q26745,ACRPL
+146,9,2,Acer pseudoplatanus,Q156944,ACRPP
+147,9,2,Acer pentapomicum,Q15287934,ACRPT
+148,9,2,Acer rubrum,Q161364,ACRRB
+149,9,2,Acer saccharinum,Q158301,ACRSA
+150,9,2,Acer saccharum,Q214733,ACRSC
+151,9,2,Acer saccharum subsp. nigrum,Q460328,ACRSN
+152,9,2,Acer sp.,,ACRSS
+153,9,2231,Adenocarpus lainzii,Q17440111,ADCCL
+154,9,2231,Adenocarpus sp.,,ADCSS
+155,9,3,Aesculus x carnea,,AECCR
+156,9,3,Aesculus hippocastanum,Q26899,AECHI
+157,9,3,Aesculus x hybrida,,AECHY
+158,9,3,Aesculus flava,Q159620,AECOC
+159,9,3,Aesculus parviflora,Q162440,AECPA
+160,9,3,Aesculus pavia,Q159049,AECPV
+161,9,2232,Aegilops geniculata,Q2701568,AEGGE
+162,8,2233,Aechmea fasciata,Q974721,AEMFA
+163,9,2235,Alectryon excelsus,Q1955888,AEYEX
+164,9,2235,Alectryon sp.,,AEYSS
+165,8,2236,Anethum graveolens,Q26686,AFEGR
+166,9,2237,Ageratum houstonianum,Q280807,AGEHO
+167,9,2237,Ageratum sp.,,AGESS
+168,9,2238,Agrimonia pubescens,Q17235268,AGIPU
+169,8,2240,Argyreia nervosa,Q383947,AGJNE
+170,9,2241,Aglaonema pictum,Q15313823,AGLPC
+171,8,2242,Agrostemma githago,Q147852,AGOGI
+172,9,2243,Elymus repens,Q276262,AGRRE
+173,9,2244,Agrostis gigantea,Q27835,AGSGI
+174,9,2244,Agrostis capillaris,Q159717,AGSTE
+175,7,2247,Agathis australis,Q955413,AGTAU
+176,8,2249,Ailanthus altissima,Q159570,AILAL
+177,9,2250,Alcea ficifolia,Q12210628,AKAFI
+178,9,2251,Acmispon americanus,Q4674417,AKMAM
+179,9,2252,Albizia julibrissin,Q750307,ALBJU
+180,9,2254,Vernicia fordii,Q1422363,ALEFO
+181,9,2250,Alcea rosea,Q27682,ALGRO
+182,9,4,Allium cepa,Q20875685,ALLCE
+183,9,4,Allium fistulosum,Q27938,ALLFI
+184,9,4,Allium porrum,Q21870138,ALLPO
+185,9,4,Allium sativum,Q23400,ALLSA
+186,9,2255,Alopecurus myosuroides,Q158109,ALOMY
+187,8,2257,Allionia sp.,,ALQSS
+188,9,2259,Alternanthera ficoidea,Q15479578,ALRFI
+189,8,2261,Alnus glutinosa,Q156904,ALUGL
+190,8,2261,Alnus rubra,Q1818806,ALURB
+191,8,2261,Alnus rhombifolia,Q2666303,ALURH
+192,8,2261,Alnus sinuata,Q21382467,ALUSN
+193,8,2261,Alnus tenuifolia,,ALUTE
+194,9,2262,Amaranthus caudatus,Q162791,AMACA
+195,9,2262,Amaranthus hybridus,Q1021182,AMACH
+196,9,2262,Amaranthus graecizans,Q162295,AMAGR
+197,9,2262,Amaranthus retroflexus,Q157663,AMARE
+198,9,2262,Amaranthus spinosus,Q2881023,AMASP
+199,9,2262,Amaranthus sp.,,AMASS
+200,9,2262,Amaranthus x tamariscinus,,AMATA
+201,9,2262,Amaranthus viridis,Q3245265,AMAVI
+202,9,2263,Ambrosia bidentata,Q15585254,AMBBI
+203,9,2263,Ambrosia artemisiifolia,Q682164,AMBEL
+204,9,2263,Ambrosia psilostachya,Q3613854,AMBPS
+205,9,2263,Ambrosia sp.,,AMBSS
+206,9,2263,Ambrosia trifida,Q3090517,AMBTR
+207,9,2263,Ambrosia trifida var. texana,,AMBTT
+208,9,2264,Ampelopsis arborea,Q4748115,AMCAR
+209,9,2264,Ampelopsis brevipedunculata var. hancei,,AMCBH
+210,9,2264,Ampelopsis glandulosa var. brevipedunculata,Q25133889,AMCBR
+211,9,2264,Ampelopsis cordata,Q15559755,AMCCO
+212,9,2265,Amelanchier alnifolia,Q164158,AMEAL
+213,9,2265,Amelanchier canadensis,Q159030,AMECA
+214,9,2265,Amelanchier laevis,Q163825,AMELA
+215,8,2271,Amorpha sp.,,AMORSP
+216,9,2274,Anacardium occidentale,,ANAOC
+217,8,6,Ananas comosus,Q1493,ANHCO
+218,8,2275,Angelica sp.,,ANKSS
+219,9,7,Anemone Japonica hybrids,,ANMJA
+220,9,2276,Anthemis arvensis,Q20778,ANTAR
+221,9,2276,Anthemis cotula,Q571357,ANTCO
+222,9,2277,Chamaemelum nobile,Q5723577,ANTNO
+223,9,2278,Cota palaestina,Q12236415,ANTPA
+224,9,2278,Cota tinctoria,Q15551906,ANTTI
+225,9,2283,Annona squamosa,Q275620,ANUSQ
+226,9,2284,Allophylus edulis,Q3308800,AOLED
+227,9,2286,Apocynum androsaemifolium,Q2858412,APCAN
+228,9,2286,Apocynum cannabinum,Q2598218,APCCA
+229,9,2287,Apios americana,Q568933,APOAM
+230,8,2288,Apium graveolens,Q28298,APUGV
+231,9,2290,Aquilegia canadensis,Q2846008,AQICN
+232,9,2290,Aquilegia sp.,,AQISS
+233,8,2291,Arabis sp.,,ARCSS
+234,8,2292,Arbutus menziesii,Q469695,ARDME
+235,8,2292,Arbutus unedo,Q329046,ARDUN
+236,9,2293,Arctium lappa,Q26932,ARFLA
+237,9,2293,Arctium minus,Q20996,ARFMI
+238,9,2296,Argemone mexicana,Q683404,ARGME
+239,9,2296,Argemone platyceras,Q5703604,ARGPT
+240,9,2297,Arachis hypogaea,Q37383,ARHHY
+241,8,2298,Arenaria sp.,,ARISS
+242,8,2299,Aralia cordata,Q2473304,ARLCO
+243,8,2299,Aralia spinosa,Q2666305,ARLSP
+244,9,2300,Arrhenatherum elatius,Q159815,ARREL
+245,9,2301,Artemisia absinthium,Q25686,ARTAB
+246,9,2301,Artemisia arborescens,Q309692,ARTAO
+247,9,2301,Artemisia biennis,Q583484,ARTBI
+248,9,2301,Artemisia douglasiana,Q470093,ARTDO
+249,9,2301,Artemisia dracunculus,Q155814,ARTDR
+250,9,2301,Artemisia sp.,,ARTSS
+251,9,2301,Artemisia vulgaris,Q26663,ARTVU
+252,7,2302,Araucaria angustifolia,Q899179,ARUAN
+253,7,2302,Araucaria araucana,Q158780,ARUAR
+254,8,2303,Armoracia rusticana,Q26545,ARWLA
+255,8,2303,Armoracia sp.,,ARWSS
+256,8,2304,Arctostaphylos manzanita,Q2709035,ARYMA
+257,8,2304,Arctostaphylos sp.,,ARYSS
+258,9,2305,Astragalus sp.,,ASASS
+259,9,2307,Asclepias syriaca,Q158295,ASCSY
+260,9,2307,Asclepias tuberosa,Q311131,ASCTU
+261,9,2308,Asimina triloba,Q948827,ASITR
+262,9,2310,Asparagus acutifolius,Q1587417,ASPAC
+263,9,2310,Asparagus,Q2853420,ASPOF
+264,9,2311,Arctotis stoechadifolia,Q4787711,ATBST
+265,8,2312,Atropanthe sinensis,Q143002,ATFSI
+266,8,2313,Antirrhinum majus,Q156843,ATHMM
+267,8,2315,Actinidia chinensis,Q163522,ATICH
+268,8,2315,Actinidia deliciosa,,ATIDE
+269,8,2321,Athyrium filix-femina,Q1345500,ATUFF
+270,9,2322,Atriplex patula,Q158212,ATXPA
+271,9,2322,Atriplex sp.,,ATXSS
+272,9,2323,Avena fatua,Q158634,AVEFA
+273,9,2323,Avena sativa,Q12104,AVESA
+274,9,2324,Axonopus compressus,Q4830676,AXOCO
+275,9,2325,Anthyllis barba-jovis,Q1874595,AYLBJ
+276,9,2325,Anthyllis hermanniae,Q1245987,AYLHE
+277,8,2326,Azara microphylla,Q4832258,AZAMI
+278,9,2327,Argyranthemum maderense,Q15135940,AZGMA
+279,9,2327,Argyranthemum sp.,,AZGSS
+280,9,2328,Baccharis halimifolia,Q948018,BACHA
+281,9,2328,Baccharis pilularis,Q1028765,BACPI
+282,9,2328,Baccharis sp.,,BACSS
+283,9,2329,Baptisia sp.,,BAPSS
+284,9,2330,Beta vulgaris subsp. vulgaris var. cicla,,BEAVV
+285,9,2330,Beta vulgaris,Q165191,BEAVX
+286,8,9,Berberis canadensis,Q1723503,BEBCN
+287,8,9,Berberis thunbergii,Q158397,BEBTH
+288,8,9,Berberis vulgaris,Q158563,BEBVU
+289,8,2332,Begonia hybrids,,BEGHY
+290,8,2332,Begonia semperflorens hybrids,,BEGSH
+291,9,2333,Bellis perennis,Q26158,BELPE
+292,8,2334,Betula alleghaniensis,Q1499241,BETAL
+293,8,2334,Betula nigra,Q1510231,BETNI
+294,8,2334,Betula occidentalis,Q3926712,BETOC
+295,8,2334,Betula papyrifera,Q76971,BETPA
+296,8,2334,Betula pubescens,Q157624,BETPB
+297,8,2334,Betula pendula,Q156895,BETPE
+298,8,2334,Betula populifolia,Q1543680,BETPO
+299,9,2335,Bidens mitis,Q15599289,BIDMI
+300,9,2335,Bidens pilosa,Q814421,BIDPI
+301,9,2335,Bidens sp.,,BIDSS
+302,8,2336,Dolichandra unguis-cati,Q3108604,BIGUC
+303,9,2337,Calyptocarpus biaristatus,Q15555674,BLABI
+304,9,2338,Ballota nigra,Q157878,BLLNI
+305,8,2339,Benincasa hispida,Q652206,BNCHI
+306,8,2340,Boerhavia diffusa,Q311457,BOEDI
+307,8,2340,Boerhavia erecta,Q3336533,BOEER
+308,8,2341,Spermacoce latifolia,Q15248114,BOILF
+309,9,2342,Brachiaria plantaginea,Q15509271,BRAPL
+310,9,2343,Urochloa eminii,Q21304303,BRARU
+311,9,2344,Brachypodium distachyon,Q2352209,BRCDI
+312,8,2345,Brunfelsia lactea,Q992615,BRFLA
+313,9,2346,Brachyglottis sp.,,BRGSS
+314,9,2347,Brickellia sp.,,BRLSS
+315,8,2349,Broussonetia papyrifera,Q389185,BRNPA
+316,9,2350,Bromus carinatus,Q162214,BROCN
+317,9,2350,Bromus diandrus,Q161326,BRODI
+318,9,2350,Bromus inermis,Q159066,BROIN
+319,9,2350,Bromus rigidus,Q12219290,BRORI
+320,9,2350,Bromus sp.,,BROSS
+321,8,10,Brassica rapa subsp. chinensis,Q165178,BRSCH
+322,8,10,Brassica napus subsp. rapifera,Q158464,BRSNA
+323,8,10,Brassica napus,Q125526553,BRSNN
+324,8,10,Brassica oleracea var. viridis,Q14879985,BRSOA
+325,8,10,Brassica oleracea var. botrytis,Q7537,BRSOB
+326,8,10,Brassica oleracea var. gongylodes,Q147202,BRSOG
+327,8,10,Brassica oleracea var. italica,Q47722,BRSOK
+328,8,10,Brassica oleracea var. capitata,Q35051,BRSOL
+329,8,10,Brassica oleracea,Q146212,BRSOX
+330,8,10,Brassica rapa subsp. sylvestris,Q3643886,BRSRA
+331,8,10,Brassica rapa,Q3384,BRSRR
+332,8,10,Brassica sp.,,BRSSS
+333,8,2351,Browallia speciosa,Q149763,BRWSP
+334,9,2352,Briza maxima,Q140178,BRZMA
+335,8,2354,Buddleia davidii,Q161538,BUDDA
+336,8,2356,Bruguiera gymnorhiza,Q15386544,BUGGY
+337,9,2359,Sideroxylon lanuginosum,Q15348010,BUMLA
+338,9,2361,Brachychiton populneus,Q947016,BYHPO
+339,8,2362,Lepidium draba,Q149440,CADDR
+340,9,2363,Caesalpinia gilliesii,Q2734920,CAEGI
+341,8,2364,Calystegia pubescens,Q15489860,CAGPU
+342,8,2364,Calystegia sepium,Q161704,CAGSE
+343,8,2366,Camellia sinensis var. assamica,Q10933100,CAHAS
+344,8,2366,Camellia sinensis,Q101815,CAHSI
+345,9,2367,Cajanus cajan,Q632559,CAJCA
+346,8,2368,Capsella bursa-pastoris,Q27264,CAPBP
+347,8,2369,Cardamine bonariensis,Q15537127,CARBO
+348,8,2369,Cardamine hirsuta,Q157926,CARHI
+349,9,2370,Chamaecrista fasciculata,Q5069341,CASFA
+350,9,2371,Senna marilandica,Q7450837,CASMA
+351,9,2372,Cassia texana,,CASTE
+352,9,2371,Senna tora,Q2739004,CASTO
+353,9,2373,Carthamus tinctorius,Q156625,CAUTI
+354,7,2374,Calocedrus decurrens,Q1399164,CCDDE
+355,9,2375,Cenchrus echinatus,Q4925284,CCHEC
+356,9,2376,Parkinsonia florida,Q2052735,CCIFL
+357,8,2378,Corynocarpus laevigatus,Q5477982,CCKLA
+358,9,2382,Cocos nucifera,Q13187,CCNNU
+359,9,2383,Calicotome spinosa,Q1550456,CCOSP
+360,9,2383,Calicotome sp.,,CCOSS
+361,9,2383,Calicotome villosa,,CCOVI
+362,9,2385,Cercis canadensis,,CCSCA
+363,9,2385,Cercis occidentalis,Q5063945,CCSOC
+364,9,2385,Cercis reniformis,Q50840754,CCSRE
+365,9,2385,Cercis siliquastrum,Q29488,CCSSI
+366,9,2386,Codiaeum variegatum,Q1345646,CDIVA
+367,9,2388,Cordyline australis,Q2379130,CDLAU
+368,9,2388,Cordyline sp.,,CDLSS
+369,8,2391,Comandra livida,Q39910027,CDRLI
+370,8,2391,Comandra umbellata,Q15380252,CDRUM
+371,8,2391,Comandra umbellata subsp. pallida,Q32794511,CDRUP
+372,8,2391,Comandra umbellata subsp. umbellata,,CDRUU
+373,9,2393,Camassia scilloides,Q5025007,CDSSC
+374,9,2394,Cortaderia selloana,Q470109,CDTSE
+375,9,2395,Codonopsis pilosula,Q1076269,CDWPI
+376,8,2397,Ceanothus thyrsiflorus,Q2943644,CEATH
+377,8,2398,Cereus sp.,,CEESS
+378,8,2401,Celastrus orbiculatus,Q259033,CELOR
+379,8,2402,Cestrum elegans,Q622894,CEMEL
+380,9,2403,Plectocephalus americanus,Q468566,CENAM
+381,9,2404,Centaurea cyanus,Q156921,CENCY
+382,9,2404,Centaurea decipiens,Q15565039,CENDN
+383,9,2405,Ceratonia siliqua,Q68763,CEQSI
+384,8,2406,Cerastium glomeratum,Q1753184,CERGL
+385,8,2406,Cerastium holosteoides,Q157797,CERVU
+386,8,2408,Celtis laevigata,Q1529852,CETLE
+387,8,2408,Celtis occidentalis,Q28919874,CETOC
+388,8,2408,Celtis sp.,,CETSS
+389,7,2409,Cedrus atlantica,Q55741736,CEUAT
+390,7,2409,Cedrus deodara,Q146935,CEUDE
+391,7,2409,Cedrus libani,Q61105,CEULI
+392,7,2409,Cedrus sp.,,CEUSS
+393,9,2410,Coelorachis cylindrica,Q5140683,CGACY
+394,8,2412,Chamerion angustifolium,Q160104,CHAAN
+395,7,11,Chamaecyparis lawsoniana,Q161360,CHCLA
+396,7,11,Chamaecyparis thyoides,Q1744650,CHCTH
+397,9,2413,Chenopodium album,Q158610,CHEAL
+398,9,2414,Dysphania ambrosioides,Q640032,CHEAM
+399,9,2415,Blitum capitatum,Q14568269,CHECA
+400,9,2416,Chenopodiastrum murale,Q17271937,CHEMU
+401,9,2417,Lipandra polysperma,Q17271940,CHEPO
+402,9,2413,Chenopodium quinoa,Q139925,CHEQU
+403,9,2413,Chenopodium vulvaria,Q2119407,CHEVU
+404,8,2418,Chamaesaracha coronopus,Q15527715,CHFCO
+405,8,2419,Chilopsis linearis,Q143161,CHJLI
+406,9,2420,Chelidonium majus,Q156807,CHQMA
+407,9,2421,Chloris halophila,Q15512746,CHRHA
+408,9,2422,Arctanthemum arcticum,Q15585742,CHYAR
+409,9,2423,Tanacetum balsamita,Q1451844,CHYBA
+410,9,2424,Glebionis carinata,Q24850726,CHYCA
+411,9,2423,Tanacetum coccineum,Q852073,CHYCC
+412,9,2423,Tanacetum cinerariifolium,Q1158053,CHYCI
+413,9,2424,Glebionis coronaria,Q6585129,CHYCO
+414,9,2423,Tanacetum corymbosum,Q845174,CHYCY
+415,9,2327,Argyranthemum frutescens,Q2062517,CHYFR
+416,9,13,Chrysanthemum x morifolium,,CHYHO
+417,9,13,Chrysanthemum indicum,Q4157858,CHYIN
+418,9,2425,Leucanthemum vulgare,Q27164,CHYLE
+419,9,2425,Leucanthemum maximum,Q3020526,CHYMA
+420,9,13,Chrysanthemum makinoi,,CHYMK
+421,9,2426,Coleostephus myconis,Q519088,CHYMY
+422,9,2427,Nipponanthemum nipponicum,Q18667454,CHYNI
+423,9,13,Chrysanthemum nivellei,,CHYNV
+424,9,2423,Tanacetum parthenium,Q818481,CHYPA
+425,9,2428,Ajania pacifica,Q971214,CHYPC
+426,9,2429,Leucanthemella serotina,Q15548783,CHYSR
+427,9,13,Chrysanthemum sp.,,CHYSS
+428,9,2428,Ajania shiwogiku,Q15578903,CHYSW
+429,9,2423,Tanacetum vulgare,Q27079,CHYVU
+430,9,13,Chrysanthemum yoshinaganthum,Q21263574,CHYYO
+431,9,13,Chrysanthemum zawadskii,Q15226886,CHYZA
+432,8,2431,Carica papaya,Q34887,CIAPA
+433,9,2432,Cissus sp.,,CIBSS
+434,9,2433,Cichorium endivia var. crispum,Q2963415,CICEC
+435,9,2433,Cichorium endivia var. latifolia,,CICEL
+436,9,2433,Cichorium endivia,Q178547,CICEN
+437,9,2433,Cichorium intybus,Q2544599,CICIN
+438,9,14,Citrus x limon var. bergamia,,CIDAB
+439,9,14,Citrus x aurantiifolia,,CIDAF
+440,9,14,Citrus karna,,CIDAK
+441,9,14,Citrus myrtifolia,Q1074438,CIDAM
+442,9,14,Citrus x aurantium,Q147096,CIDAU
+443,9,14,Citrus celebica,Q22285551,CIDCE
+444,9,14,Citrus x aurantium var. clementina,,CIDCL
+445,9,14,Citrus x aurantium var. deliciosa,,CIDDE
+446,9,14,Citrus maxima,Q80024,CIDGR
+447,9,14,Citrus hybrids,,CIDHX
+448,9,14,Citrus x limonia var. jambhiri,,CIDJA
+449,9,14,Citrus x junos,,CIDJU
+450,9,14,Citrus x limon,Q500,CIDLI
+451,9,14,Citrus x limonia,,CIDLO
+452,9,14,Citrus latipes,Q5122905,CIDLP
+453,9,14,Citrus x limon var. limettioides,,CIDLT
+454,9,14,Citrus x aurantiifolia var. macrophylla,,CIDMA
+455,9,14,Citrus medica,Q150064,CIDME
+456,9,14,Citrus limonimedica,Q5460906,CIDMS
+457,9,14,Citrus x limon var. meyerii,,CIDMY
+458,9,14,Citrus natsudaidai,Q453563,CIDNA
+459,9,14,Citrus x nobilis,Q113032585,CIDNO
+460,9,14,Citrus x aurantium var. paradisi,,CIDPA
+461,9,14,Citrus pennivesiculata,Q21247836,CIDPE
+462,9,14,Citrus reticulata,Q125337,CIDRE
+463,9,14,Citrus reshni,Q5658043,CIDRH
+464,9,14,Citrus x tangelo,,CIDRP
+465,9,14,Citrus x aurantium var. sinensis,,CIDSI
+466,9,14,Citrus sp.,,CIDSS
+467,9,14,Citrus x aurantium var. tangerina,,CIDTG
+468,9,14,Citrus tankan,Q11113636,CIDTK
+469,9,14,Citrus taiwanica,Q10907813,CIDTW
+470,9,14,Citrus x aurantium var. unshiu,,CIDUN
+471,9,14,Citrus x limonia var. volkameriana,,CIDVO
+472,9,14,Citrus webberi,Q18075777,CIDWE
+473,9,2434,Cicer arietinum,Q81375,CIEAR
+474,8,2437,Cinnamomum burmannii,Q4115136,CINBU
+475,8,2437,Cinnamomum camphora,Q158722,CINCA
+476,8,2437,Cinnamomum osmophloeum,Q714184,CINOS
+477,8,2437,Cinnamomum verum,Q370239,CINZE
+478,8,2439,Chionanthus retusus,Q1073191,CIORE
+479,8,2439,Chionanthus sp.,,CIOSS
+480,8,2439,Chionanthus virginicus,Q140341,CIOVI
+481,8,2440,Carpinus betulus,Q55743395,CIPBE
+482,8,2440,Carpinus caroliniana,Q468664,CIPCA
+483,9,2441,Cirsium arvense,Q341600,CIRAR
+484,9,2442,Carissa macrocarpa,Q934636,CISMA
+485,8,2339,Benincasa fistulosa,Q17429625,CITFI
+486,8,2443,Citrullus lanatus,Q17507129,CITLA
+487,8,2443,Citrullus lanatus var. citroides,,CITLC
+488,8,2444,Cicuta maculata,Q5119480,CIUMC
+489,9,15,Citroncirus webberi,,CJCWE
+490,9,2445,x Citrofortunella microcarpa,,CJFMI
+491,8,2447,Corokia cotoneaster,Q17479806,CKICO
+492,8,2447,Corokia macrocarpa,Q17479807,CKIMA
+493,8,2447,Corokia sp.,,CKISS
+494,8,2449,Claytonia caroliniana,Q2978736,CLACA
+495,9,2450,Calendula officinalis,Q145930,CLDOF
+496,8,2452,Cleome viscosa,Q2978925,CLEVI
+497,9,2453,Clianthus puniceus,Q1616054,CLGPU
+498,9,2454,Callicarpa americana,Q151067,CLIAM
+499,9,2455,Clematis cirrhosa,Q2713360,CLVCI
+500,9,2455,Clematis sp.,,CLVSS
+501,9,2455,Clematis vitalba,Q160100,CLVVT
+502,9,2456,Melaleuca citrina,Q6810997,CLXCI
+503,8,2457,Ipomoea alba,Q133294,CLYAC
+504,9,2458,Cymbidium sp.,,CMFSS
+505,8,2459,Campsis radicans,Q468778,CMIRA
+506,9,2460,Cyamopsis tetragonoloba,Q264770,CMOTE
+507,9,2461,Cosmos bipinnatus,Q575748,CMSBI
+508,9,2461,Cosmos sulphureus,Q1209998,CMSSU
+509,8,2462,Cannabis sativa,Q26726,CNISA
+510,9,18,Chaenomeles japonica,Q158037,CNMJA
+511,9,18,Chaenomeles sp.,,CNMSS
+512,8,2464,Canna indica,Q163559,CNNIN
+513,8,2464,Canna sp.,,CNNSS
+514,9,2465,Delphinium ajacis,Q21873730,CNSAJ
+515,9,2466,Callirhoe involucrata,Q5741238,COEIN
+516,8,19,Coffea arabica,Q47685,COFAR
+517,8,19,Coffea canephora,Q47532,COFCA
+518,8,19,Coffea eugenioides,Q15430395,COFEU
+519,8,19,Coffea excelsa,Q47164156,COFEX
+520,8,19,Coffea hybrids,,COFHY
+521,8,19,Coffea kapakata,Q15430354,COFKA
+522,8,19,Coffea liberica,Q47718,COFLI
+523,8,19,Coffea sp.,,COFSS
+524,8,19,Coffea stenophylla,Q672410,COFST
+525,8,2467,Conium maculatum,Q218041,COIMA
+526,9,2471,Commelina benghalensis,Q5152272,COMBE
+527,9,2471,Commelina erecta,Q2920683,COMER
+528,8,2472,Convolvulus arvensis,Q111346,CONAR
+529,8,2472,Convolvulus cneorum,Q149738,CONCN
+530,8,2362,Lepidium didymum,Q149609,COPDI
+531,9,2473,Cotinus coggygria,Q161406,COTCO
+532,8,2475,Cocculus carolinus,Q5139267,COUCA
+533,8,2475,Cocculus orbiculatus,Q15283564,COUOR
+534,8,2476,Coprosma repens,Q5168970,CPMRE
+535,8,2476,Coprosma robusta,Q5168972,CPMRO
+536,8,21,Capsicum annuum,Q1380,CPSAN
+537,8,21,Capsicum frutescens,Q311426,CPSFR
+538,8,21,Capsicum pubescens,Q133428,CPSPU
+539,9,2478,Cypripedium reginae,Q977605,CPVRE
+540,9,2480,Coleonema album,Q5777346,CQMAL
+541,9,22,Caragana arborescens,Q162124,CRAAR
+542,8,2483,Cordia boissieri,Q147841,CRHBS
+543,9,2484,Coreopsis grandiflora,Q1319071,CRLGR
+544,9,2484,Coreopsis sp.,,CRLSS
+545,8,2486,Cornus drummondii,Q187040,CRWDR
+546,8,2486,Cornus florida,Q887221,CRWFL
+547,8,2486,Cornus mas,Q158642,CRWMS
+548,8,2486,Cornus sanguinea,Q161416,CRWSA
+549,9,2489,Carex sp.,,CRXSS
+550,9,24,Crataegus mollis,Q2671022,CSCML
+551,9,24,Crataegus monogyna,Q161511,CSCMO
+552,9,24,Crataegus laevigata,Q159553,CSCOX
+553,9,24,Crataegus pinnatifida,Q1141735,CSCPI
+554,9,24,Crataegus x prunifolia,,CSCPR
+555,9,24,Crataegus rhipidophylla,Q159086,CSCRO
+556,9,24,Crataegus sp.,,CSCSS
+557,8,2491,Castilleja angustifolia,Q5049889,CSLAN
+558,8,2491,Castilleja coccinea,Q5049899,CSLCO
+559,8,2491,Castilleja foliolosa,Q5049904,CSLFO
+560,8,2491,Castilleja integrifolia,Q15349746,CSLIT
+561,8,2491,Castilleja latifolia,Q5049912,CSLLA
+562,8,2491,Castilleja linariifolia,Q265620,CSLLI
+563,8,2491,Castilleja martini,Q42348836,CSLMA
+564,8,2491,Castilleja miniata,Q2941436,CSLMI
+565,8,2491,Castilleja minor,Q5049917,CSLMN
+566,8,2491,Castilleja occidentalis,Q2941431,CSLOC
+567,8,2491,Castilleja patriotica,Q15351682,CSLPA
+568,8,2491,Castilleja rhexifolia,Q15350409,CSLRX
+569,8,2491,Castilleja sessiliflora,Q5049928,CSLSE
+570,8,2491,Castilleja suksdorfii,Q15350265,CSLSK
+571,8,2491,Castilleja tenuiflora,Q15031110,CSLTE
+572,8,2491,Castilleja wightii,Q15350938,CSLWI
+573,8,25,Castanea crenata,Q717827,CSNCR
+574,8,25,Castanea dentata,Q468698,CSNDE
+575,8,25,Castanea henryi,Q577422,CSNHE
+576,8,25,Castanea hybrids,,CSNHY
+577,8,25,Castanea mollissima,Q699584,CSNMO
+578,8,25,Castanea ozarkensis,Q5756707,CSNOZ
+579,8,25,Castanea pumila,Q3662068,CSNPU
+580,8,25,Castanea sativa,Q22699,CSNSA
+581,8,25,Castanea seguinii,Q4218279,CSNSE
+582,8,2492,Chrysolepis sempervirens,Q15328842,CSOSE
+583,9,2493,Callistephus chinensis,Q312441,CSPCH
+584,8,2495,Cistus albidus,Q1763350,CSTAL
+585,8,2495,Cistus creticus,Q891305,CSTIC
+586,8,2495,Cistus x incanus,,CSTIS
+587,8,2495,Cistus ladanifer,Q789800,CSTLA
+588,8,2495,Cistus monspeliensis,Q1414643,CSTMO
+589,8,2495,Cistus inflatus,Q15330550,CSTPS
+590,8,2495,Cistus salviifolius,Q136801,CSTSA
+591,8,2495,Cistus sp.,,CSTSS
+592,8,2497,Casuarina equisetifolia,Q857220,CSUEQ
+593,8,2498,Catalpa bignonioides,Q163831,CTLBI
+594,8,2498,Catalpa speciosa,Q159204,CTLSP
+595,9,28,Cotoneaster bullatus,Q1385334,CTTBU
+596,9,28,Cotoneaster buxifolius,Q11177624,CTTBX
+597,9,28,Cotoneaster x crispii,,CTTCR
+598,9,28,Cotoneaster dammeri,Q159655,CTTDA
+599,9,28,Cotoneaster franchetii,Q1441316,CTTFR
+600,9,28,Cotoneaster horizontalis,Q159650,CTTHO
+601,9,28,Cotoneaster integerrimus,Q158930,CTTIT
+602,9,28,Cotoneaster lacteus,Q2998589,CTTLA
+603,9,28,Cotoneaster lucidus,Q162750,CTTLU
+604,9,28,Cotoneaster microphyllus,Q1746373,CTTMI
+605,9,28,Cotoneaster moupinensis,Q1506251,CTTMO
+606,9,28,Cotoneaster niger,Q50832044,CTTNG
+607,9,28,Cotoneaster salicifolius,Q1592259,CTTSA
+608,9,28,Cotoneaster sp.,,CTTSS
+609,9,28,Cotoneaster x watereri,,CTTWT
+610,9,29,Catharanthus roseus,Q161093,CTURO
+611,8,2499,Cucumis anguria,Q2349096,CUMAN
+612,8,2499,Cucumis melo,Q23091933,CUMME
+613,8,2499,Cucumis melo var. inodorus,Q47801,CUMMI
+614,8,2499,Cucumis melo var. reticulatus,Q10969892,CUMMR
+615,8,2499,Cucumis sativus,Q23425,CUMSA
+616,8,2500,Calluna vulgaris,Q26615,CUNVU
+617,8,2501,Cucurbita maxima,Q161180,CUUMA
+618,8,2501,Cucurbita moschata,Q160571,CUUMO
+619,8,2501,Cucurbita pepo,Q7229863,CUUPE
+620,8,2501,Cucurbita melopepo,Q21872952,CUUPM
+621,7,32,x Cuprocyparis leylandii,,CUYLE
+622,7,2502,Hesperocyparis arizonica,Q50843037,CVBAR
+623,7,2502,Hesperocyparis goveniana,Q287544,CVBGO
+624,7,2502,Hesperocyparis lusitanica,,CVBLU
+625,7,2502,Hesperocyparis macnabiana,,CVBMA
+626,7,2502,Hesperocyparis macrocarpa,Q32856056,CVBMC
+627,7,33,Cupressus sempervirens,Q147513,CVBSE
+628,9,2503,Croton monanthogynus,Q3004775,CVNMO
+629,9,2503,Croton texensis,Q3005277,CVNTE
+630,9,2504,Crotalaria brevidens var. intermedia,,CVTBI
+631,9,2504,Crotalaria juncea,Q2855436,CVTJU
+632,9,2504,Crotalaria pallida var. obovata,Q50886167,CVTMU
+633,9,2504,Crotalaria ochroleuca,Q15450192,CVTOC
+634,9,2504,Crotalaria paulina,Q15451387,CVTPA
+635,9,2504,Crotalaria spectabilis,Q3003826,CVTSP
+636,9,2505,Clitoria mariana,Q10865523,CXCMA
+637,8,2507,Clethra alnifolia,Q5131966,CXEAL
+638,9,2508,Cnidoscolus texanus,Q5137374,CXFTE
+639,8,2509,x Chitalpa tashkentensis,,CXKTA
+640,9,2510,Colocasia esculenta,Q227997,CXSES
+641,9,2511,Coleus amboinicus,Q39087854,CXUAM
+642,9,2511,Coleus scutellarioides,Q10881792,CXUBH
+643,8,2513,Carya aquatica,Q5047664,CYAAQ
+644,8,2513,Carya cathayensis,Q15238210,CYACA
+645,8,2513,Carya cordiformis,Q879016,CYACO
+646,8,2513,Carya floridana,Q5047667,CYAFL
+647,8,2513,Carya glabra,Q1406355,CYAGL
+648,8,2513,Carya illinoinensis,Q333877,CYAIL
+649,8,2513,Carya laciniosa,Q4215101,CYALA
+650,8,2513,Carya pallida,Q15376540,CYAPA
+651,8,2513,Carya sp.,,CYASS
+652,8,2513,Carya tomentosa,Q5047673,CYATO
+653,9,2514,Cydonia oblonga,Q43300,CYDOB
+654,9,2515,Cymbopogon nardus,Q691698,CYGNA
+655,9,2515,Cymbopogon winterianus,Q11107842,CYGWI
+656,8,90,Solanum betaceum,Q379747,CYJBE
+657,8,35,Corylus americana,Q468659,CYLAM
+658,8,35,Corylus avellana,Q124969,CYLAV
+659,8,35,Corylus colurna,Q148939,CYLCO
+660,8,35,Corylus cornuta,Q972950,CYLCR
+661,8,35,Corylus heterophylla,Q976000,CYLHE
+662,8,35,Corylus sp.,,CYLSS
+663,9,2516,Cynodon dactylon,,CYNDA
+664,9,2517,Cyperus eragrostis,Q161320,CYPER
+665,9,2517,Cyperus sp.,,CYPSS
+666,9,2518,Cynara scolymus,Q134609,CYUSC
+667,8,2519,Cynoglossum officinale,Q381584,CYWOF
+668,9,2521,Cyclamen,Q147295,CYZHE
+669,9,2521,Cyclamen persicum,Q150055,CYZPE
+670,9,2522,Coronilla valentina subsp. glauca,Q32851430,CZRVG
+671,9,2522,Coronilla valentina,Q5221015,CZRVL
+672,9,2523,Cytisus multiflorus,Q969060,CZSMU
+673,9,2524,Chamaecytisus prolifer,Q15528472,CZSPL
+674,9,2523,Cytisus sp.,,CZSSS
+675,9,2523,Cytisus striatus,Q5247707,CZSST
+676,9,2523,Cytisus villosus,Q15531513,CZSVI
+677,9,2525,Dactylis glomerata,Q161735,DACGL
+678,7,2527,Dacrydium cupressinum,Q382469,DADCU
+679,9,36,Dahlia hybrids,,DAHHY
+680,9,36,Dahlia pinnata,Q1549236,DAHPI
+681,8,2528,Brugmansia x candida,,DATCA
+682,8,2529,Datura ferox,Q1245970,DATFE
+683,8,2529,Datura innoxia,Q17464343,DATIN
+684,8,2529,Datura metel,Q715019,DATME
+685,8,2529,Datura sp.,,DATSS
+686,8,2529,Datura stramonium,Q30959,DATST
+687,8,2529,Datura wrightii,Q1897331,DATWR
+688,8,2530,Daucus carota,Q30056,DAUCA
+689,8,2530,Daucus carota subsp. sativus,Q11678009,DAUCS
+690,9,2532,Lamprocapnos spectabilis,Q161171,DCTSP
+691,9,2533,Dicentra sp.,,DCTSS
+692,9,13,Chrysanthemum lavandulifolium,Q21263416,DDMBO
+693,9,13,Chrysanthemum crassum,Q21263377,DDMCR
+694,9,13,Chrysanthemum japonense,Q5765951,DDMJA
+695,9,2428,Ajania shiwogiku var. kinokumiensis,,DDMSK
+696,9,13,Chrysanthemum zawadzkii subsp. zawadzkii,,DDMWE
+697,9,2534,Desmodium cephalotes,,DEDCE
+698,9,2534,Desmodium gangeticum,Q3595474,DEDGA
+699,9,2534,Desmodium pulchellum,,DEDPU
+700,9,2534,Desmodium sp.,,DEDSS
+701,9,2465,Delphinium sp.,,DELSS
+702,8,2535,Descurainia pinnata,Q5263816,DESPI
+703,9,2536,Dieffenbachia maculata,,DIFMA
+704,9,2537,Digitaria horizontalis,Q15504264,DIGHO
+705,9,2537,Digitaria sanguinalis,Q158994,DIGSA
+706,9,2537,Digitaria sp.,,DIGSS
+707,8,37,Dianthus arboreus,Q17378305,DINAB
+708,8,37,Dianthus andronakii,Q15565634,DINAD
+709,8,37,Dianthus arenarius,Q162598,DINAE
+710,8,37,Dianthus anatolicus,Q15565382,DINAN
+711,8,37,Dianthus armeria,Q158855,DINAR
+712,8,37,Dianthus carthusianorum subsp. atrorubens,,DINAT
+713,8,37,Dianthus barbatus,Q161745,DINBA
+714,8,37,Dianthus biflorus,Q15565037,DINBI
+715,8,37,Dianthus balbisii,Q1189892,DINBL
+716,8,37,Dianthus bicolor,Q15564909,DINBO
+717,8,37,Dianthus caryophyllus,Q158984,DINCA
+718,8,37,Dianthus collinus subsp. glabriusculus,Q95494989,DINCG
+719,8,37,Dianthus chinensis,Q159013,DINCH
+720,8,37,Dianthus capitatus,Q15565203,DINCS
+721,8,37,Dianthus carthusianorum,Q159735,DINCT
+722,8,37,Dianthus carthusianorum subsp. carthusianorum,,DINCU
+723,8,37,Dianthus cyri,Q15566523,DINCY
+724,8,37,Dianthus deltoides,Q159756,DINDE
+725,8,37,Dianthus furcatus,Q15547949,DINFU
+726,8,37,Dianthus gallicus,Q3594098,DINGA
+727,8,37,Dianthus giganteiformis,Q15567304,DINGF
+728,8,37,Dianthus giganteus,Q15547950,DINGI
+729,8,37,Dianthus gratianopolitanus,Q122778,DINGR
+730,8,37,Dianthus integer,Q15567442,DININ
+731,8,37,Dianthus knappii,Q15547953,DINKN
+732,8,37,Dianthus lusitanus,Q5805226,DINLU
+733,8,37,Dianthus hyssopifolius,Q3026300,DINMO
+734,8,37,Dianthus sternbergii,Q1498853,DINMS
+735,8,37,Dianthus nardiformis,Q1189530,DINNA
+736,8,37,Dianthus petraeus subsp. noeanus,,DINNO
+737,8,37,Dianthus orientalis,Q12232522,DINOR
+738,8,37,Dianthus pavonius,Q1189019,DINPA
+739,8,37,Dianthus petraeus,Q3594099,DINPE
+740,8,37,Dianthus plumarius,Q159590,DINPL
+741,8,37,Dianthus petraeus subsp. petraeus,Q95495010,DINPP
+742,8,37,Dianthus rupicola,Q3706782,DINRU
+743,8,37,Dianthus serotinus,Q14554988,DINSE
+744,8,37,Dianthus seguieri,Q1017263,DINSG
+745,8,37,Dianthus spiculifolius,Q12728832,DINSJ
+746,8,37,Dianthus sp.,,DINSS
+747,8,37,Dianthus superbus,Q161878,DINSU
+748,8,37,Dianthus sylvestris,Q165080,DINSY
+749,8,37,Dianthus tatrae,,DINTA
+750,8,37,Dianthus trifasciculatus,Q15567099,DINTF
+751,8,2538,Dichondra repens var. carolinensis,,DIORC
+752,8,38,Dioscorea sp.,,DIUSS
+753,9,2540,Diervilla lonicera,Q5274994,DIVLO
+754,9,2542,Dipsacus fullonum,Q160099,DIWSI
+755,9,2543,Dichanthelium acuminatum,Q5272444,DKTAC
+756,9,2544,Dalea sp.,,DLESS
+757,9,2545,Dimocarpus longan,Q193449,DMCLO
+758,9,2547,Dodonaea viscosa,Q58393,DODVI
+759,9,2548,Lablab purpureus,Q1077410,DOLLA
+760,8,2550,Diospyros kaki,Q158482,DOSKA
+761,8,2550,Diospyros texana,Q5279625,DOSTE
+762,8,2550,Diospyros virginiana,Q158356,DOSVI
+763,8,2551,Diplocyclos palmatus,Q3335431,DPYPA
+764,9,2553,Dracaena marginata,Q13539275,DRNMA
+765,8,2554,Duboisia sp.,,DUBSS
+766,8,2556,Duranta erecta,Q2732360,DUTPL
+767,9,2557,Echinochloa crus-galli,Q163527,ECHCG
+768,9,2558,Echinospartum lusitanicum,Q15534394,ECSLU
+769,8,2559,Echium plantagineum,Q159280,EHIPL
+770,8,2560,Echinocactus sp.,,EHNSS
+771,9,2562,Ehrharta erecta,Q3758628,EHRER
+772,8,2563,Erica cinerea,Q1543735,EIACN
+773,9,2564,Eriobotrya japonica,Q41505,EIOJA
+774,9,2565,Eleusine indica,Q1148930,ELEIN
+775,8,2567,Elaeagnus angustifolia,Q157969,ELGAN
+776,8,2567,Elaeagnus x submacrophylla,,ELGEB
+777,8,2568,Eremophila maculata,Q5385578,EMHMA
+778,9,2569,Emilia coccinea,Q2028184,EMICO
+779,9,2569,Emilia fosbergii,Q5371657,EMIFO
+780,9,2569,Emilia sonchifolia,Q3595665,EMISO
+781,9,2570,Encelia farinosa,Q597275,ENCFA
+782,7,2575,Ephedra sinica,Q2602813,EPESI
+783,9,2577,Euphorbia chamaesyce,Q5410411,EPHCH
+784,9,2577,Euphorbia corollata,Q5410423,EPHCO
+785,9,2577,Euphorbia cyparissias,Q148552,EPHCY
+786,9,2577,Euphorbia dentata,Q978763,EPHDE
+787,9,2577,Euphorbia hirta,Q36177,EPHHI
+788,9,2577,Euphorbia maculata,Q177322,EPHMA
+789,9,2577,Euphorbia marginata,Q1152788,EPHMG
+790,9,2577,Euphorbia milii,Q148829,EPHML
+791,9,2577,Poinsettia,Q15711519,EPHPU
+792,9,2577,Euphorbia terracina,Q5851935,EPHTE
+793,8,2578,Epimedium sp.,,EPMSS
+794,9,2579,Eriochloa contracta,Q5389306,ERBCO
+795,9,2580,Erechtites hieraciifolius,Q857720,EREHI
+796,9,2583,Eriogonum sp.,,ERGSS
+797,9,2584,Erigeron annuus,Q849411,ERIAN
+798,9,2584,Erigeron bonariensis,Q21874195,ERIBO
+799,9,2584,Erigeron canadensis,Q21874197,ERICA
+800,9,2584,Erigeron karvinskianus,Q1926297,ERIKA
+801,9,2584,Erigeron sp.,,ERISS
+802,9,2584,Erigeron sumatrensis,Q24850608,ERISU
+803,9,2503,Croton setigerus,Q28808832,ERMSE
+804,8,2585,Erodium botrys,Q1545734,EROBO
+805,8,2585,Erodium cicutarium,Q157726,EROCI
+806,8,2585,Erodium moschatum,Q159800,EROMO
+807,8,2585,Erodium sp.,,EROSS
+808,9,2586,Eriocephalus africanus,Q5389298,ERQUM
+809,8,2587,Eryngium sp.,,ERXSS
+810,8,40,Erysimum hybrids,,ERYHY
+811,9,2588,Erythrina crista-galli,Q162849,ERZCG
+812,9,2588,Erythrina sp.,,ERZSS
+813,8,2591,Escallonia bifida,Q16981770,ESABI
+814,8,2591,Escallonia x exoniensis,,ESAEX
+815,9,2594,Elettaria cardamomum,Q33466,ETACA
+816,8,2595,Eutrema japonicum,Q49855,ETMWA
+817,9,41,Eucalyptus camaldulensis,Q162822,EUCCM
+818,9,2596,Corymbia ficifolia,Q597616,EUCFI
+819,9,41,Eucalyptus globulus,Q159528,EUCGL
+820,9,41,Eucalyptus gunnii,Q163788,EUCGU
+821,9,41,Eucalyptus polyanthemos,Q2666533,EUCPT
+822,9,41,Eucalyptus rudis,Q568002,EUCRU
+823,9,41,Eucalyptus sp.,,EUCSS
+824,9,2597,Zea mexicana,Q3575050,EUHME
+825,8,2598,Euonymus atropurpureus,Q4117752,EUOAT
+826,8,2598,Euonymus europaeus,Q161379,EUOEU
+827,8,2598,Euonymus japonicus,Q161383,EUOJA
+828,9,2599,Eupatorium cannabinum,Q744339,EUPCA
+829,9,2599,Eupatorium caelestinum,,EUPCL
+830,9,2600,Ageratina altissima,Q3271463,EUPRU
+831,8,2601,Evolvulus sp.,,EVOSS
+832,9,2602,Exochorda sp.,,EXOSS
+833,9,2603,Eysenhardtia polystachya,Q8847197,EYDAM
+834,9,2604,Euryops chrysanthemoides,Q5414066,EYOCH
+835,9,2604,Euryops pectinatus,Q3642829,EYOPE
+836,9,2605,Facelis retusa,Q15598235,FACAP
+837,8,2606,Fatsia japonica,Q203569,FATJA
+838,8,2607,Fagus crenata,Q1078985,FAUCR
+839,8,2607,Fagus grandifolia,Q149219,FAUGR
+840,8,2607,Fagus sylvatica,Q146149,FAUSY
+841,9,2608,Acca sellowiana,Q499671,FEJSE
+842,9,59,Lolium arundinaceum,Q50346809,FESAR
+843,9,2609,Firmiana simplex,Q776705,FIRPL
+844,8,2610,Ficus benghalensis,Q1405636,FIUBG
+845,8,2610,Ficus carica,Q36146,FIUCA
+846,8,2611,Foeniculum vulgare,Q43511,FOEVU
+847,9,43,Fortunella japonica,Q124344319,FOLJA
+848,9,43,Fortunella sp.,,FOLSS
+849,8,2613,Fouquieria splendens,Q138966,FOQSP
+850,8,2614,Forestiera acuminata,Q5469241,FORAC
+851,8,2615,Forsythia sp.,,FOSSS
+852,8,2615,Forsythia suspensa,Q1275024,FOSSU
+853,9,44,Fragaria x ananassa,,FRAAN
+854,9,44,Fragaria vesca subsp. bracteata,,FRAVB
+855,9,44,Fragaria vesca,Q146684,FRAVE
+856,9,44,Fragaria virginiana,Q978247,FRAVI
+857,9,2616,Froelichia sp.,,FROSS
+858,9,2617,Franseria sp.,,FRSSS
+859,8,2618,Fraxinus americana,Q1193369,FRXAM
+860,8,2618,Fraxinus angustifolia,Q518949,FRXAN
+861,8,2618,Fraxinus bungeana,Q923901,FRXBU
+862,8,2618,Fraxinus dipetala,Q28814749,FRXDI
+863,8,2618,Fraxinus excelsior,Q156907,FRXEX
+864,8,2618,Fraxinus latifolia,Q1581524,FRXLA
+865,8,2618,Fraxinus mandshurica,Q1357301,FRXMA
+866,8,2618,Fraxinus nigra,Q1790101,FRXNI
+867,8,2618,Fraxinus ornus,,FRXOR
+868,8,2618,Fraxinus pennsylvanica,Q161164,FRXPE
+869,8,2618,Fraxinus sogdiana,Q1024066,FRXPO
+870,8,2618,Fraxinus quadrangulata,Q882296,FRXQU
+871,8,2618,Fraxinus chinensis subsp. rhynchophylla,Q24877905,FRXRH
+872,8,2618,Fraxinus sp.,,FRXSS
+873,8,2618,Fraxinus velutina,Q258068,FRXVE
+874,8,2619,Fuchsia,Q161066,FUCHY
+875,8,2619,Fuchsia magellanica,Q164101,FUCMA
+876,8,2620,Oenothera gaura,Q17602219,GAABI
+877,8,2620,Oenothera suffrutescens,Q17602158,GAACO
+878,8,2621,Gardenia jasminoides,Q1072101,GADJA
+879,9,2622,Gaillardia aristata,Q5517196,GAIAR
+880,9,2622,Gaillardia pulchella,Q2701210,GAIPU
+881,8,2623,Galium sp.,,GALSS
+882,8,2626,Garrya flavescens,Q5524259,GARFL
+883,9,2627,Galinsoga quadriradiata,Q614880,GASCI
+884,9,2627,Galinsoga parviflora,Q1160937,GASPA
+885,8,2628,Gaylussacia baccata,Q5528871,GAYBA
+886,8,2628,Gaylussacia frondosa,Q5528874,GAYFR
+887,9,2629,Gazania rigens,Q775301,GAZRI
+888,9,2631,Gerbera jamesonii,Q746928,GEBJA
+889,8,2633,Gelsemium sempervirens,Q978130,GELSE
+890,9,2634,Genista balearica,Q15479318,GENBA
+891,9,2634,Genista corsica,Q3100733,GENCO
+892,9,2634,Genista ephedroides,Q15057312,GENEP
+893,9,2634,Genista hirsuta,Q5877132,GENHS
+894,9,2634,Genista tricuspidata,Q15480035,GENLU
+895,9,2634,Genista x spachiana,,GENSA
+896,9,2634,Genista scorpius,Q3101011,GENSC
+897,9,2634,Genista sp.,,GENSS
+898,9,2634,Genista triacanthos,Q5406877,GENTR
+899,8,46,Geranium carolinianum,Q1023840,GERCA
+900,8,46,Geranium dissectum,Q158413,GERDI
+901,9,2635,Geum aleppicum var. strictum,,GEUAS
+902,9,2635,Geum canadense,Q5554832,GEUCA
+903,9,2636,Gahnia sp.,,GHNSS
+904,8,2638,Gilia sp.,,GIISS
+905,7,2643,Ginkgo biloba,Q43284,GIKBI
+906,9,47,Gladiolus hybrids,,GLAHY
+907,9,2644,Gleditsia triacanthos,Q157650,GLITR
+908,9,2645,Gliricidia sepium,Q2717303,GLRSE
+909,9,2646,Glycine max,Q11006,GLXMA
+910,9,2648,Gmelina arborea,Q311345,GMEAR
+911,9,2649,Gnaphalium sp.,,GNASS
+912,9,2651,Gomphrena globosa,Q1200680,GOMGL
+913,8,2652,Gordonia lasianthus,Q5586051,GORLA
+914,9,48,Gossypium anomalum,Q15368023,GOSAN
+915,9,48,Gossypium arboreum,Q310124,GOSAR
+916,9,48,Gossypium barbadense,Q311515,GOSBA
+917,9,48,Gossypium davidsonii,Q25533060,GOSDV
+918,9,48,Gossypium herbaceum,Q177615,GOSHE
+919,9,48,Gossypium hirsutum,Q133481,GOSHI
+920,9,48,Gossypium thurberi,Q5587520,GOSTH
+921,9,2656,Grevillea juniperina,Q2712018,GREJU
+922,9,2656,Grevillea robusta,Q1989614,GRERO
+923,9,2656,Grevillea rosmarinifolia,Q2583123,GRERS
+924,9,2657,Grindelia sp.,,GRNSS
+925,9,2658,Gutierrezia sp.,,GUESS
+926,9,2659,Gymnocladus dioica,,GYMDI
+927,9,2660,Gynura aurantiaca,Q9268236,GYUAU
+928,8,2662,Haloragis erecta,Q4423172,HAGER
+929,8,2663,Halimium calycinum,Q15343295,HAICO
+930,8,2663,Halimium lasianthum,Q2157768,HAILA
+931,8,2663,Halimium ocymoides,Q5642348,HAIOC
+932,8,2663,Halimium sp.,,HAISS
+933,9,2664,Haplopappus sp.,,HAPSS
+934,8,102,Veronica elliptica,Q17744932,HBEEL
+935,8,2666,Heuchera sp.,,HCHSS
+936,9,2668,Hydrastis canadensis,Q1051710,HDRCA
+937,8,2669,Helianthemum nummularium,Q164232,HEANU
+938,9,2670,Helichrysum italicum,Q1587861,HECIT
+939,9,2670,Helichrysum sp.,,HECSS
+940,9,2670,Helichrysum stoechas,Q1636806,HECST
+941,8,2671,Hedera helix,Q26354,HEEHE
+942,9,2672,Heliopsis helianthoides,Q478332,HEFHE
+943,9,2672,Heliopsis helianthoides var. scabra,Q24690939,HEFHS
+944,9,2675,Hemerocallis sp.,,HEGSS
+945,9,51,Helianthus annuus,Q171497,HELAN
+946,9,51,Helianthus maximiliani,Q5704865,HELMA
+947,9,51,Helianthus petiolaris,Q5704886,HELPE
+948,9,51,Helianthus sp.,,HELSS
+949,9,51,Helianthus tuberosus,Q146190,HELTU
+950,9,2676,Helenium amarum,Q5703935,HENAM
+951,9,2676,Helenium autumnale,Q1520938,HENAU
+952,8,2677,Heliotropium europaeum,Q164452,HEOEU
+953,8,2677,Heliotropium fruticosum,Q15490170,HEOFR
+954,8,2677,Heliotropium indicum,Q2249031,HEOIN
+955,8,2678,Heracleum maximum,Q2896924,HERMA
+956,9,2679,Hibiscus cannabinus,Q1137540,HIBCA
+957,9,2679,Hibiscus palustris,Q21874506,HIBPA
+958,9,2679,Hibiscus rosa-sinensis,Q159534,HIBRS
+959,9,2679,Hibiscus sabdariffa,Q319390,HIBSA
+960,9,2679,Hibiscus schizopetalus,Q966855,HIBSH
+961,9,2679,Hibiscus sp.,,HIBSS
+962,9,2679,Hibiscus syriacus,Q157756,HIBSY
+963,9,2679,Hibiscus trionum,Q157854,HIBTR
+964,9,2680,Pilosella aurantiaca,Q20757547,HIEAU
+965,9,2681,Hieracium sp.,,HIESS
+966,9,2682,Hakonechloa macra,Q1129703,HKNMA
+967,9,2683,Holcus lanatus,Q158110,HOLLA
+968,9,2684,Hordeum murinum,Q161674,HORMU
+969,9,2684,Hordeum vulgare,Q11577,HORVX
+970,8,2685,Houstonia sp.,,HOUSS
+971,9,2687,Hippeastrum sp.,,HPSSS
+972,9,2689,Herrania sp.,,HRASS
+973,9,2690,Hypochaeris brasiliensis,Q15590906,HRYBR
+974,9,2690,Hypochaeris radicata,Q421057,HRYRA
+975,8,2691,Hyoscyamus niger,Q161058,HSYNI
+976,8,2691,Hyoscyamus sp.,,HSYSS
+977,9,2692,Heteranthemis viscidehirta,Q19848875,HTMVI
+978,9,2693,Heterotheca grandiflora,Q13919183,HTTGR
+979,8,2694,Humulus scandens,Q15540069,HUMJA
+980,8,2694,Humulus lupulus,Q104212,HUMLU
+981,9,2695,Hevea brasiliensis,Q156538,HVEBR
+982,9,52,Hyacinthus orientalis,Q157428,HYAOR
+983,9,2697,Hydrocotyle ranunculoides,Q596203,HYDRA
+984,8,53,Hydrangea petiolaris,Q159332,HYEAP
+985,8,53,Hydrangea arborescens,Q278173,HYEAR
+986,8,53,Hydrangea macrophylla,Q159219,HYEMA
+987,8,53,Hydrangea paniculata,Q158443,HYEPA
+988,8,53,Hydrangea sp.,,HYESS
+989,8,2699,Hypericum androsaemum,Q886411,HYPAN
+990,8,2699,Hypericum calycinum,Q159330,HYPCA
+991,8,2699,Hypericum perforatum,Q158289,HYPPE
+992,8,2700,Jacaranda acutifolia,Q3157066,IACAC
+993,8,2700,Jacaranda mimosifolia,Q838818,IACMI
+994,9,2701,Jatropha sp.,,IATSS
+995,8,2702,Iberis sempervirens,Q159306,IBESE
+996,8,2705,Ilex aquifolium,Q192190,ILEAQ
+997,8,2705,Ilex cassine,Q3141413,ILECA
+998,8,2705,Ilex decidua,Q5997670,ILEDE
+999,8,2705,Ilex vomitoria,Q1010694,ILEVO
+1000,9,2706,Indigofera sp.,,INDSS
+1001,9,2707,Dittrichia viscosa,Q311844,INUVI
+1002,8,54,Impatiens balsamina,Q845019,IPABA
+1003,8,54,Impatiens New Guinea hybrids,,IPANG
+1004,8,54,Impatiens noli-tangere,Q158748,IPANT
+1005,8,54,Impatiens walleriana,,IPAWA
+1006,8,2708,Ipomoea batatas,Q37937,IPOBA
+1007,8,2708,Ipomoea carnea subsp. fistulosa,Q24877499,IPOFI
+1008,8,2708,Ipomoea hildebrandtii,Q17398832,IPOHD
+1009,8,2708,Ipomoea hederacea,Q159795,IPOHE
+1010,8,2708,Ipomoea nil,Q162117,IPONI
+1011,8,2708,Ipomoea quamoclit,Q311056,IPOQU
+1012,9,2710,Iris x hollandica,,IRIHO
+1013,8,2711,Juglans ailanthifolia,Q1655870,IUGAI
+1014,8,2711,Juglans californica,Q890824,IUGCA
+1015,8,2711,Juglans nigra,Q60174724,IUGNI
+1016,8,2711,Juglans regia,Q46871,IUGRE
+1017,8,2711,Juglans sp.,,IUGSS
+1018,9,2714,Justicia americana,,IUIAM
+1019,7,55,Juniperus ashei,Q309507,IUPAS
+1020,7,55,Juniperus chinensis,Q157697,IUPCH
+1021,7,55,Juniperus communis,Q26325,IUPCO
+1022,7,55,Juniperus chinensis var. sargentii,Q15239368,IUPCS
+1023,7,55,Juniperus deppeana var. pachyphloea,,IUPDP
+1024,7,55,Juniperus horizontalis,Q121427,IUPHO
+1025,7,55,Juniperus scopulorum,Q533674,IUPSC
+1026,7,55,Juniperus virginiana var. silicicola,Q24692086,IUPSL
+1027,7,55,Juniperus sp.,,IUPSS
+1028,7,55,Juniperus virginiana,Q157522,IUPVI
+1029,9,2715,Iva annua,Q6095678,IVAAN
+1030,9,2715,Iva xanthiifolia,Q15598362,IVAXA
+1031,8,2716,Kalmia latifolia,Q1235131,KAMLA
+1032,8,56,Kalanchoe blossfeldiana,Q132145,KANBL
+1033,9,2717,Bassia scoparia,Q829752,KCHSC
+1034,9,2718,Kerria japonica,Q157401,KERJA
+1035,9,2719,Leucophyta brownii,Q6534219,KLCBR
+1036,9,2720,Koelreuteria bipinnata,Q2902122,KOTBI
+1037,9,2720,Koelreuteria paniculata,Q844835,KOTPA
+1038,9,2720,Koelreuteria sp.,,KOTSS
+1039,8,2723,Krameria lanceolata,Q15595718,KRALA
+1040,9,2724,Krigia sp.,,KRISS
+1041,9,2725,Kuhnia sp.,,KUHSS
+1042,9,2726,Laburnum alpinum,Q3497019,LABAL
+1043,9,2726,Laburnum anagyroides,Q147939,LABAN
+1044,9,2727,Lactuca sativa,Q83193,LACSA
+1045,9,2727,Lactuca serriola,Q533481,LACSE
+1046,9,2727,Lactuca sativa var. longifolia,Q1762893,LACSO
+1047,8,2729,Lagerstroemia indica,Q1148692,LAEIN
+1048,8,2729,Lagerstroemia sp.,,LAESS
+1049,8,2730,Lantana horrida,Q15430914,LANHO
+1050,9,2731,Lavandula angustifolia,Q42081,LAVAN
+1051,9,2731,Lavandula x chaytorae,,LAVCY
+1052,9,2731,Lavandula dentata,Q1450735,LAVDE
+1053,9,2731,Lavandula x heterophylla,,LAVHE
+1054,9,2731,Lavandula x intermedia,,LAVIN
+1055,9,2731,Lavandula latifolia,Q905916,LAVLA
+1056,9,2731,Lavandula sp.,,LAVSS
+1057,9,2731,Lavandula stoechas,Q1342976,LAVST
+1058,7,2732,Larix decidua,,LAXDE
+1059,7,2732,Larix laricina,Q734085,LAXLA
+1060,7,2732,Larix kaempferi,Q147439,LAXLE
+1061,7,2732,Larix lyallii,Q1404234,LAXLY
+1062,7,2732,Larix occidentalis,Q576585,LAXOC
+1063,7,2732,Larix gmelinii var. principis-ruprechtii,,LAXPR
+1064,7,2732,Larix sp.,,LAXSS
+1065,9,2733,Libertia peregrinans,Q4042855,LBEPR
+1066,9,2425,Leucanthemum lacustre,Q19848891,LCALA
+1067,8,2734,Leucophyllum frutescens,Q2355636,LCPFR
+1068,9,2735,Leonurus sibiricus,Q1788423,LECSI
+1069,9,2736,Leptospermum scoparium,Q1520028,LEKSC
+1070,9,2737,Vicia lens,Q111391147,LENCU
+1071,8,2362,Lepidium auriculatum,Q15431091,LEPAU
+1072,8,2362,Lepidium campestre,Q149447,LEPCA
+1073,8,2362,Lepidium densiflorum,Q149643,LEPDE
+1074,8,2362,Lepidium ruderale,Q149726,LEPRU
+1075,8,2362,Lepidium sativum,Q27033,LEPSA
+1076,8,2362,Lepidium virginicum,Q149265,LEPVI
+1077,9,2738,Lespedeza sp.,,LESSS
+1078,8,2739,Lesquerella sp.,,LEUSS
+1079,8,2740,Lagenaria siceraria,Q1277255,LGNSI
+1080,9,2741,Retama monosperma,Q966251,LGOMO
+1081,8,2742,Notholithocarpus densiflorus,Q17271024,LIADF
+1082,8,2743,Lindera benzoin,Q3024124,LIEBE
+1083,8,2743,Lindera latifolia,Q10925767,LIELA
+1084,8,2743,Lindera melissifolia,Q6552425,LIEML
+1085,8,2743,Lindera sp.,,LIESS
+1086,8,2744,Ligustrum lucidum,Q732933,LIGLU
+1087,8,2744,Ligustrum sinense,Q1074201,LIGSI
+1088,8,2744,Ligustrum sp.,,LIGSS
+1089,8,2744,Ligustrum vulgare,Q1848856,LIGVU
+1090,8,2746,Limonium platyphyllum,Q17242313,LIILA
+1091,8,2746,Limonium sp.,,LIISS
+1092,8,2749,Lilium davidii hybrids,,LILDH
+1093,8,2749,Lilium x hollandicum,,LILHO
+1094,8,2749,Lilium hybrids,,LILHY
+1095,8,2750,Linaria vulgaris,Q157078,LINVU
+1096,8,2751,Lippia sp.,,LIPSS
+1097,8,2753,Liquidambar styraciflua,Q469652,LIQST
+1098,8,2755,Liriodendron tulipifera,Q158783,LIRTU
+1099,8,2756,Litsea aestivalis,Q15608216,LISAE
+1100,8,2756,Litsea elongata,Q11177022,LISEL
+1101,8,2757,Buglossoides arvensis,Q341668,LITAR
+1102,8,2759,Linum bienne,Q232898,LIUBI
+1103,8,2759,Linum lewisii,Q3113824,LIULE
+1104,8,2759,Linum marginale,Q6554954,LIUMA
+1105,8,2759,Linum rigidum,Q17548497,LIURI
+1106,8,2759,Linum sulcatum,Q17548495,LIUSC
+1107,8,2759,Linum usitatissimum,Q45108,LIUUT
+1108,9,2762,Lampranthus sp.,,LMPSS
+1109,9,2764,Lobelia inflata,Q1661351,LOBIN
+1110,9,2764,Lobelia siphilitica,Q2720384,LOBSI
+1111,9,59,Lolium multiflorum,Q157883,LOLMU
+1112,9,59,Lolium perenne,Q161722,LOLPE
+1113,9,59,Lolium sp.,,LOLSS
+1114,9,2766,Lonicera implexa,Q1537828,LONIM
+1115,9,2766,Lonicera japonica,Q161083,LONJA
+1116,9,2766,Lonicera morrowii,Q2701825,LONMO
+1117,9,2766,Lonicera ligustrina var. yunnanensis,Q25117621,LONNT
+1118,9,2766,Lonicera periclymenum,Q161584,LONPE
+1119,9,2766,Lonicera sempervirens,Q161352,LONSE
+1120,9,2766,Lonicera sp.,,LONSS
+1121,9,2766,Lonicera tatarica,Q158546,LONTA
+1122,8,2767,Lappula squarrosa,Q160254,LPLSQ
+1123,8,2768,Lamourouxia dependens,Q15336870,LRXDE
+1124,8,2768,Lamourouxia rhinanthifolia,Q15336402,LRXRH
+1125,9,2769,Lathyrus ochrus,Q12205673,LTHOC
+1126,9,2769,Lathyrus odoratus,Q163944,LTHOD
+1127,9,2770,Liatris pycnostachya,Q12061156,LTSPY
+1128,9,2770,Liatris spicata,Q1797975,LTSSP
+1129,8,2771,Ludwigia grandiflora,Q3266274,LUDUR
+1130,8,2772,Luffa acutangula,Q1948703,LUFAC
+1131,8,2772,Luffa aegyptiaca,Q2308434,LUFAE
+1132,9,2773,Lupinus arboreus,Q4117740,LUPAB
+1133,9,2773,Lupinus aridorum,Q6704748,LUPAD
+1134,9,2773,Lupinus luteus,Q159751,LUPLU
+1135,9,2773,Lupinus perennis,Q2365593,LUPPE
+1136,9,2773,Lupinus polyphyllus,Q159737,LUPPO
+1137,9,2773,Lupinus subcarnosus,Q12841445,LUPSU
+1138,9,2773,Lupinus villosus,Q12841446,LUPVI
+1139,8,2774,Laurus nobilis,Q26006,LURNO
+1140,8,2774,Laurus sp.,,LURSS
+1141,9,2775,Malva multiflora,Q21326051,LVACR
+1142,8,2776,Lyonia ovalifolia,Q3336992,LYDOV
+1143,8,2777,Lychnis chalcedonica,,LYHCH
+1144,8,2778,Viscaria vulgaris,Q158946,LYHVI
+1145,8,2779,Lycianthes radiata,Q15530543,LYIRA
+1146,8,90,Solanum lycopersicum,Q23501,LYPES
+1147,9,2780,Lysimachia ciliata,Q2706407,LYSCI
+1148,9,2780,Lysimachia nummularia,Q147305,LYSNU
+1149,9,2780,Lysimachia sp.,,LYSSS
+1150,8,2781,Lycium berlandieri,Q1878516,LYUBE
+1151,8,2781,Lycium carolineanum,,LYUCA
+1152,8,2781,Lycium ferocissimum,Q151022,LYUFE
+1153,8,2781,Lycium barbarum,Q196332,LYUHA
+1154,8,2781,Lycium sp.,,LYUSS
+1155,9,61,Malus x adstringens,,MABAD
+1156,9,61,Malus angustifolia,Q4535958,MABAN
+1157,9,61,Malus x atrosanguinea,Q21370191,MABAT
+1158,9,61,Malus baccata,Q1743596,MABBA
+1159,9,61,Malus coronaria,Q1936759,MABCO
+1160,9,61,Malus floribunda,Q1683370,MABFB
+1161,9,61,Malus fusca,Q2564409,MABFU
+1162,9,61,Malus glaucescens,Q12841659,MABGL
+1163,9,61,Malus halliana,Q1571895,MABHA
+1164,9,61,Malus hupehensis,Q1712421,MABHU
+1165,9,61,Malus ioensis,Q3332919,MABIO
+1166,9,61,Malus kansuensis,Q1937366,MABKA
+1167,9,61,Malus x magdeburgensis,,MABMA
+1168,9,61,Malus x micromalus,,MABMI
+1169,9,61,Malus x moerlandsii,,MABMO
+1170,9,61,Malus prunifolia,Q738571,MABPF
+1171,9,61,Malus x purpurea,,MABPU
+1172,9,61,Malus sargentii,Q4992558,MABSA
+1173,9,61,Malus domestica,Q18674606,MABSD
+1174,9,61,Malus x scheideckeri,,MABSH
+1175,9,61,Malus x soulardii,,MABSO
+1176,9,61,Malus spectabilis,Q1074153,MABSP
+1177,9,61,Malus sylvestris,Q47161,MABSY
+1178,9,61,Malus toringoides,Q1023519,MABTG
+1179,9,61,Malus toringo,Q52626848,MABTO
+1180,9,61,Malus x zumi,,MABZU
+1181,8,2782,Maclura pomifera,Q1066106,MACPO
+1182,8,2783,Magnolia grandiflora,Q15243645,MAGGR
+1183,8,2783,Magnolia x soulangeana,Q731443,MAGSO
+1184,9,2784,Malvaviscus arboreus var. drummondii,Q10958975,MAIAD
+1185,9,2785,Origanum majorana,Q22694,MAJHO
+1186,8,2786,Mammillaria sp.,,MAKSS
+1187,9,2775,Malva parviflora,Q4115447,MALPA
+1188,9,2775,Malva sylvestris,,MALSI
+1189,9,2775,Malva sp.,,MALSS
+1190,9,2787,Manihot esculenta,Q83124,MANES
+1191,9,2788,Marrubium vulgare,Q157631,MAQVU
+1192,9,2789,Matricaria chamomilla,Q28437,MATCH
+1193,9,2790,Tripleurospermum inodorum,Q19848986,MATIN
+1194,9,2791,Malvastrum sp.,,MAVSS
+1195,9,2792,Marsypianthes chamaedrys,Q15340680,MAXCH
+1196,8,2793,Machilus nanmu,Q15608230,MCHNA
+1197,9,2794,Maackia amurensis,Q1353893,MCKAM
+1198,8,2795,Melampyrum lineare,Q6811161,MEALI
+1199,9,2796,Medicago arabica,Q159140,MEDAB
+1200,9,2796,Medicago arborea,Q1668432,MEDAR
+1201,9,2796,Medicago lupulina,Q157923,MEDLU
+1202,9,2796,Medicago polymorpha,Q164772,MEDPO
+1203,9,2796,Medicago sativa,Q156106,MEDSA
+1204,9,2796,Medicago truncatula,Q136894,MEDTR
+1205,8,2798,Melia azedarach,Q162171,MEIAZ
+1206,8,2799,Silene latifolia subsp. alba,Q24877356,MELAL
+1207,9,62,Mentha x piperita,Q156037,MENPI
+1208,9,62,Mentha suaveolens,Q158892,MENSU
+1209,9,2800,Melilotus albus var. annuus,,MEUAA
+1210,9,2800,Melilotus albus,Q158596,MEUAL
+1211,9,2800,Melilotus indicus,Q159138,MEUIN
+1212,9,2800,Melilotus officinalis,Q161160,MEUOF
+1213,9,2800,Melilotus sp.,,MEUSS
+1214,8,2801,Mirabilis jalapa,Q13710,MIBJA
+1215,8,2801,Mirabilis nyctaginea,Q6872327,MIBNY
+1216,9,2802,Mimosa sp.,,MIMSS
+1217,9,2803,Mallotus paniculatus,Q15247339,MLLPA
+1218,9,2804,Melicope ternata,Q6812328,MLQTE
+1219,9,2805,Melissa officinalis,Q148396,MLSOF
+1220,8,2807,Melicytus ramiflorus,Q311756,MLYRA
+1221,9,2808,Micromeria douglasii,Q10752340,MMJCH
+1222,9,2809,Mangifera indica,Q3919027,MNGIN
+1223,8,2810,Menziesia pilosa,Q15386778,MNIPI
+1224,9,2811,Manilkara zapota,Q14959,MNKZA
+1225,8,2812,Montia linearis,Q16985949,MNTLI
+1226,8,2814,Mentzelia laevicaulis,Q1529926,MNZLA
+1227,9,2815,Modiola caroliniana,Q3773995,MODCA
+1228,8,2817,Mollugo verticillata,Q6896488,MOLVE
+1229,8,2818,Morus alba,Q157307,MORAL
+1230,8,2818,Morus rubra,Q1520764,MORRU
+1231,8,2818,Morus sp.,,MORSS
+1232,8,2819,Distimake macrocalyx,Q43374184,MRRMA
+1233,8,2820,Meryta sinclairii,Q5459044,MRYSI
+1234,8,2821,Mespilus germanica,Q146186,MSPGE
+1235,9,2822,Metrosideros excelsa,Q311747,MTDEX
+1236,9,2822,Metrosideros kermadecensis,Q4291999,MTDKE
+1237,9,2822,Metrosideros sp.,,MTDSS
+1238,8,2823,Matthiola incana,Q30063,MTLIN
+1239,8,2823,Matthiola sp.,,MTLSS
+1240,8,65,Musa acuminata,Q132970,MUBAC
+1241,8,65,Musa x paradisiaca,,MUBPA
+1242,8,65,Musa sp.,,MUBSS
+1243,9,2824,Mucuna deeringiana,,MUCDE
+1244,8,2825,Myoporum insulare,Q6948020,MYMIN
+1245,8,2825,Myoporum laetum,Q153042,MYMLA
+1246,8,2825,Myoporum sp.,,MYMSS
+1247,8,2827,Morella cerifera,Q1109693,MYRCE
+1248,9,2828,Myrtus communis,,MYVCO
+1249,9,2829,Ugni molinae,Q1072849,MYVUG
+1250,8,2830,Nandina domestica,Q1153858,NANDO
+1251,9,2831,Narcissus sp.,,NARSS
+1252,9,2832,Nerium oleander,Q155833,NEROL
+1253,8,2833,Neviusia alabamensis,Q4315805,NEVAL
+1254,8,2834,Nicandra physalodes,Q1509784,NICPH
+1255,8,2834,Nicandra sp.,,NICSS
+1256,8,2835,Nierembergia frutescens,Q17400389,NIEFR
+1257,8,2835,Nierembergia sp.,,NIESS
+1258,8,2836,Nicotiana acuminata,Q1987290,NIOAC
+1259,8,2836,Nicotiana benthamiana,Q3024956,NIOBE
+1260,8,2836,Nicotiana quadrivalvis,Q7030548,NIOBI
+1261,8,2836,Nicotiana clevelandii,Q7030541,NIOCL
+1262,8,2836,Nicotiana glauca,Q882908,NIOGL
+1263,8,2836,Nicotiana occidentalis,Q7030543,NIOOC
+1264,8,2836,Nicotiana tabacum,Q181095,NIOTA
+1265,9,2837,Neptunia lutea,Q13934583,NPTLU
+1266,8,2838,Nestegis sp.,,NTGSS
+1267,8,2839,Nyssa sp.,,NYSSS
+1268,8,2840,Ocotea heribertoi,Q15609060,OCOHE
+1269,8,2620,Oenothera laciniata,Q5956341,OEOLA
+1270,9,2841,Olearia traversii,Q5435203,OLRTR
+1271,8,2842,Olea europaea subsp. sylvestris,,OLVES
+1272,8,2842,Olea europaea,Q37083,OLVEU
+1273,8,2842,Olea sp.,,OLVSS
+1274,8,2843,Oncoba spinosa,Q3335444,ONKSP
+1275,8,2844,Lithospermum occidentale,Q17416631,ONMBE
+1276,8,2845,Orthocarpus luteus,Q7104412,ORCLU
+1277,9,2846,Oryza australiensis,Q15251837,ORYAU
+1278,9,2846,Oryza sativa,Q161426,ORYSA
+1279,9,2847,Dimorphotheca ecklonis,Q15629400,OSPEK
+1280,9,2847,Dimorphotheca fruticosa,Q15576893,OSPFR
+1281,8,2848,Ostrya virginiana,Q1489573,OSTVI
+1282,8,2849,Osmanthus heterophyllus,Q2364246,OSUHE
+1283,8,2852,Oxalis latifolia,Q7115068,OXALA
+1284,8,2852,Oxalis sp.,,OXASS
+1285,8,2853,Oxydendrum arboreum,Q48677,OXDAR
+1286,8,2856,Pandanus sp.,,PADSS
+1287,9,2376,Parkinsonia sp.,,PAKSS
+1288,9,2857,Megathyrsus maximus,Q50846435,PANMA
+1289,9,2858,Panicum miliaceum,Q165196,PANMI
+1290,9,2343,Urochloa mutica,Q7900798,PANPU
+1291,8,2860,Paeonia lactiflora,Q163076,PAOLA
+1292,9,2861,Papaver nudicaule,Q148824,PAPNU
+1293,9,2861,Papaver somniferum,Q131584,PAPSO
+1294,8,2863,Passiflora edulis,Q156790,PAQED
+1295,8,2863,Passiflora foetida,Q1766333,PAQFO
+1296,8,2863,Passiflora sp.,,PAQSS
+1297,8,2864,Petroselinum crispum,Q25284,PARCR
+1298,9,2865,Paspalum dilatatum,Q3020700,PASDI
+1299,9,2865,Paspalum regnellii,Q15506787,PASRE
+1300,9,2865,Paspalum urvillei,Q7142304,PASUR
+1301,8,2866,Pastinaca sativa,Q188614,PAVSA
+1302,8,2868,Paulownia elongata,Q7155341,PAZEL
+1303,8,2868,Paulownia tomentosa,Q157393,PAZTO
+1304,9,2869,Pachystegia insignis,Q7122223,PBGIN
+1305,9,2870,Pseudocydonia sinensis,Q1334892,PDCSI
+1306,8,2871,Pedicularis bracteosa,Q17715523,PEABR
+1307,8,2871,Pedicularis groenlandica,Q596828,PEAGD
+1308,8,2872,Aguacate,Q37153,PEBAM
+1309,8,2872,Persea borbonia,Q4351742,PEBBO
+1310,8,2872,Persea humilis,Q15555059,PEBHU
+1311,8,2872,Persea indica,Q654852,PEBIN
+1312,8,2872,Persea palustris,Q1245407,PEBPA
+1313,8,2873,Penstemon cobaea,Q17739529,PEECO
+1314,9,2874,Salvia abrotanoides,Q90595153,PEKAB
+1315,8,69,Pelargonium x fragrans,,PELFR
+1316,8,69,Pelargonium graveolens,Q164306,PELGV
+1317,8,69,Pelargonium sp.,,PELSS
+1318,8,69,Pelargonium x hortorum,,PELZO
+1319,8,2877,Peperomia pellucida,Q3337038,PEOPE
+1320,9,2375,Cenchrus ciliaris,Q2715047,PESCI
+1321,9,2375,Cenchrus clandestinus,Q50840658,PESCL
+1322,9,2375,Pennisetum glaucum,Q654332,PESGL
+1323,9,2375,Cenchrus purpureus,Q41531378,PESPU
+1324,8,2878,Petunia axillaris,Q3377722,PEUAX
+1325,8,2878,Petunia hybrids,,PEUHY
+1326,8,2879,Gaultheria mucronata,Q2699200,PEYMU
+1327,8,2880,Petrocoptis grandiflora,Q25649716,PFCGR
+1328,9,2881,Pentameris pallida,Q24700577,PFMPA
+1329,9,2882,Phagnalon saxatile,Q6074062,PGASA
+1330,9,2882,Phagnalon sp.,,PGASS
+1331,9,2883,Phalaris angusta,Q7180266,PHAAN
+1332,8,2708,Ipomoea purpurea,Q1630964,PHBPU
+1333,8,2884,Phacelia sp.,,PHCSS
+1334,8,2885,Philadelphus sp.,,PHISS
+1335,9,2886,Phormium colensoi,Q7187392,PHMCO
+1336,9,2886,Phormium tenax,Q607380,PHMTE
+1337,9,2887,Heteromeles arbutifolia,Q21546397,PHNAR
+1338,9,2888,Photinia serratifolia,Q5220976,PHNSE
+1339,9,2889,Physocarpus sp.,,PHPSS
+1340,9,70,Phaseolus acutifolius,Q1639734,PHSAF
+1341,9,2890,Vigna angularis,Q380279,PHSAN
+1342,9,2890,Vigna radiata,Q484447,PHSAU
+1343,9,70,Phaseolus coccineus,Q159753,PHSCO
+1344,9,70,Phaseolus lunatus,Q1166136,PHSLU
+1345,9,2890,Vigna mungo,Q369447,PHSMU
+1346,9,70,Phaseolus pubescens,,PHSPU
+1347,9,70,Phaseolus vulgaris,Q42339,PHSVX
+1348,8,2892,Phytolacca americana,Q157853,PHTAM
+1349,9,2894,Phoenix dactylifera,Q25292,PHXDA
+1350,9,2894,Phoenix reclinata,Q161241,PHXRE
+1351,9,2894,Phoenix roebelenii,Q164113,PHXRO
+1352,9,2894,Phoenix sp.,,PHXSS
+1353,8,2895,Physalis alkekengi var. franchetii,Q11077689,PHYAF
+1354,8,2895,Physalis angulata,Q311677,PHYAN
+1355,8,2895,Physalis heterophylla,Q151021,PHYHE
+1356,8,2895,Physalis longifolia,Q310693,PHYLF
+1357,8,2895,Physalis peruviana,Q165227,PHYPE
+1358,8,2895,Physalis sp.,,PHYSS
+1359,8,2895,Physalis virginiana,Q15532772,PHYVR
+1360,9,2896,Pistacia chinensis,Q163273,PIACH
+1361,9,2896,Pistacia vera,Q36071,PIAVE
+1362,9,2897,Pisum sativum subsp. arvense,Q149758,PIBSA
+1363,9,2897,Pisum sativum,Q25237,PIBSX
+1364,7,2898,Picea abies,Q145992,PIEAB
+1365,7,2898,Picea asperata,Q3239660,PIEAS
+1366,7,2898,Picea engelmannii,Q165387,PIEEN
+1367,7,2898,Picea glauca,Q128116,PIEGA
+1368,7,2898,Picea jezoensis,Q1190084,PIEJE
+1369,7,2898,Picea mariana,Q218425,PIEMA
+1370,7,2898,Picea obovata,Q1137607,PIEOB
+1371,7,2898,Picea omorika,Q147824,PIEOM
+1372,7,2898,Picea rubens,Q469151,PIERU
+1373,7,2898,Picea sitchensis,Q147426,PIESI
+1374,7,2898,Picea sp.,,PIESS
+1375,8,2899,Pimpinella anisum,Q28692,PIMAN
+1376,9,2900,Pinellia ternata,Q1258277,PINTE
+1377,8,2901,Piper betle,Q159532,PIPBE
+1378,8,2901,Piper dilatatum,Q15599357,PIPDI
+1379,8,2901,Piper hispidum,Q15600954,PIPHI
+1380,7,2902,Pinus albicaulis,Q761480,PIUAB
+1381,7,2902,Pinus aristata,Q936888,PIUAI
+1382,7,2902,Pinus armandii,Q3286876,PIUAR
+1383,7,2902,Pinus attenuata,Q2703208,PIUAT
+1384,7,2902,Pinus ayacahuite,Q1546541,PIUAY
+1385,7,2902,Pinus banksiana,Q806838,PIUBN
+1386,7,2902,Pinus brutia,Q628329,PIUBR
+1387,7,2902,Pinus canariensis,Q756191,PIUCA
+1388,7,2902,Pinus caribaea,Q2900918,PIUCB
+1389,7,2902,Pinus cembra,Q147278,PIUCE
+1390,7,2902,Pinus clausa,Q1259309,PIUCL
+1391,7,2902,Pinus cembroides,Q3506511,PIUCM
+1392,7,2902,Pinus contorta,Q165091,PIUCN
+1393,7,2902,Pinus coulteri,Q1137001,PIUCO
+1394,7,2902,Pinus contorta var. murrayana,Q24692853,PIUCR
+1395,7,2902,Pinus contorta var. latifolia,,PIUCT
+1396,7,2902,Pinus cubensis,Q1790865,PIUCU
+1397,7,2902,Pinus densiflora,Q1044186,PIUDE
+1398,7,2902,Pinus elliottii var. densa,Q24692854,PIUDN
+1399,7,2902,Pinus douglasiana,Q147472,PIUDO
+1400,7,2902,Pinus discolor,Q10954063,PIUDR
+1401,7,2902,Pinus durangensis,Q2703193,PIUDU
+1402,7,2902,Pinus echinata,Q3237846,PIUEC
+1403,7,2902,Pinus edulis,Q133096,PIUED
+1404,7,2902,Pinus elliottii var. elliottii,Q24692855,PIUEE
+1405,7,2902,Pinus elliottii,Q1249109,PIUEL
+1406,7,2902,Pinus engelmannii,Q137009,PIUEN
+1407,7,2902,Pinus flexilis,Q594993,PIUFL
+1408,7,2902,Pinus gerardiana,Q3285379,PIUGE
+1409,7,2902,Pinus greggii,Q137015,PIUGG
+1410,7,2902,Pinus glabra,Q539249,PIUGL
+1411,7,2902,Pinus halepensis,Q211457,PIUHA
+1412,7,2902,Pinus brutia var. eldarica,,PIUHD
+1413,7,2902,Pinus heldreichii,Q460531,PIUHE
+1414,7,2902,Pinus hartwegii,Q136695,PIUHW
+1415,7,2902,Pinus jeffreyi,Q251370,PIUJE
+1416,7,2902,Pinus kesiya,Q1939271,PIUKE
+1417,7,2902,Pinus koraiensis,Q301636,PIUKO
+1418,7,2902,Pinus leiophylla,Q2737854,PIULE
+1419,7,2902,Pinus luchuensis,Q975887,PIULU
+1420,7,2902,Pinus lawsonii,Q3308373,PIULW
+1421,7,2902,Pinus mugo var. pumilio,,PIUMM
+1422,7,2902,Pinus monticola,Q261309,PIUMO
+1423,7,2902,Pinus monophylla,Q583885,PIUMP
+1424,7,2902,Pinus muricata,Q866150,PIUMR
+1425,7,2902,Pinus mugo,Q147475,PIUMU
+1426,7,2902,Pinus maximinoi,Q137010,PIUMX
+1427,7,2902,Pinus montezumae,Q1640268,PIUMZ
+1428,7,2902,Pinus nigra subsp. dalmatica,Q49621833,PIUND
+1429,7,2902,Pinus nigra,Q145954,PIUNI
+1430,7,2902,Pinus nigra subsp. laricio,Q3905334,PIUNL
+1431,7,2902,Pinus nigra subsp. pallasiana,Q4429482,PIUNP
+1432,7,2902,Pinus nigra subsp. salzmannii,Q20722203,PIUNS
+1433,7,2902,Pinus occidentalis,Q3388586,PIUOC
+1434,7,2902,Pinus oocarpa,Q2744076,PIUOO
+1435,7,2902,Pinus palustris,Q148542,PIUPA
+1436,7,2902,Pinus peuce,Q146021,PIUPE
+1437,7,2902,Pinus pungens,Q3087592,PIUPG
+1438,7,2902,Pinus pinaster subsp. escarena,Q85844699,PIUPI
+1439,7,2902,Pinus pringlei,Q3506518,PIUPJ
+1440,7,2902,Pinus pinaster,Q271582,PIUPL
+1441,7,2902,Pinus ponderosa var. scopulorum,,PIUPM
+1442,7,2902,Pinus pinea,Q106094,PIUPN
+1443,7,2902,Pinus ponderosa,Q460523,PIUPO
+1444,7,2902,Pinus arizonica,Q2703215,PIUPR
+1445,7,2902,Pinus pseudostrobus,Q137071,PIUPS
+1446,7,2902,Pinus patula,Q134804,PIUPT
+1447,7,2902,Pinus pumila,Q243964,PIUPU
+1448,7,2902,Pinus radiata,Q748888,PIURA
+1449,7,2902,Pinus resinosa,Q2045958,PIURE
+1450,7,2902,Pinus x rhaetica,,PIURH
+1451,7,2902,Pinus rigida,Q837410,PIURI
+1452,7,2902,Pinus roxburghii,Q3239892,PIURO
+1453,7,2902,Pinus sabiniana,Q2473331,PIUSA
+1454,7,2902,Pinus sibirica,Q774829,PIUSB
+1455,7,2902,Pinus serotina,Q2703233,PIUSE
+1456,7,2902,Pinus x schwerinii,,PIUSH
+1457,7,2902,Pinus sylvestris,Q133128,PIUSI
+1458,7,2902,Pinus x sondereggeri,,PIUSO
+1459,7,2902,Pinus sp.,,PIUSS
+1460,7,2902,Pinus strobus,Q157230,PIUST
+1461,7,2902,Pinus tecunumanii,Q3308344,PIUTC
+1462,7,2902,Pinus taeda,Q368248,PIUTD
+1463,7,2902,Pinus teocote,Q311073,PIUTE
+1464,7,2902,Pinus thunbergii,Q854884,PIUTH
+1465,7,2902,Pinus torreyana,Q2746149,PIUTO
+1466,7,2902,Pinus mugo subsp. uncinata,Q123095642,PIUUN
+1467,7,2902,Pinus virginiana,Q3505749,PIUVI
+1468,7,2902,Pinus wallichiana,Q747652,PIUWA
+1469,9,2903,Plukenetia volubilis,Q958569,PKZVO
+1470,8,2904,Plantago aristata,Q3337398,PLAAR
+1471,8,2904,Plantago lanceolata,Q157408,PLALA
+1472,8,2904,Plantago major,Q157154,PLAMA
+1473,7,2906,Phyllocladus trichomanoides var. alpinus,,PLDAL
+1474,9,2907,Plumeria sp.,,PLISS
+1475,9,2908,Phlomis fruticosa,Q1322796,PLMFR
+1476,9,2908,Phlomis italica,Q4117753,PLMIT
+1477,8,2909,Phillyrea angustifolia,Q1891342,PLRAN
+1478,8,2909,Phillyrea latifolia,Q784070,PLRLA
+1479,8,2911,Platanus x hispanica,,PLTHY
+1480,8,2911,Platanus occidentalis,Q157739,PLTOC
+1481,8,2911,Platanus orientalis,,PLTOR
+1482,8,2911,Platanus racemosa,Q164301,PLTRA
+1483,8,2911,Platanus sp.,,PLTSS
+1484,8,2911,Platanus wrightii,Q4115345,PLTWR
+1485,9,2912,Pluchea odorata,Q7205209,PLUOD
+1486,9,2913,Platycodon grandiflorus,Q805322,PLXGR
+1487,9,14,Citrus trifoliata,Q859433,PMITR
+1488,8,2914,Panax ginseng,Q182881,PNXGI
+1489,9,2915,Poa annua,Q157571,POAAN
+1490,9,2915,Poa pratensis,Q147783,POAPR
+1491,8,2917,Polygala x dalmaisiana,,POGDA
+1492,8,2917,Polygala myrtifolia,,POGMY
+1493,8,2917,Polygala sp.,,POGSS
+1494,9,2919,Polygonum arenastrum,Q4280447,POLAR
+1495,9,2919,Polygonum aviculare,Q242573,POLAV
+1496,9,2920,Persicaria capitata,Q144262,POLCT
+1497,9,2921,Reynoutria japonica,Q18421053,POLCU
+1498,9,2920,Persicaria lapathifolia,Q159076,POLLA
+1499,9,2920,Persicaria maculosa,Q161717,POLPE
+1500,9,2920,Persicaria pensylvanica,Q15596461,POLPY
+1501,8,2922,Populus alba,Q146269,POPAL
+1502,8,2922,Populus balsamifera,Q149471,POPBA
+1503,8,2922,Populus x canadensis,,POPCA
+1504,8,2922,Populus x canescens,,POPCN
+1505,8,2922,Populus deltoides,Q149319,POPDE
+1506,8,2922,Populus fremontii,Q3838136,POPFR
+1507,8,2922,Populus hybrids,,POPHY
+1508,8,2922,Populus nigra,Q147064,POPNI
+1509,8,2922,Populus nigra var. italica,Q3377825,POPNT
+1510,8,2922,Populus purdomii,Q10895223,POPPU
+1511,8,2922,Populus trichocarpa,Q149382,POPTC
+1512,8,2922,Populus tremuloides,Q469576,POPTM
+1513,8,2922,Populus tremula,Q146110,POPTR
+1514,8,2924,Portulaca grandiflora,Q159547,PORGR
+1515,8,2924,Portulaca oleracea,Q158015,POROL
+1516,8,2925,Phlox paniculata,Q164553,POXPA
+1517,9,2926,Phalaenopsis hybrids,,PQAHY
+1518,9,75,Primula obconica,Q813591,PRIOB
+1519,9,2927,Perilla frutescens,Q1076038,PRJFR
+1520,9,76,Prunus americana,Q469524,PRNAM
+1521,9,76,Prunus angustifolia,Q3010229,PRNAN
+1522,9,76,Prunus armeniaca,Q37453,PRNAR
+1523,9,76,Prunus avium,Q165137,PRNAV
+1524,9,76,Prunus besseyi,Q15624054,PRNBE
+1525,9,76,Prunus x blireana,,PRNBL
+1526,9,76,Prunus brigantina,Q3408630,PRNBR
+1527,9,76,Prunus cerasus,Q131517,PRNCE
+1528,9,76,Prunus cerasifera,Q146951,PRNCF
+1529,9,76,Prunus x cistena,,PRNCI
+1530,9,76,Prunus caroliniana,Q501671,PRNCL
+1531,9,76,Prunus campanulata,Q149633,PRNCM
+1532,9,76,Prunus cerasoides,Q150149,PRNCS
+1533,9,76,Prunus curdica,,PRNCU
+1534,9,76,Prunus domestica subsp. italica,Q1283218,PRNDI
+1535,9,76,Prunus domestica,Q44120,PRNDO
+1536,9,76,Prunus domestica subsp. insititia,Q4996665,PRNDT
+1537,9,76,Prunus amygdalus,Q15545507,PRNDU
+1538,9,76,Prunus emarginata,Q591062,PRNEM
+1539,9,76,Prunus glandulosa,Q149743,PRNGL
+1540,9,76,Prunus holosericea,,PRNHL
+1541,9,76,Prunus hortulana,Q3408640,PRNHO
+1542,9,76,Prunus hybrids,,PRNHY
+1543,9,76,Prunus incisa,Q3269605,PRNIC
+1544,9,76,Prunus japonica,Q1771825,PRNJP
+1545,9,76,Prunus laurocerasus,Q157508,PRNLR
+1546,9,76,Prunus lusitanica,Q1969110,PRNLU
+1547,9,76,Prunus mexicana,Q3011509,PRNME
+1548,9,76,Prunus mahaleb,Q161920,PRNMH
+1549,9,76,Prunus mume,Q157763,PRNMM
+1550,9,76,Prunus mandshurica,Q854093,PRNMN
+1551,9,76,Prunus maritima,Q2081045,PRNMR
+1552,9,76,Prunus munsoniana,Q3408647,PRNMS
+1553,9,76,Prunus nigra,Q2724971,PRNNI
+1554,9,76,Prunus padus,Q165424,PRNPA
+1555,9,76,Prunus pensylvanica,Q2707920,PRNPE
+1556,9,76,Prunus persica var. nucipersica,Q3408651,PRNPN
+1557,9,76,Prunus persica,Q13189,PRNPS
+1558,9,76,Prunus pumila,Q1249454,PRNPU
+1559,9,76,Prunus sibirica,Q964938,PRNSB
+1560,9,76,Prunus salicina,Q1250033,PRNSC
+1561,9,76,Prunus sargentii,Q163039,PRNSG
+1562,9,76,Prunus simonii,Q3017242,PRNSI
+1563,9,76,Prunus serrulata,Q165321,PRNSL
+1564,9,76,Prunus spinosa,Q129018,PRNSN
+1565,9,76,Prunus serotina,Q158987,PRNSO
+1566,9,76,Prunus serrula,,PRNSR
+1567,9,76,Prunus sp.,,PRNSS
+1568,9,76,Prunus subhirtella,Q163070,PRNSU
+1569,9,76,Prunus tomentosa,Q627393,PRNTO
+1570,9,76,Prunus triloba,Q2727171,PRNTR
+1571,9,76,Prunus virginiana,Q162829,PRNVG
+1572,9,76,Prunus x yedoensis,,PRNYE
+1573,9,76,Prunus x sieboldii,,PRNZB
+1574,8,2929,Proboscidea louisianica,Q2111569,PROLO
+1575,8,2932,Prosopis sp.,,PRSSSP
+1576,9,2933,Parthenocissus quinquefolia,Q157968,PRTQU
+1577,9,2933,Parthenocissus tricuspidata,Q157979,PRTTR
+1578,9,2934,Psidium guajava,Q166843,PSIGU
+1579,9,2934,Psidium sp.,,PSISS
+1580,9,2300,Arrhenatherum longifolium,Q12208086,PSQLO
+1581,9,2935,Psoralea tenuiflora,Q15543309,PSRTE
+1582,7,2936,Pseudotsuga menziesii,Q156687,PSTME
+1583,9,2937,Ptelea trifoliata,Q1326200,PTATR
+1584,7,2939,Pteridium aquilinum,Q119166726,PTEAQ
+1585,9,2940,Dasiphora fruticosa,Q161169,PTLFR
+1586,9,2941,Drymocallis glandulosa,Q15537861,PTLGL
+1587,9,2942,Potentilla sp.,,PTLSS
+1588,9,2943,Parthenium argentatum,Q536839,PTNAR
+1589,9,2943,Parthenium hysterophorus,Q3595850,PTNHY
+1590,8,2945,Pittosporum crassifolium,Q15589244,PTUCR
+1591,8,2945,Pittosporum eugenioides,Q7199141,PTUEU
+1592,8,2945,Pittosporum sp.,,PTUSS
+1593,8,2945,Pittosporum tenuifolium,Q160343,PTUTE
+1594,8,2945,Pittosporum umbellatum,Q15589723,PTUUM
+1595,9,2946,Pueraria montana var. lobata,Q15198502,PUELO
+1596,8,2947,Punica granatum,Q13188,PUNGR
+1597,9,2948,Pavonia sp.,,PVASS
+1598,8,2949,Phryma leptostachya,Q10903857,PWHLE
+1599,9,78,Pyracantha crenatoserrata,Q50852323,PYECN
+1600,9,78,Pyracantha coccinea,Q159269,PYECO
+1601,9,78,Pyracantha sp.,,PYESS
+1602,8,2950,Polyscias filicifolia,Q16956859,PYJFI
+1603,9,79,Pyrus betulifolia,Q9281564,PYUBE
+1604,9,79,Pyrus bourgaeana,Q3285189,PYUBO
+1605,9,79,Pyrus calleryana,Q3079266,PYUCA
+1606,9,79,Pyrus communis,Q146281,PYUCO
+1607,9,79,Pyrus elaeagnifolia,,PYUEL
+1608,9,79,Pyrus pyraster,Q149332,PYUPS
+1609,9,79,Pyrus pyrifolia,Q838963,PYUPY
+1610,9,79,Pyrus x sinkiangensis,Q7263790,PYUSK
+1611,9,79,Pyrus spinosa,Q2294122,PYUSP
+1612,9,79,Pyrus sp.,,PYUSS
+1613,9,79,Pyrus ussuriensis,Q13172138,PYUUS
+1614,9,2634,Genista tridentata,Q854115,QEMTR
+1615,8,80,Quercus agrifolia,Q514052,QUEAG
+1616,8,80,Quercus alba,Q469555,QUEAL
+1617,8,80,Quercus acutissima,Q1034859,QUEAS
+1618,8,80,Quercus cerris,Q157277,QUECE
+1619,8,80,Quercus chrysolepis,Q138446,QUECH
+1620,8,80,Quercus coccinea,Q854714,QUECO
+1621,8,80,Quercus chapmanii,Q3774513,QUECP
+1622,8,80,Quercus dumosa,Q2710410,QUEDU
+1623,8,80,Quercus engelmannii,Q3009480,QUEEG
+1624,8,80,Quercus ellipsoidalis,Q241698,QUEEL
+1625,8,80,Quercus falcata,Q1066116,QUEFC
+1626,8,80,Quercus frainetto,Q857075,QUEFR
+1627,8,80,Quercus fusiformis,Q3009781,QUEFU
+1628,8,80,Quercus serrata,Q847209,QUEGL
+1629,8,80,Quercus garryana,Q2029492,QUEGR
+1630,8,80,Quercus glauca,Q714124,QUEGU
+1631,8,80,Quercus ilex,Q218155,QUEIL
+1632,8,80,Quercus imbricaria,Q528713,QUEIM
+1633,8,80,Quercus incana,Q4111870,QUEIN
+1634,8,80,Quercus kelloggii,Q693392,QUEKE
+1635,8,80,Quercus laevis,Q2586757,QUELA
+1636,8,80,Quercus laurifolia,Q4112143,QUELF
+1637,8,80,Quercus lobata,Q1377986,QUELO
+1638,8,80,Quercus macrocarpa,Q1082365,QUEMC
+1639,8,80,Quercus mongolica,Q1367359,QUEMO
+1640,8,80,Quercus marilandica,Q845791,QUEMR
+1641,8,80,Quercus muehlenbergii,Q2611816,QUEMU
+1642,8,80,Quercus nigra,Q4112855,QUENI
+1643,8,80,Quercus palustris,Q161253,QUEPA
+1644,8,80,Quercus petraea,Q119788797,QUEPE
+1645,8,80,Quercus phellos,Q783224,QUEPH
+1646,8,80,Quercus pyrenaica,Q899686,QUEPN
+1647,8,80,Quercus prinus,,QUEPR
+1648,8,80,Quercus pubescens,Q161415,QUEPU
+1649,8,80,Quercus robur,Q109642758,QUERO
+1650,8,80,Quercus rubra,Q147525,QUERU
+1651,8,80,Quercus shumardii,Q4112184,QUESH
+1652,8,80,Quercus stellata,Q2600501,QUESL
+1653,8,80,Quercus sp.,,QUESS
+1654,8,80,Quercus texana,Q7271351,QUEST
+1655,8,80,Quercus suber,Q156137,QUESU
+1656,8,80,Quercus velutina,Q1001011,QUEVE
+1657,8,80,Quercus virginiana,Q1758722,QUEVI
+1658,8,80,Quercus wislizenii,Q3009812,QUEWI
+1659,9,2951,Ranunculus repens,Q213356,RANRE
+1660,8,2952,Raphanus raphanistrum,Q28017,RAPRA
+1661,8,2952,Raphanus sativus,Q7224565,RAPSR
+1662,9,2953,Ratibida columnifera,Q7295703,RATCO
+1663,8,2954,Richardia sp.,,RCHSS
+1664,8,2955,Rudgea verticillata,Q15442597,RDGVE
+1665,8,2956,Rhamnus alaternus,Q721200,RHAAL
+1666,8,2957,Frangula caroliniana,Q50841410,RHACL
+1667,8,2956,Rhamnus cathartica,Q147861,RHACT
+1668,8,2957,Frangula alnus,Q146136,RHAFR
+1669,8,2956,Rhamnus sp.,,RHASS
+1670,9,2958,Rheum rhaponticum,Q7218332,RHERP
+1671,8,81,Rhododendron arboreum,Q2659683,RHOAB
+1672,8,81,Rhododendron barbatum,Q15251221,RHOBB
+1673,8,81,Rhododendron canadense,Q2132150,RHOCA
+1674,8,81,Rhododendron canescens,Q16918488,RHOCN
+1675,8,81,Rhododendron catawbiense,Q194521,RHOCW
+1676,8,81,Rhododendron griffithianum,Q10868804,RHOGF
+1677,8,81,Rhododendron hybrids,,RHOHY
+1678,8,81,Rhododendron lutescens,Q3335326,RHOLU
+1679,8,81,Rhododendron prunifolium,Q7321160,RHOPF
+1680,8,81,Rhododendron,Q189393,RHOPO
+1681,8,81,Rhododendron viscosum,Q15392729,RHOVC
+1682,9,2959,Rhus copallinum,Q7245720,RHUCO
+1683,9,2960,Toxicodendron diversilobum,Q5399841,RHUDI
+1684,9,2959,Rhus glabra,Q3177997,RHUGL
+1685,9,2959,Rhus sp.,,RHUSS
+1686,9,2959,Rhus trilobata,Q7155056,RHUTR
+1687,9,2959,Rhus typhina,Q148986,RHUTY
+1688,8,82,Ribes alpinum,Q149260,RIBAP
+1689,8,82,Ribes aureum,Q149376,RIBAU
+1690,8,82,Ribes cereum,Q4425192,RIBCE
+1691,8,82,Ribes fasciculatum,Q1235415,RIBFA
+1692,8,82,Ribes fragrans,Q4425197,RIBFR
+1693,8,82,Ribes nigrum,Q146604,RIBNI
+1694,8,82,Ribes rubrum,Q146661,RIBRU
+1695,8,82,Ribes spicatum,Q149485,RIBSP
+1696,8,82,Ribes sp.,,RIBSS
+1697,8,82,Ribes uva-crispa,Q41503,RIBUC
+1698,8,2961,Rivina humilis,Q886492,RIVHU
+1699,9,2874,Salvia rosmarinus,,RMSOF
+1700,9,2962,Robinia hispida,Q894236,ROBHI
+1701,9,2962,Robinia pseudoacacia,Q157417,ROBPS
+1702,9,83,Rosa arkansana,Q145631,ROSAK
+1703,9,83,Rosa arkansana var. suffulta,,ROSAS
+1704,9,83,Rosa banksiae,Q140415,ROSBA
+1705,9,83,Rosa bracteata,Q2166503,ROSBC
+1706,9,83,Rosa californica,Q143186,ROSCA
+1707,9,83,Rosa dumetorum,Q15844740,ROSCF
+1708,9,83,Rosa canina,Q146066,ROSCN
+1709,9,83,Rosa foliolosa,Q3442106,ROSFL
+1710,9,83,Rosa fortuniana,,ROSFT
+1711,9,83,Rosa glauca,Q158929,ROSGL
+1712,9,83,Rosa hybrids,,ROSHY
+1713,9,83,Rosa multiflora,Q133617,ROSMU
+1714,9,83,Rosa nutkana,Q3106488,ROSNU
+1715,9,83,Rosa x odorata,,ROSOD
+1716,9,83,Rosa omeiensis var. pteracantha,,ROSOP
+1717,9,83,Rosa pisocarpa,Q3017700,ROSPI
+1718,9,83,Rosa spinosissima,Q158359,ROSPP
+1719,9,83,Rosa rubiginosa,Q15546415,ROSRB
+1720,9,83,Rosa rugosa,Q634975,ROSRG
+1721,9,83,Rosa roxburghii,Q3442131,ROSRX
+1722,9,83,Rosa soulieana,Q3206002,ROSSL
+1723,9,83,Rosa sp.,,ROSSS
+1724,9,83,Rosa villosa,Q159499,ROSVL
+1725,9,83,Rosa wichuraiana,Q1422123,ROSWI
+1726,9,83,Rosa woodsii,Q1031875,ROSWO
+1727,9,83,Rosa large-flowered bush hybrids,,ROSXX
+1728,9,2963,Ruta chalepensis,Q2714490,RUACH
+1729,9,2963,Ruta graveolens,Q25062,RUAGR
+1730,9,84,Rubus arcticus,Q21138946,RUBAR
+1731,9,84,Rubus canescens,Q3446529,RUBCE
+1732,9,84,Rubus rigidus,Q15525617,RUBDI
+1733,9,84,Rubus fruticosus,Q13541716,RUBFR
+1734,9,84,Rubus procerus,,RUBHP
+1735,9,84,Rubus idaeus,Q12252383,RUBID
+1736,9,84,Rubus x loganobaccus,,RUBLO
+1737,9,84,Rubus occidentalis,Q7376217,RUBOC
+1738,9,84,Rubus parviflorus,Q2614003,RUBPA
+1739,9,84,Rubus idaeus var. strigosus,,RUBSG
+1740,9,84,Rubus sp.,,RUBSS
+1741,9,84,Rubus ulmifolius,Q59843,RUBUL
+1742,9,84,Rubus ursinus,Q3775270,RUBUR
+1743,9,84,Rubus vitifolius,Q50870057,RUBVI
+1744,9,2964,Rudbeckia fulgida,Q450250,RUDFU
+1745,9,2964,Rudbeckia hirta,Q2532820,RUDHI
+1746,9,2965,Echinacea purpurea,Q272661,RUDPU
+1747,9,2964,Rudbeckia triloba,Q7376820,RUDTR
+1748,9,2966,Rumex crispus,Q157643,RUMCR
+1749,9,2966,Rumex sp.,,RUMSS
+1750,9,2967,Rhynchostylis gigantea,Q2214916,RYSGI
+1751,9,2968,Sugarcane,Q3391243,SACOF
+1752,9,2969,Sapindus saponaria,Q2672802,SAKSA
+1753,9,2969,Sapindus drummondii,Q15528348,SAKSD
+1754,9,2874,Salvia greggii,Q891000,SALGR
+1755,9,2874,Salvia mellifera,Q3009692,SALMF
+1756,9,2874,Salvia officinalis,Q1111359,SALOF
+1757,9,2874,Salvia splendens,Q161080,SALSP
+1758,9,2874,Salvia sp.,,SALSS
+1759,9,2874,Salvia verbenaca,Q1313052,SALVB
+1760,8,2971,Sambucus canadensis,Q21877280,SAMCN
+1761,8,2971,Sambucus cerulea,Q353892,SAMGL
+1762,8,2971,Sambucus nigra,Q22701,SAMNI
+1763,8,2971,Sambucus racemosa subsp. pubens,Q3470723,SAMPU
+1764,8,2971,Sambucus sp.,,SAMSS
+1765,9,2523,Cytisus scoparius,Q145781,SAOSC
+1766,9,2972,Triadica sebifera,Q702175,SAQSE
+1767,9,2974,Salsola kali,Q163655,SASKA
+1768,9,2974,Salsola tragus,Q1754334,SASKT
+1769,8,2975,Saponaria officinalis,Q156841,SAWOF
+1770,8,85,Salix alba subsp. caerulea,,SAXAK
+1771,8,85,Salix alba,Q156918,SAXAL
+1772,8,85,Salix atrocinerea,Q3320649,SAXAT
+1773,8,85,Salix babylonica,Q156307,SAXBA
+1774,8,85,Salix caprea,Q159565,SAXCP
+1775,8,85,Salix discolor,Q3124760,SAXDI
+1776,8,85,Salix lucida,Q159412,SAXLU
+1777,8,85,Salix nigra,Q469220,SAXNI
+1778,8,85,Salix x fragilis,,SAXRU
+1779,8,85,Salix sp.,,SAXSS
+1780,8,85,Salix viminalis,Q158590,SAXVI
+1781,9,2976,Scabiosa atropurpurea,Q159446,SCBAT
+1782,9,2978,Scutellaria lateriflora,Q2701473,SCDLA
+1783,9,2978,Scutellaria sp.,,SCDSS
+1784,9,2979,Schinus molle,Q855896,SCIMO
+1785,9,2979,Schinus terebinthifolia,Q899313,SCITE
+1786,9,88,Sesbania herbacea,Q10819532,SEBEX
+1787,9,88,Sesbania vesicaria,Q21297242,SEBVE
+1788,9,2980,Secale cereale,Q12099,SECCE
+1789,8,2981,Hylotelephium spectabile,Q922370,SEDSL
+1790,8,2982,Sedum sp.,,SEDSS
+1791,8,2984,Sesamum indicum,Q2763698,SEGIN
+1792,8,2985,Sechium edule,Q319611,SEHED
+1793,9,2986,Jacobaea maritima,Q13217438,SENBI
+1794,9,2346,Brachyglottis compacta,Q15549541,SENCM
+1795,9,2987,Cineraria,Q2360058,SENCR
+1796,9,2987,Pericallis cruenta,Q14954851,SENCU
+1797,9,2988,Senecio grisebachii,Q6124938,SENGB
+1798,9,2988,Senecio glastifolius,Q3259822,SENGF
+1799,9,2988,Senecio inaequidens,Q939756,SENIQ
+1800,9,2989,Delairea odorata,Q2702202,SENMI
+1801,9,2988,Senecio sp.,,SENSS
+1802,9,2988,Senecio vulgaris,Q504256,SENVU
+1803,7,2990,Sequoia sempervirens,Q150129,SEQSE
+1804,9,2991,Setaria italica,Q161211,SETIT
+1805,9,2991,Setaria magna,Q15521417,SETMG
+1806,9,2991,Setaria palmifolia,Q11116561,SETPA
+1807,9,2991,Setaria viridis,Q163052,SETVI
+1808,9,2992,Atalantia buxifolia,Q3809342,SEVBU
+1809,8,2993,Schima superba,Q11093140,SHMSU
+1810,8,2994,Shepherdia argentea,Q2658110,SHPAR
+1811,9,2995,Malvella leprosa,Q6745037,SIDHE
+1812,9,2996,Sida rhombifolia,Q3595921,SIDRH
+1813,9,2996,Sida spinosa,Q5394062,SIDSP
+1814,8,2799,Silene antirrhina,Q7514449,SILAN
+1815,8,2799,Silene compacta,Q12217939,SILCM
+1816,9,2997,Silphium sp.,,SIPSS
+1817,8,2998,Salpiglossis sinuata,Q2624440,SLGSI
+1818,8,2998,Salpiglossis sp.,,SLGSS
+1819,9,2999,Silybum marianum,Q193798,SLYMA
+1820,9,3001,Epipremnum pinnatum,Q549727,SNDAU
+1821,9,93,Saintpaulia ionantha,Q165406,SNPIO
+1822,9,3002,Santolina chamaecyparissus,Q1543811,SNTCH
+1823,9,3002,Santolina magonica,Q15551349,SNTMA
+1824,9,3002,Santolina sp.,,SNTSS
+1825,9,3003,Sanvitalia procumbens,Q1426361,SNVPR
+1826,9,3004,Sophora davidii,Q6747995,SOBDA
+1827,9,3005,Styphnolobium japonicum,Q288558,SOBJA
+1828,9,3004,Sophora secundiflora,Q59282651,SOBSE
+1829,8,90,Solanum tuberosum subsp. andigenum,,SOLAD
+1830,8,90,Solanum aethiopicum,Q257366,SOLAE
+1831,8,90,Solanum americanum,Q2729601,SOLAM
+1832,8,90,Solanum atropurpureum,Q290565,SOLAT
+1833,8,90,Solanum aviculare,Q1295038,SOLAV
+1834,8,90,Solanum carolinense,Q1044376,SOLCA
+1835,8,90,Solanum citrullifolium,Q624613,SOLCF
+1836,8,90,Solanum chacoense,Q3489173,SOLCH
+1837,8,90,Solanum capsicoides,Q4022813,SOLCI
+1838,8,90,Solanum cinereum,Q17400553,SOLCN
+1839,8,90,Solanum commersonii,Q3489179,SOLCO
+1840,8,90,Solanum crispum,Q145597,SOLCR
+1841,8,90,Solanum candidum,Q7555737,SOLCW
+1842,8,90,Solanum douglasii,Q7555746,SOLDO
+1843,8,90,Solanum demissum,Q3489182,SOLDS
+1844,8,90,Solanum dulcamara,Q147707,SOLDU
+1845,8,90,Solanum elaeagnifolium,Q2716800,SOLEL
+1846,8,90,Solanum grandiflorum,Q15535397,SOLGF
+1847,8,90,Solanum laxum,Q2032362,SOLJM
+1848,8,90,Solanum chrysotrichum,Q15534455,SOLKR
+1849,8,90,Solanum villosum subsp. miniatum,,SOLLA
+1850,8,90,Solanum villosum,Q761924,SOLLU
+1851,8,90,Solanum lycocarpum,Q3280462,SOLLY
+1852,8,90,Solanum melongena,Q7540,SOLME
+1853,8,90,Solanum mammosum,Q1639604,SOLMM
+1854,8,90,Solanum mauritianum,Q2097687,SOLMR
+1855,8,90,Solanum myriacanthum,Q15536349,SOLMY
+1856,8,90,Solanum nigrum,Q146400,SOLNI
+1857,8,90,Solanum paniculatum,Q5223247,SOLPA
+1858,8,90,Solanum pseudocapsicum,Q1475749,SOLPC
+1859,8,90,Solanum phureja,Q2277249,SOLPJ
+1860,8,90,Solanum pectinatum,Q15536653,SOLPQ
+1861,8,90,Solanum candolleanum,Q3489167,SOLQA
+1862,8,90,Solanum corymbosum,Q15534275,SOLQO
+1863,8,90,Solanum quitoense,Q795069,SOLQU
+1864,8,90,Solanum radicans,Q15537587,SOLRD
+1865,8,90,Solanum rostratum,Q1788430,SOLRS
+1866,8,90,Solanum sarrachoides,Q13410303,SOLSA
+1867,8,90,Solanum pinnatum,Q15536494,SOLSB
+1868,8,90,Solanum scabrum,Q24853233,SOLSC
+1869,8,90,Solanum stoloniferum,Q3489207,SOLSF
+1870,8,90,Solanum sp.,,SOLSS
+1871,8,90,Solanum swartzianum,Q15537711,SOLSW
+1872,8,90,Solanum stipulaceum,Q17400934,SOLTI
+1873,8,90,Solanum triflorum,Q7161852,SOLTR
+1874,8,90,Solanum tuberosum,Q10998,SOLTU
+1875,8,90,Solanum verrucosum,Q3489213,SOLVC
+1876,8,90,Solanum violaceum,Q10910406,SOLVL
+1877,8,90,Solanum vernei,Q15537892,SOLVR
+1878,8,90,Solanum wittmackii,Q15538070,SOLWH
+1879,8,90,Solanum suaveolens,Q15538511,SOLZU
+1880,9,3006,Sonchus arvensis,Q239291,SONAR
+1881,9,3006,Sonchus asper,Q1065570,SONAS
+1882,9,3006,Sonchus oleraceus,Q331676,SONOL
+1883,9,3006,Sonchus sp.,,SONSS
+1884,9,3007,Solidago altissima,Q7557949,SOOAL
+1885,9,3007,Solidago canadensis,Q254436,SOOCA
+1886,9,3007,Solidago fistulosa,Q15566338,SOOFI
+1887,9,3007,Solidago virgaurea,Q599435,SOOVI
+1888,9,91,Sorghum x almum,,SORAL
+1889,9,91,Sorghum halepense,Q858360,SORHA
+1890,9,91,Sorghum bicolor,Q332062,SORVU
+1891,9,92,Sorbus aria,Q157960,SOUAI
+1892,9,92,Sorbus alnifolia,Q1151129,SOUAL
+1893,9,92,Sorbus americana,Q285587,SOUAM
+1894,9,92,Sorbus aucuparia,Q146198,SOUAU
+1895,9,92,Sorbus discolor,Q10902404,SOUDI
+1896,9,92,Sorbus hybrida,Q41202362,SOUHY
+1897,9,3008,Soliva anthemifolia,Q10888515,SOVAN
+1898,9,3009,Sphaeralcea angustifolia,Q7163802,SPHAN
+1899,9,3010,Spinacia oleracea,Q81464,SPQOL
+1900,8,3011,Spergula arvensis,Q162826,SPRAR
+1901,9,3012,Spartium junceum,Q910358,SPUJU
+1902,9,3012,Spartium sp.,,SPUSS
+1903,9,3013,Spiraea x arguta,,SPVAG
+1904,9,3013,Spiraea japonica,Q158201,SPVJA
+1905,9,3013,Spiraea prunifolia,Q1055383,SPVPR
+1906,9,3013,Spiraea sp.,,SPVSS
+1907,9,3013,Spiraea x vanhouttei,,SPVVH
+1908,8,3014,Streptosolen jamesonii,Q136702,SROJA
+1909,9,93,Streptocarpus hybrids,,SRQHY
+1910,9,3015,Strophostyles helvola,Q7624811,SRTHE
+1911,8,3016,Sassafras albidum,Q584469,SSAAL
+1912,8,3016,Sassafras sp.,,SSASS
+1913,9,3018,Sesuvium portulacastrum,Q2472430,SSVPO
+1914,8,3019,Sisymbrium irio,Q163223,SSYIR
+1915,9,3020,Stachys arvensis,Q162811,STAAR
+1916,8,3021,Stellaria media,Q158711,STEME
+1917,9,3022,Clinopodium nepeta,Q15350096,STICA
+1918,9,3023,Stillingia linearifolia,Q7617245,STLLF
+1919,9,3024,Stenotaphrum secundatum,Q3321826,STPSE
+1920,9,2888,Photinia davidiana,Q50847306,STVDA
+1921,8,3026,Strelitzia nicolai,Q149601,STZNI
+1922,8,3026,Strelitzia reginae,Q148904,STZRE
+1923,8,3027,Stewartia pseudocamellia,Q1041653,SWTPS
+1924,9,2976,Scabiosa atropurpurea var. maritima,,SXLAM
+1925,9,3028,Syngonium podophyllum,Q13403357,SYNPO
+1926,8,3029,Syringa x chinensis,,SYRCH
+1927,8,3029,Syringa reticulata var. mandschurica,,SYRRM
+1928,8,3029,Syringa vulgaris,Q6565319,SYRVU
+1929,8,3031,Symplocos sp.,,SYSSS
+1930,8,3031,Symplocos tinctoria,Q15315365,SYSTI
+1931,9,3032,Syzygium cumini,Q232571,SYZCU
+1932,9,3032,Syzygium paniculatum,Q159398,SYZPA
+1933,8,3033,Schizanthus sp.,,SZTSS
+1934,8,3035,Tamarix sp.,,TAASS
+1935,7,3036,Taxodium sp.,,TADSS
+1936,9,94,Tagetes erecta,Q759876,TAGER
+1937,9,94,Tagetes patula,Q644934,TAGPA
+1938,8,3038,Talinum paniculatum,Q7679537,TALPA
+1939,9,3039,Taraxacum officinale,Q131219,TAROF
+1940,9,3040,Tectona grandis,Q156938,TCTGR
+1941,9,3042,Tetragonia tetragonoides,Q278283,TEATE
+1942,8,3043,Tecoma stans,Q119954,TECST
+1943,9,3044,Tephrosia sp.,,TEPSS
+1944,9,3046,Teucrium capitatum,Q6143686,TEUCP
+1945,9,3046,Teucrium scorodonia,Q161748,TEUSC
+1946,9,3047,Theobroma bicolor,Q893238,THOBI
+1947,9,3047,Theobroma cacao,Q42385,THOCA
+1948,9,3047,Theobroma grandiflorum,Q1144414,THOGR
+1949,9,3047,Theobroma obovatum,Q15385444,THOOB
+1950,9,3047,Theobroma subincanum,Q10262384,THOSU
+1951,7,95,Thuja occidentalis,Q147468,THUOC
+1952,7,3048,Platycladus orientalis,Q33482,THUOR
+1953,7,95,Thuja plicata,Q147417,THUPL
+1954,9,3049,Thymus vulgaris,Q148668,THYVU
+1955,8,3051,Tibouchina semidecandra,Q13958094,TIBSE
+1956,9,3052,Tigridia pavonia,Q3336594,TIGPA
+1957,9,96,Tilia americana,Q163981,TILAM
+1958,9,3053,Tithonia rotundifolia,Q2176037,TITRO
+1959,9,3054,Triodanis perfoliata subsp. biflora,Q24877343,TJDBI
+1960,9,2634,Genista monspessulana,Q151046,TLNMO
+1961,9,3055,Vogtia annua,,TNCAN
+1962,9,2423,Tanacetum bipinnatum,Q15556858,TNCBI
+1963,9,2960,Toxicodendron pubescens,Q2718061,TOXQU
+1964,9,2960,Toxicodendron vernix,Q7002291,TOXVX
+1965,9,3056,Tradescantia sp.,,TRASS
+1966,8,3058,Tribulus terrestris,Q235889,TRBTE
+1967,9,2537,Digitaria insularis,Q14834635,TRCIN
+1968,9,3059,Tragia sp.,,TRDSS
+1969,9,97,Trifolium campestre,Q157334,TRFCA
+1970,9,97,Trifolium incarnatum,Q161361,TRFIN
+1971,9,97,Trifolium pratense,Q156635,TRFPR
+1972,9,97,Trifolium repens,Q148675,TRFRE
+1973,9,97,Trifolium sp.,,TRFSS
+1974,9,3060,Tragopogon porrifolius,Q941639,TROPS
+1975,9,98,Triticum aestivum,Q161098,TRZAX
+1976,9,98,Triticum durum,Q618324,TRZDU
+1977,7,3061,Tsuga canadensis,Q1137143,TSUCA
+1978,7,3061,Tsuga diversifolia,Q212670,TSUDI
+1979,7,3061,Tsuga heterophylla,Q1144409,TSUHE
+1980,7,3061,Tsuga mertensiana,Q593894,TSUME
+1981,7,3061,Tsuga sieboldii,Q1145589,TSUSI
+1982,8,3062,Trichosanthes cucumerina,Q1323731,TTHCU
+1983,8,3063,Tulipa hybrids,,TULHY
+1984,9,3064,Tussilago farfara,Q26302,TUSFA
+1985,9,3065,Ulex europaeus,Q161794,ULEEU
+1986,9,3065,Ulex micranthus,Q15545439,ULEMC
+1987,9,3065,Ulex minor,Q793774,ULEMI
+1988,9,3065,Ulex parviflorus,Q2687285,ULEPA
+1989,9,3065,Ulex sp.,,ULESS
+1990,8,100,Ulmus alata,Q7879360,ULMAL
+1991,8,100,Ulmus americana,Q469382,ULMAM
+1992,8,100,Ulmus crassifolia,Q7879431,ULMCR
+1993,8,100,Ulmus glabra,Q147498,ULMGL
+1994,8,100,Ulmus x hollandica,,ULMHO
+1995,8,100,Ulmus davidiana var. japonica,Q844010,ULMJA
+1996,8,100,Ulmus laciniata,Q4115140,ULMLA
+1997,8,100,Ulmus laevis,Q147492,ULMLV
+1998,8,100,Ulmus minor,Q147487,ULMMI
+1999,8,100,Ulmus parvifolia,Q1074099,ULMPA
+2000,8,100,Ulmus procera,,ULMPR
+2001,8,100,Ulmus pumila,Q1079824,ULMPU
+2002,8,100,Ulmus rubra,Q1534893,ULMRU
+2003,8,100,Ulmus serotina,Q2110146,ULMSE
+2004,8,100,Ulmus sp.,,ULMSS
+2005,8,100,Ulmus thomasii,Q1147786,ULMTH
+2006,8,3066,Umbellularia californica,Q692162,UMBCA
+2007,9,3067,Ungnadia speciosa,Q12221127,UNGSP
+2008,8,3069,Urtica dioica,Q155909,URTDI
+2009,8,3069,Urtica dioica subsp. gracilis,,URTLY
+2010,8,3069,Urtica urens,Q157175,URTUR
+2011,8,101,Vaccinium ashei,,VACAH
+2012,8,101,Vaccinium angustifolium,Q512441,VACAN
+2013,8,101,Vaccinium arboreum,Q3249733,VACAR
+2014,8,101,Vaccinium corymbosum,Q468695,VACCO
+2015,8,101,Vaccinium darrowii,Q7907961,VACDA
+2016,8,101,Vaccinium erythrocarpum,Q195561,VACER
+2017,8,101,Vaccinium hybrids,,VACHY
+2018,8,101,Vaccinium macrocarpon,Q149397,VACMA
+2019,8,101,Vaccinium myrtillus,Q5413585,VACMY
+2020,8,101,Vaccinium oxycoccos,Q374399,VACOX
+2021,8,101,Vaccinium pallidum,Q7907968,VACPL
+2022,8,101,Vaccinium sp.,,VACSS
+2023,8,101,Vaccinium tenellum,Q16993360,VACTE
+2024,8,101,Vaccinium virgatum,Q4142371,VACVG
+2025,8,101,Vaccinium vitis-idaea,Q93235,VACVI
+2026,8,3070,Glandularia bipinnatifida,Q15501351,VEBBI
+2027,8,3071,Verbena hybrids,,VEBHY
+2028,8,3071,Verbena litoralis,Q7920965,VEBLI
+2029,8,3071,Verbena,Q165290,VEBOF
+2030,8,3071,Verbena sp.,,VEBSS
+2031,9,2311,Arctotis fastuosa,Q2114638,VEDFA
+2032,9,3072,Verbesina encelioides,Q7160909,VEEEN
+2033,8,3073,Veronicastrum virginicum,Q4108065,VEKVI
+2034,9,3074,Vernonia sp.,,VENSS
+2035,8,102,Veronica arvensis,Q157903,VERAR
+2036,8,102,Veronica hederifolia,Q158319,VERHE
+2037,8,102,Veronica officinalis,Q156402,VEROF
+2038,8,102,Veronica persica,Q157397,VERPE
+2039,8,102,Veronica peregrina,Q163089,VERPG
+2040,8,102,Veronica sp.,,VERSS
+2041,8,3075,Verbascum blattaria,Q159450,VESBL
+2042,8,3075,Verbascum thapsus,Q160095,VESTH
+2043,8,3076,Viburnum lantana,Q158508,VIBLA
+2044,8,3076,Viburnum tinus,Q1321268,VIBTI
+2045,9,3077,Vicia sativa subsp. nigra,Q24877811,VICAN
+2046,9,3077,Vicia faba,Q3092725,VICFX
+2047,9,3077,Vicia ludoviciana,Q15526879,VICLD
+2048,9,3077,Vicia sativa,Q157071,VICSA
+2049,9,2890,Vigna unguiculata subsp. unguiculata,Q3246973,VIGSC
+2050,9,103,Vinca major,Q161746,VINMA
+2051,9,103,Vinca minor,Q161777,VINMI
+2052,9,103,Vinca sp.,,VINSS
+2053,8,3078,Viola odorata,Q108684,VIOOD
+2054,9,104,Vitis aestivalis,Q136885,VITAE
+2055,9,104,Vitis amurensis,Q134364,VITAM
+2056,9,104,Vitis arizonica,Q2713015,VITAZ
+2057,9,104,Vitis bourquiniana,,VITBQ
+2058,9,104,Vitis candicans,,VITCA
+2059,9,104,Vitis x champinii,,VITCH
+2060,9,104,Vitis cinerea,Q290003,VITCI
+2061,9,104,Vitis californica,Q2275493,VITCL
+2062,9,104,Vitis cinerea var. floridana,,VITCN
+2063,9,104,Vitis girdiana,Q3017680,VITGI
+2064,9,104,Vitis hybrids,,VITHD
+2065,9,104,Vitis labrusca,Q311720,VITLA
+2066,9,104,Vitis munsoniana,,VITMU
+2067,9,104,Vitis rotundifolia,Q2701573,VITRF
+2068,9,104,Vitis riparia,Q1081461,VITRI
+2069,9,104,Vitis rupestris,Q138189,VITRU
+2070,9,104,Vitis sp.,,VITSS
+2071,9,104,Vitis shuttleworthii,Q3017185,VITSW
+2072,9,104,Vitis vinifera,Q30046,VITVI
+2073,9,3079,Viguiera sp.,,VIUSS
+2074,9,3080,Vitex agnus-castus,Q259318,VIXAC
+2075,9,3080,Vitex lucens,Q1861046,VIXLU
+2076,9,3082,Valerianella sp.,,VLLSS
+2077,9,3083,Vincetoxicum sp.,,VNCSS
+2078,9,3084,Washingtonia sp.,,WATSS
+2079,9,3085,Weigela florida,Q164323,WEGFL
+2080,9,3085,Weigela sp.,,WEGSS
+2081,9,3087,Westringia glabra,Q7989638,WESGL
+2082,9,3087,Westringia fruticosa,Q7989639,WESRO
+2083,9,3088,Wisteria floribunda,Q1329209,WSTFL
+2084,9,3088,Wisteria frutescens,Q8027753,WSTFR
+2085,9,3088,Wisteria sp.,,WSTSS
+2086,9,3090,Xanthoceras sorbifolium,Q196178,XACSO
+2087,9,3091,Xanthium orientale subsp. saccharatum,,XANSA
+2088,9,3091,Xanthium orientale subsp. italicum,Q51004293,XANSI
+2089,9,3091,Xanthium spinosum,Q643890,XANSP
+2090,9,3091,Xanthium strumarium,Q857159,XANST
+2091,9,3092,Xanthosoma sp.,,XATSS
+2092,9,2597,Zea mays,Q11575,ZEAMX
+2093,8,3093,Zelkova serrata,Q920344,ZELSE
+2094,9,3094,Zinnia elegans,Q15245321,ZIIEL
+2095,8,3095,Ziziphus jujuba,Q11181633,ZIPJU
+2096,9,3096,Zizania palustris,Q11142858,ZIZPA
+2097,9,3097,Symphyotrichum divaricatum,Q15554798,ZMYDI
+2098,8,3098,Siraitia grosvenorii,Q1544966,ZRTGR
+2099,1,,Plantae,,1PLAK
+2100,2,2099,Magnoliophyta,Q14562931,1MAGP
+2101,3,2100,Angiospermae,Q14832431,1ANGC
+2102,4,2101,Lamiids,,1LAMD
+2103,5,2102,Lamiales,Q21742,1LAMO
+2104,6,2103,Bignoniaceae,Q213453,1BIGF
+2105,3,72,Pinopsida,Q1329304,1PINC
+2106,4,2105,Pinales,Q1000370,1CONO
+2107,4,2101,Malvids,,1MAVD
+2108,5,2107,Sapindales,Q26316,1SAPO
+2109,6,2108,Sapindaceae,Q27147,1SAPF
+2110,7,2109,Hippocastanoideae,Q163489,1HIPS
+2111,4,2101,Basal monocotyledons,,1MOND
+2112,5,2111,Asparagales,Q26229,1ASGO
+2113,6,2112,Amaryllidaceae,Q155848,1AMYF
+2114,7,2113,Allioideae,Q49392,1ALLS
+2115,4,2101,Basal core eudicots,,1CEUD
+2116,5,2115,Caryophyllales,Q21808,1CAFO
+2117,4,2101,Commelinids,,1COMD
+2118,5,2117,Poales,Q28502,1POAO
+2119,6,2118,Bromeliaceae,Q156529,1BROF
+2120,4,2101,Basal eudicots,,1BEUD
+2121,5,2120,Ranunculales,Q21021,1RANO
+2122,6,2121,Ranunculaceae,Q145869,1RANF
+2123,7,2122,Ranunculoideae,Q6272069,1RANS
+2124,5,2111,Alismatales,Q27341,1ALIO
+2125,6,2124,Araceae,Q48227,1ARMF
+2126,7,2125,Pothoideae,Q867724,1POTS
+2127,6,2121,Berberidaceae,Q155949,1BEBF
+2128,5,2107,Brassicales,Q21904,1CAPO
+2129,4,2105,Cupressales,Q5794838,1CUPO
+2130,4,2101,Campanulids,,1CMPD
+2131,5,2130,Asterales,Q21730,1ASTO
+2132,7,20,Asteroideae,Q21004,1ASTS
+2133,6,2108,Rutaceae,Q146030,1RUTF
+2134,7,2133,Aurantioideae,Q663700,1AURS
+2135,6,2131,Campanulaceae,Q155802,1CAMF
+2136,7,2135,Campanuloideae,Q5690336,1CMPS
+2137,4,2101,Fabids,,1FABD
+2138,5,2137,Rosales,Q21895,1ROSO
+2139,6,2138,Rosaceae,Q46299,1ROSF
+2140,7,2139,Spiraeoideae,Q149020,1SPVS
+2141,5,2102,Gentianales,Q21754,1GENO
+2142,6,2141,Rubiaceae,Q156569,1RUBF
+2143,5,2102,Solanales,Q21723,1SOLO
+2144,6,2143,Solanaceae,Q134172,1SOLF
+2145,5,2137,Fabales,Q21878,1FABO
+2146,7,57,Faboideae,Q316856,1FABS
+2147,5,2137,Fagales,Q21881,1FAGO
+2148,6,2147,Fagaceae,Q145977,1FAGF
+2149,6,2112,Orchidaceae,Q25308,1ORCF
+2150,7,2149,Epidendroideae,Q131470,1EPDS
+2151,6,2141,Apocynaceae,Q173756,1APOF
+2152,7,2151,Rauvolfioideae,Q1359439,1RAUS
+2153,5,2137,Cucurbitales,Q21875,1CUCO
+2154,6,2112,Iridaceae,Q155941,1IRIF
+2155,7,2154,Crocoideae,Q5187415,1CVOS
+2156,6,2147,Corylaceae,Q2008610,1CRLF
+2157,6,2116,Caryophyllaceae,Q25995,1CAFF
+2158,5,2111,Dioscoreales,Q747698,1DIOO
+2159,6,2158,Dioscoreaceae,Q161220,1DIOF
+2160,4,2101,Basal asterids,,1ASTD
+2161,5,2160,Ericales,Q21737,1ERIO
+2162,5,2107,Myrtales,Q21866,1MYTO
+2163,6,2162,Myrtaceae,Q156563,1MYTF
+2164,7,2163,Myrtoideae,Q4296312,1MYTS
+2165,7,49,Poöideae,,1POOS
+2166,6,2103,Lamiaceae,,1LAMF
+2167,7,2166,Lamioideae,Q148845,1LAMS
+2168,5,2107,Geraniales,Q14272,1GERO
+2169,6,2168,Geraniaceae,Q155945,1GERF
+2170,5,2107,Malvales,Q21908,1MAVO
+2171,6,2170,Malvaceae,Q156551,1MAVF
+2172,7,2171,Malvoideae,Q136377,1MLVS
+2173,5,2117,Zingiberales,Q203779,1ZINO
+2174,6,2173,Heliconiaceae,,1HEBF
+2175,6,2112,Asparagaceae,Q157167,1ASGF
+2176,7,2175,Scilloideae,,1SLLS
+2177,5,2160,Cornales,Q21769,1CORO
+2178,6,2177,Hydrangeaceae,Q156609,1HYGF
+2179,6,2161,Balsaminaceae,Q464561,1BAMF
+2180,5,2115,Saxifragales,Q21855,1SAXO
+2181,6,2180,Crassulaceae,Q155938,1CRAF
+2182,7,57,Caesalpinioideae,Q157156,1CAES
+2183,7,2166,Nepetoideae,Q138199,1NEPS
+2184,6,2103,Phrymaceae,Q1061384,1PHRF
+2185,6,2173,Musaceae,Q156525,1MUSF
+2186,6,2116,Cactaceae,Q14560,1CACF
+2187,7,2125,Aroideae,Q133666,1ARMS
+2188,6,2161,Primulaceae,Q157115,1PRIF
+2189,7,2188,Primuloideae,Q2794899,1PRIS
+2190,1,,Animalia,,1ANIMK
+2191,2,2190,Chordata,Q10915,1CHORP
+2192,3,2191,Vertebrata,,1VERTQ
+2193,4,2192,Aves,,1AVESC
+2194,5,2193,Passeriformes,Q25341,1PASSO
+2195,6,2194,Prunellidae,,1PRNLF
+2196,6,2180,Grossulariaceae,Q41387,1GROF
+2197,7,2139,Rosoideae,Q134655,1ROSS
+2198,5,2137,Malpighiales,Q21887,1MALO
+2199,6,2198,Salicaceae,Q158487,1SALF
+2200,5,2130,Apiales,Q21138,1APIO
+2201,6,2200,Apiaceae,Q145794,1UMBF
+2202,6,2170,Dipterocarpaceae,Q580593,1DITF
+2203,7,2202,Dipterocarpoideae,Q5807820,1DITS
+2204,7,49,Panicoideae,Q1071663,1PANS
+2205,6,2103,Gesneriaceae,Q156686,1GESF
+2206,7,2205,Didymocarpoideae,Q21234240,1DIDS
+2207,7,2171,Tilioideae,Q159224,1TILS
+2208,6,2138,Ulmaceae,Q156311,1ULMF
+2209,4,2101,Basal  rosids,,1ROSD
+2210,5,2209,Vitales,,1VITO
+2211,6,2210,Vitaceae,Q26220,1VITF
+2212,7,2211,Vitoideae,Q17302499,1VITS
+2213,1,,Commodity groups,,2COMK
+2214,8,2123,Aconitum,Q155904,1AAOG
+2215,5,2130,Dipsacales,Q21774,1DIPO
+2216,6,2215,Caprifoliaceae,Q156301,1CPFF
+2217,7,2216,Linnaeoideae,Q18674561,1LNAS
+2218,8,2217,Abelia,Q158261,1ABEG
+2219,8,2172,Abelmoschus,Q866047,1ABMG
+2220,8,2140,Aronia,Q158983,1ABOG
+2221,8,2172,Abutilon,Q132638,1ABUG
+2222,8,2182,Acacia,Q81666,1ACAG
+2223,8,2182,Vachellia,Q956173,1VCHG
+2224,8,2182,Senegalia,Q3775608,1SZGG
+2225,6,2198,Euphorbiaceae,Q156584,1EUPF
+2226,7,2225,Acalyphoideae,Q4671713,1ACCS
+2227,8,2226,Acalypha,Q161225,1ACCG
+2228,8,2132,Achillea,Q146617,1ACHG
+2229,6,2200,Araliaceae,Q193335,1ARLF
+2230,7,2229,Eleutherococcus,Q133016,1ELKG
+2231,8,2146,Adenocarpus,Q1261793,1ADCG
+2232,8,2165,Aegilops,Q1764888,1AEGG
+2233,7,2119,Aechmea,Q131754,1AEMG
+2234,7,2109,Sapindoideae,Q2224042,1SAPS
+2235,8,2234,Alectryon,Q2832406,1AEYG
+2236,7,2201,Anethum,Q2542121,1AFEG
+2237,8,2132,Ageratum,Q132653,1AGEG
+2238,8,2197,Agrimonia,Q264427,1AGIG
+2239,6,2143,Convolvulaceae,Q145777,1COVF
+2240,7,2239,Argyreia,Q21707,1AGJG
+2241,8,2187,Aglaonema,Q740819,1AGLG
+2242,7,2157,Agrostemma,Q148897,1AGOG
+2243,8,2165,Elymus,Q1072892,1ELYG
+2244,8,2165,Agrostis,Q161137,1AGSG
+2245,4,2105,Araucariales,Q9158844,1ARUO
+2246,5,2245,Araucariaceae,Q217697,1ARUF
+2247,6,2246,Agathis,,1AGTG
+2248,6,2108,Simaroubaceae,Q156679,1SIMF
+2249,7,2248,Ailanthus,Q160580,1AILG
+2250,8,2172,Alcea,Q1148371,1AKAG
+2251,8,2146,Acmispon,Q4674419,1AKMG
+2252,8,2182,Albizia,,1ALBG
+2253,7,2225,Crotonoideae,Q3244237,1CVNS
+2254,8,2253,Vernicia,Q2699247,1VNIG
+2255,8,2165,Alopecurus,Q158104,1ALOG
+2256,6,2116,Nyctaginaceae,Q156227,1NYCF
+2257,7,2256,Allionia,Q950253,1ALQG
+2258,7,5,Amaranthoideae,Q141521,1AMAS
+2259,8,2258,Alternanthera,Q2840398,1ALRG
+2260,6,2147,Betulaceae,Q156064,1BETF
+2261,7,2260,Alnus,Q25239,1ALUG
+2262,8,2258,Amaranthus,Q156344,1AMAG
+2263,8,2132,Ambrosia,Q844270,1AMBG
+2264,8,2212,Ampelopsis,Q158192,1AMCG
+2265,8,2140,Amelanchier,Q156957,1AMEG
+2266,2,2190,Arthropoda,Q1360,1ARTHP
+2267,3,2266,Hexapoda,Q105146,1HEXAQ
+2268,4,2267,Insecta,Q1390,1INSEC
+2269,5,2268,Lepidoptera,Q28319,1LEPIO
+2270,6,2269,Sphingidae,Q157683,1SPHIF
+2271,7,2270,Amorpha,,1AMORG
+2272,6,2108,Anacardiaceae,Q156589,1ANAF
+2273,7,2272,Anacardioideae,Q4750637,1ANAS
+2274,8,2273,Anacardium,Q161175,1ANAG
+2275,7,2201,Angelica,Q219666,1ANKG
+2276,8,2132,Anthemis,Q847930,1ANTG
+2277,8,2132,Chamaemelum,Q1427205,1KMMG
+2278,8,2132,Cota,,1KTAG
+2279,4,2101,Magnoliids,,1MAGD
+2280,5,2279,Magnoliales,Q27187,1MAGO
+2281,6,2280,Annonaceae,Q220025,1ANNF
+2282,7,2281,Annonoideae,Q19912576,1ANNS
+2283,8,2282,Annona,,1ANUG
+2284,8,2234,Allophylus,Q135680,1AOLG
+2285,7,2151,Apocynoideae,Q143102,1APCS
+2286,8,2285,Apocynum,Q133242,1APCG
+2287,8,2146,Apios,Q2537603,1APOG
+2288,7,2201,Apium,Q2284228,1APUG
+2289,7,2122,Thalictroideae,Q3985474,1THCS
+2290,8,2289,Aquilegia,Q147641,1AQIG
+2291,7,23,Arabis,Q157396,1ARCG
+2292,7,39,Arbutus,Q430057,1ARDG
+2293,8,2132,Arctium,Q27257,1ARFG
+2294,6,2121,Papaveraceae,Q144723,1PPAF
+2295,7,2294,Papaveroideae,Q596716,1PPAS
+2296,8,2295,Argemone,Q1783190,1ARGG
+2297,8,2146,Arachis,,1ARHG
+2298,7,2157,Arenaria,,1ARIG
+2299,7,2229,Aralia,,1ARLG
+2300,8,2165,Arrhenatherum,Q157689,1ARRG
+2301,8,2132,Artemisia,Q156421,1ARTG
+2302,6,2246,Araucaria,Q157214,1ARUG
+2303,7,23,Armoracia,Q162888,1ARWG
+2304,7,39,Arctostaphylos,Q280566,1ARYG
+2305,8,2146,Astragalus,Q157184,1ASAG
+2306,7,2151,Asclepiadoideae,,1ASCS
+2307,8,2306,Asclepias,Q162153,1ASCG
+2308,8,2282,Asimina,Q288443,1ASIG
+2309,7,2175,Asparagoideae,Q165033,1ASGS
+2310,8,2309,Asparagus,Q2853420,1ASPG
+2311,8,2132,Arctotis,Q2290011,1ATBG
+2312,7,2144,Atropanthe,Q15281343,1ATFG
+2313,7,74,Antirrhinum,Q157646,1ATHG
+2314,6,2161,Actinidiaceae,Q156666,1ACTF
+2315,7,2314,Actinidia,Q164898,1ATIG
+2316,2,2099,Pteridophyta,Q178249,1PTEP
+2317,3,2316,Pteridopsida,,1PTEC
+2318,4,2317,Polypodiales,Q834805,1POPO
+2319,5,2318,Aspleniaceae,Q1137402,1ASNF
+2320,6,2319,Athyrioideae,,1ATUS
+2321,7,2320,Athyrium,Q7237437,1ATUG
+2322,8,12,Atriplex,,1ATXG
+2323,8,2165,Avena,,1AVEG
+2324,8,2204,Axonopus,Q2634101,1AXOG
+2325,8,2146,Anthyllis,Q751134,1AYLG
+2326,7,2199,Azara,Q144592,1AZAG
+2327,8,2132,Argyranthemum,Q133909,1AZGG
+2328,8,2132,Baccharis,Q133834,1BACG
+2329,8,2146,Baptisia,Q2698539,1BAPG
+2330,8,12,Beta,Q3761162,1BEAG
+2331,6,2153,Begoniaceae,Q161189,1BEGF
+2332,7,2331,Begonia,Q158617,1BEGG
+2333,8,2132,Bellis,Q27583,1BELG
+2334,7,2260,Betula,Q25243,1BETG
+2335,8,2132,Bidens,Q157173,1BIDG
+2336,7,2104,Dolichandra,Q8561475,1DLKG
+2337,8,2132,Calyptocarpus,Q5024691,1KLXG
+2338,8,2167,Ballota,Q158853,1BLLG
+2339,7,30,Benincasa,Q3264314,1BNCG
+2340,7,2256,Boerhavia,Q311180,1BOEG
+2341,7,2142,Spermacoce,Q3314456,1SPCG
+2342,8,2204,Brachiaria,Q2699312,1BRAG
+2343,8,2204,Urochloa,Q2978108,1UROG
+2344,8,2165,Brachypodium,Q157770,1BRCG
+2345,7,2144,Brunfelsia,Q133852,1BRFG
+2346,8,2132,Brachyglottis,Q4953443,1BRGG
+2347,8,2132,Brickellia,Q4965994,1BRLG
+2348,6,2138,Moraceae,Q156579,1MORF
+2349,7,2348,Broussonetia,Q600114,1BRNG
+2350,8,2165,Bromus,Q147621,1BROG
+2351,7,2144,Browallia,Q133827,1BRWG
+2352,8,2165,Briza,Q158120,1BRZG
+2353,6,2103,Scrophulariaceae,Q53473,1SCPF
+2354,7,2353,Buddleia,,1BUDG
+2355,6,2198,Rhizophoraceae,Q740873,1RHIF
+2356,7,2355,Bruguiera,Q2534002,1BUGG
+2357,6,2161,Sapotaceae,Q158981,1SATF
+2358,7,2357,Sapotoideae,Q7421025,1SATS
+2359,8,2358,Sideroxylon,Q1067086,1SDIG
+2360,7,2171,Sterculioideae,Q159031,1STES
+2361,8,2360,Brachychiton,,1BYHG
+2362,7,23,Lepidium,Q146217,1LEPG
+2363,8,2182,Caesalpinia,Q608215,1CAEG
+2364,7,2239,Calystegia,Q149312,1CAGG
+2365,6,2161,Theaceae,Q156574,1THEF
+2366,7,2365,Camellia,Q212815,1CAHG
+2367,8,2146,Cajanus,Q3239959,1CAJG
+2368,7,23,Capsella,,1CAPG
+2369,7,23,Cardamine,Q147299,1CARG
+2370,8,2182,Chamaecrista,Q2948035,1KHQG
+2371,8,2182,Senna,Q311117,1SJNG
+2372,8,2182,Cassia,Q162882,1CASG
+2373,8,2132,Carthamus,Q161178,1CAUG
+2374,6,31,Calocedrus,Q765246,1CCDG
+2375,8,2204,Cenchrus,Q430325,1CCHG
+2376,8,2182,Parkinsonia,Q1826576,1PAKG
+2377,6,2153,Corynocarpaceae,,1COYF
+2378,7,2377,Corynocarpus,Q1140027,1CCKG
+2379,5,2117,Arecales,Q1096533,1AREO
+2380,6,2379,Arecaceae,Q14080,1PALF
+2381,7,2380,Arecoideae,Q141975,1ARES
+2382,8,2381,Cocos,Q13099531,1CCNG
+2383,8,2146,Calicotome,Q1245748,1CCOG
+2384,7,57,Cercidoideae,Q42398994,1CERS
+2385,8,2384,Cercis,Q29033,1CCSG
+2386,8,2253,Codiaeum,Q135027,1CDIG
+2387,7,2175,Lomandroideae,Q133636,1LQMS
+2388,8,2387,Cordyline,Q1543189,1CDLG
+2389,5,2115,Santalales,Q21851,1SANO
+2390,6,2389,Santalaceae,Q327639,1SANF
+2391,7,2390,Comandra,Q5150546,1CDRG
+2392,7,2175,Agavoideae,Q162802,1AGVS
+2393,8,2392,Camassia,Q1810294,1CDSG
+2394,8,2204,Cortaderia,Q941632,1CDTG
+2395,8,2136,Codonopsis,Q1106504,1CDWG
+2396,6,2138,Rhamnaceae,Q156083,1RHAF
+2397,7,2396,Ceanothus,Q311139,1CEAG
+2398,7,2186,Cereus,,1CEEG
+2399,5,2137,Celastrales,Q21870,1CELO
+2400,6,2399,Celastraceae,Q135336,1CELF
+2401,7,2400,Celastrus,Q811662,1CELG
+2402,7,2144,Cestrum,Q1364444,1CEMG
+2403,8,2132,Plectocephalus,Q149795,1QLFG
+2404,8,2132,Centaurea,Q156414,1CENG
+2405,8,2182,Ceratonia,Q159376,1CEQG
+2406,7,2157,Cerastium,Q157483,1CERG
+2407,6,2138,Cannabaceae,Q156338,1CAIF
+2408,7,2407,Celtis,Q248582,1CETG
+2409,6,71,Cedrus,Q128550,1CEUG
+2410,8,2204,Coelorachis,Q3347823,1CGAG
+2411,6,2162,Onagraceae,Q156179,1ONAF
+2412,7,2411,Chamerion,Q2507911,1CHAG
+2413,8,12,Chenopodium,Q158094,1CHEG
+2414,8,12,Dysphania,,1DYPG
+2415,8,12,Blitum,Q8248805,1BIUG
+2416,8,12,Chenopodiastrum,Q13847552,1KNPG
+2417,8,12,Lipandra,,1LNRG
+2418,7,2144,Chamaesaracha,Q2707896,1CHFG
+2419,7,2104,Chilopsis,Q16744460,1CHJG
+2420,8,2295,Chelidonium,,1CHQG
+2421,8,2204,Chloris,,1CHRG
+2422,8,2132,Arctanthemum,Q4787482,1AKKG
+2423,8,2132,Tanacetum,Q54016,1TNCG
+2424,8,2132,Glebionis,Q1284225,1GBNG
+2425,8,2132,Leucanthemum,Q21040,1LCAG
+2426,8,2132,Coleostephus,Q965889,1KSTG
+2427,8,2132,Nipponanthemum,Q7039696,1NIPG
+2428,8,2132,Ajania,Q2369424,1AJNG
+2429,8,2132,Leucanthemella,Q3310245,1LHEG
+2430,6,2128,Caricaceae,Q156673,1CAAF
+2431,7,2430,Carica,Q1752510,1CIAG
+2432,8,2212,Cissus,Q2046407,1CIBG
+2433,8,2132,Cichorium,Q158514,1CICG
+2434,8,2146,Cicer,Q762857,1CIEG
+2435,5,2279,Laurales,Q21801,1LAUO
+2436,6,2435,Lauraceae,Q26538,1LAUF
+2437,7,2436,Cinnamomum,Q27282,1CING
+2438,6,2103,Oleaceae,Q155966,1OLEF
+2439,7,2438,Chionanthus,Q615000,1CIOG
+2440,7,2260,Carpinus,Q158513,1CIPG
+2441,8,2132,Cirsium,Q1638558,1CIRG
+2442,8,2152,Carissa,,1CISG
+2443,7,30,Citrullus,Q132239,1CITG
+2444,7,2201,Cicuta,Q2093588,1CIUG
+2445,8,2134,x Citrofortunella,,1CJFG
+2446,6,2131,Argophyllaceae,Q132235,1AQXF
+2447,7,2446,Corokia,Q5172090,1CKIG
+2448,6,2116,Montiaceae,Q1200455,1MNAF
+2449,7,2448,Claytonia,Q164192,1CLAG
+2450,8,2132,Calendula,Q147281,1CLDG
+2451,6,2128,Cleomaceae,,1CLEF
+2452,7,2451,Cleome,Q2086565,1CLEG
+2453,8,2146,Clianthus,Q2975317,1CLGG
+2454,8,2167,Callicarpa,Q133831,1CLIG
+2455,8,2123,Clematis,Q157634,1CLVG
+2456,8,2164,Melaleuca,Q606617,1MLAG
+2457,7,2239,Calonyction,,1CLYG
+2458,8,2150,Cymbidium,,1CMFG
+2459,7,2104,Campsis,Q1148029,1CMIG
+2460,8,2146,Cyamopsis,Q2636758,1CMOG
+2461,8,2132,Cosmos,Q476937,1CMSG
+2462,7,2407,Cannabis,Q79817,1CNIG
+2463,6,2173,Cannaceae,,1CANF
+2464,7,2463,Canna,Q161182,1CNNG
+2465,8,2123,Delphinium,Q160107,1DELG
+2466,8,2172,Callirhoe,Q3626558,1COEG
+2467,7,2201,Conium,Q6491516,1COIG
+2468,5,2117,Commelinales,Q290349,1CMMO
+2469,6,2468,Commelinaceae,Q156674,1CMMF
+2470,7,2469,Commelinoideae,Q5152291,1CMMS
+2471,8,2470,Commelina,Q161075,1COMG
+2472,7,2239,Convolvulus,Q147507,1CONG
+2473,8,2273,Cotinus,Q157366,1COTG
+2474,6,2121,Menispermaceae,Q855116,1MENF
+2475,7,2474,Cocculus,Q1152946,1COUG
+2476,7,2142,Coprosma,Q2578865,1CPMG
+2477,7,2149,Cypripedioideae,Q132226,1CPVS
+2478,8,2477,Cypripedium,Q133773,1CPVG
+2479,7,2133,Rutoideae,Q4401179,1RUTS
+2480,8,2479,Coleonema,Q5143069,1CQMG
+2481,5,2102,Boraginales,Q2538910,1BORO
+2482,6,2481,Boraginaceae,Q26568,1BORF
+2483,7,2482,Cordia,,1CRHG
+2484,8,2132,Coreopsis,Q1362995,1CRLG
+2485,6,2177,Cornaceae,Q161403,1CORF
+2486,7,2485,Cornus,,1CRWG
+2487,6,2118,Cyperaceae,Q155843,1CYPF
+2488,7,2487,Cyperoideae,Q4448224,1CYPS
+2489,8,2488,Carex,,1CRXG
+2490,6,2103,Orobanchaceae,Q156192,1ORAF
+2491,7,2490,Castilleja,Q311122,1CSLG
+2492,7,2148,Chrysolepis,Q137054,1KRYG
+2493,8,2132,Callistephus,Q12358274,1CSPG
+2494,6,2170,Cistaceae,Q156282,1CISF
+2495,7,2494,Cistus,Q206127,1CSTG
+2496,6,2147,Casuarinaceae,Q474620,1CASF
+2497,7,2496,Casuarina,Q756005,1CSUG
+2498,7,2104,Catalpa,Q158072,1CTLG
+2499,7,30,Cucumis,Q148758,1CUMG
+2500,7,39,Calluna,Q6983007,1CUNG
+2501,7,30,Cucurbita,Q5339301,1CUUG
+2502,6,31,Hesperocyparis,Q16983101,1HSIG
+2503,8,2253,Croton,Q519802,1CVNG
+2504,8,2146,Crotalaria,,1CVTG
+2505,8,2146,Clitoria,Q2472930,1CXCG
+2506,6,2161,Clethraceae,Q157454,1CXEF
+2507,7,2506,Clethra,Q159328,1CXEG
+2508,8,2253,Cnidoscolus,Q2711979,1CXFG
+2509,7,2104,x Chitalpa,,1CXKG
+2510,8,2187,Colocasia,,1CXSG
+2511,8,2183,Coleus,Q17114803,1CXUG
+2512,6,2147,Juglandaceae,Q216944,1JUGF
+2513,7,2512,Carya,Q142788,1CYAG
+2514,8,2140,Cydonia,,1CYDG
+2515,8,2204,Cymbopogon,Q5727732,1CYGG
+2516,8,2204,Cynodon,,1CYNG
+2517,8,2488,Cyperus,Q161224,1CYPG
+2518,8,2132,Cynara,Q19070,1CYUG
+2519,7,2482,Cynoglossum,Q751937,1CYWG
+2520,7,2188,Myrsinoideae,Q4296284,1MYNS
+2521,8,2520,Cyclamen,Q147295,1CYZG
+2522,8,2146,Coronilla,Q158849,1CZRG
+2523,8,2146,Cytisus,Q157226,1CZSG
+2524,8,2146,Chamaecytisus,Q964986,1CCJG
+2525,8,2165,Dactylis,Q1047931,1DACG
+2526,5,2245,Podocarpaceae,Q157160,1POCF
+2527,6,2526,Dacrydium,,1DADG
+2528,7,2144,Brugmansia,Q757262,1BGMG
+2529,7,2144,Datura,Q192497,1DATG
+2530,7,2201,Daucus,Q27949,1DAUG
+2531,7,2294,Fumarioideae,Q5692050,1FUMS
+2532,8,2531,Lamprocapnos,Q10316172,1LMCG
+2533,8,2531,Dicentra,Q157857,1DCTG
+2534,8,2146,Desmodium,Q258623,1DEDG
+2535,7,23,Descurainia,Q162770,1DESG
+2536,8,2187,Dieffenbachia,Q738915,1DIFG
+2537,8,2204,Digitaria,,1DIGG
+2538,7,2239,Dichondra,Q140232,1DIOG
+2539,7,2216,Diervilloideae,Q18674572,1DIVS
+2540,8,2539,Diervilla,Q2697991,1DIVG
+2541,7,2216,Dipsacoideae,Q16557170,1DIWS
+2542,8,2541,Dipsacus,Q161946,1DIWG
+2543,8,2204,Dichanthelium,Q3756576,1DKTG
+2544,8,2146,Dalea,Q2716243,1DLEG
+2545,8,2234,Dimocarpus,Q1916925,1DMCG
+2546,7,2109,Dodonaeoideae,Q4164147,1DODS
+2547,8,2546,Dodonaea,Q2719945,1DODG
+2548,8,2146,Lablab,Q16625423,1LBBG
+2549,6,2161,Ebenaceae,Q156669,1EBEF
+2550,7,2549,Diospyros,Q165258,1DOSG
+2551,7,30,Diplocyclos,Q5245763,1DPYG
+2552,7,2175,Nolinoideae,Q161408,1NOLS
+2553,8,2552,Dracaena,,1DRNG
+2554,7,2144,Duboisia,Q310905,1DUBG
+2555,6,2103,Verbenaceae,Q156960,1VERF
+2556,7,2555,Duranta,Q2086154,1DUTG
+2557,8,2204,Echinochloa,Q163965,1ECHG
+2558,8,2146,Echinospartum,Q3310596,1ECSG
+2559,7,2482,Echium,Q157711,1EHIG
+2560,7,2186,Echinocactus,Q133014,1EHNG
+2561,7,49,Ehrhartoideae,Q764916,1EHRS
+2562,8,2561,Ehrharta,Q2477635,1EHRG
+2563,7,39,Erica,Q206998,1EIAG
+2564,8,2140,Eriobotrya,Q1550170,1EIOG
+2565,8,2204,Eleusine,Q2301041,1ELEG
+2566,6,2138,Elaeagnaceae,Q156326,1ELAF
+2567,7,2566,Elaeagnus,Q161042,1ELGG
+2568,7,2353,Eremophila,,1EMHG
+2569,8,2132,Emilia,Q5371629,1EMIG
+2570,8,2132,Encelia,Q2708471,1ENCG
+2571,2,2099,Gnetophyta,Q309147,1GNEP
+2572,3,2571,Gnetopsida,Q1011212,1GNEC
+2573,4,2572,Gnetales,,1GNEO
+2574,5,2573,Ephedraceae,Q10376735,1EPHF
+2575,6,2574,Ephedra,Q838000,1EPEG
+2576,7,2225,Euphorbioideae,Q45119,1EUPS
+2577,8,2576,Euphorbia,,1EPHG
+2578,7,2127,Epimedium,Q157746,1EPMG
+2579,8,2204,Eriochloa,Q2107630,1ERBG
+2580,8,2132,Erechtites,Q3232518,1EREG
+2581,6,2116,Polygonaceae,Q156117,1POLF
+2582,7,2581,Eriogonoideae,Q990762,1ERGS
+2583,8,2582,Eriogonum,Q2707277,1ERGG
+2584,8,2132,Erigeron,Q745253,1ERIG
+2585,7,2169,Erodium,Q162920,1EROG
+2586,8,2132,Eriocephalus,Q5389297,1ERQG
+2587,7,2201,Eryngium,Q729143,1ERXG
+2588,8,2146,Erythrina,Q1340386,1ERZG
+2589,5,2130,Escalloniales,Q2274399,1ESCO
+2590,6,2589,Escalloniaceae,Q848332,1ESCF
+2591,7,2590,Escallonia,Q311780,1ESAG
+2592,6,2173,Zingiberaceae,Q37021,1ZINF
+2593,7,2592,Alpinioideae,Q5670571,1AIIS
+2594,8,2593,Elettaria,Q312218,1ETAG
+2595,7,23,Eutrema,Q9299324,1ETMG
+2596,8,2164,Corymbia,Q1439250,1KMBG
+2597,8,2204,Zea,,1ZEAG
+2598,7,2400,Euonymus,Q161113,1EUOG
+2599,8,2132,Eupatorium,Q1123970,1EUPG
+2600,8,2132,Ageratina,Q2704494,1AAKG
+2601,7,2239,Evolvulus,Q2703736,1EVOG
+2602,8,2140,Exochorda,Q137339,1EXOG
+2603,8,2146,Eysenhardtia,Q942225,1EYDG
+2604,8,2132,Euryops,Q3275047,1EYOG
+2605,8,2132,Facelis,Q5428479,1FACG
+2606,7,2229,Fatsia,,1FATG
+2607,7,2148,Fagus,Q25403,1FAUG
+2608,8,2164,Feijoa,Q83638494,1FEJG
+2609,8,2360,Firmiana,Q427914,1FIRG
+2610,7,2348,Ficus,,1FIUG
+2611,7,2201,Foeniculum,Q27030,1FOEG
+2612,6,2161,Fouquieriaceae,Q1209796,1FOUF
+2613,7,2612,Fouquieria,Q133229,1FOQG
+2614,7,2438,Forestiera,Q355080,1FORG
+2615,7,2438,Forsythia,Q672980,1FOSG
+2616,8,2258,Froelichia,Q5505160,1FROG
+2617,8,2132,Franseria,,1FRSG
+2618,7,2438,Fraxinus,Q128887,1FRXG
+2619,7,2411,Fuchsia,,1FUCG
+2620,7,2411,Oenothera,Q157658,1OEOG
+2621,7,2142,Gardenia,Q740887,1GADG
+2622,8,2132,Gaillardia,,1GAIG
+2623,7,2142,Galium,Q148633,1GALG
+2624,5,2102,Garryales,Q21761,1GARO
+2625,6,2624,Garryaceae,Q122844,1GARF
+2626,7,2625,Garrya,Q813604,1GARG
+2627,8,2132,Galinsoga,Q1075717,1GASG
+2628,7,39,Gaylussacia,Q2704451,1GAYG
+2629,8,2132,Gazania,Q858999,1GAZG
+2630,7,20,Mutisioideae,Q141564,1MUTS
+2631,8,2630,Gerbera,Q310654,1GEBG
+2632,6,2141,Gelsemiaceae,Q131965,1GELF
+2633,7,2632,Gelsemium,Q134232,1GELG
+2634,8,2146,Genista,Q156696,1GENG
+2635,8,2197,Geum,Q156771,1GEUG
+2636,8,2488,Gahnia,Q977615,1GHNG
+2637,6,2161,Polemoniaceae,Q157168,1POMF
+2638,7,2637,Gilia,,1GIIG
+2639,2,2099,Ginkgophyta,Q1241896,1GIKP
+2640,3,2639,Ginkgoopsida,Q10788836,1GIKC
+2641,4,2640,Ginkgoales,Q835097,1GIKO
+2642,5,2641,Ginkgoaceae,,1GIKF
+2643,6,2642,Ginkgo,,1GIKG
+2644,8,2182,Gleditsia,Q161250,1GLIG
+2645,8,2146,Gliricidia,Q12549487,1GLRG
+2646,8,2146,Glycine,Q311395,1GLXG
+2647,7,2166,Viticoideae,Q3823289,1VIXS
+2648,8,2647,Gmelina,,1GMEG
+2649,8,2132,Gnaphalium,Q41552,1GNAG
+2650,7,5,Gomphrenoideae,Q142817,1GMPS
+2651,8,2650,Gomphrena,Q1446121,1GOMG
+2652,7,2365,Gordonia,,1GORG
+2653,5,2120,Proteales,Q21838,1PROO
+2654,6,2653,Proteaceae,Q157228,1PROF
+2655,7,2654,Grevilleoideae,Q1934685,1GRES
+2656,8,2655,Grevillea,Q1545761,1GREG
+2657,8,2132,Grindelia,Q2702875,1GRNG
+2658,8,2132,Gutierrezia,Q2385155,1GUEG
+2659,8,2182,Gymnocladus,Q429179,1GYMG
+2660,8,2132,Gynura,Q2336670,1GYUG
+2661,6,2180,Haloragaceae,Q157237,1HALF
+2662,7,2661,Haloragis,Q2617536,1HAGG
+2663,7,2494,Halimium,Q2705310,1HAIG
+2664,8,2132,Haplopappus,Q2392615,1HAPG
+2665,6,2180,Saxifragaceae,Q2543932,1SAXF
+2666,7,2665,Heuchera,Q972663,1HCHG
+2667,7,2122,Hydrastidoideae,Q5905589,1HDRS
+2668,8,2667,Hydrastis,Q9005595,1HDRG
+2669,7,2494,Helianthemum,Q162895,1HEAG
+2670,8,2132,Helichrysum,Q28195,1HECG
+2671,7,2229,Hedera,,1HEEG
+2672,8,2132,Heliopsis,Q2065883,1HEFG
+2673,6,2112,Asphodelaceae,Q14554941,1XANF
+2674,7,2673,Hemerocallidoideae,Q913145,1HEMS
+2675,8,2674,Hemerocallis,Q156275,1HEGG
+2676,8,2132,Helenium,Q1632842,1HENG
+2677,7,2482,Heliotropium,Q158082,1HEOG
+2678,7,2201,Heracleum,Q327106,1HERG
+2679,8,2172,Hibiscus,Q157124,1HIBG
+2680,8,2132,Pilosella,Q9059678,1QJLG
+2681,8,2132,Hieracium,Q16526,1HIEG
+2682,8,2204,Hakonechloa,Q2861460,1HKNG
+2683,8,2165,Holcus,Q158851,1HOLG
+2684,8,2165,Hordeum,Q518044,1HORG
+2685,7,2142,Houstonia,,1HOUG
+2686,7,2113,Amaryllidoideae,Q150708,1AMYS
+2687,8,2686,Hippeastrum,Q757257,1HPSG
+2688,7,2171,Byttnerioideae,Q652608,1BYTS
+2689,8,2688,Herrania,Q5233116,1HRAG
+2690,8,2132,Hypochaeris,Q28202,1HRYG
+2691,7,2144,Hyoscyamus,Q158510,1HSYG
+2692,8,2132,Heteranthemis,Q9298209,1HTMG
+2693,8,2132,Heterotheca,Q970748,1HTTG
+2694,7,2407,Humulus,Q158790,1HUMG
+2695,8,2253,Hevea,Q2350189,1HVEG
+2696,7,2229,Hydrocotyloideae,Q4040859,1HYDS
+2697,8,2696,Hydrocotyle,Q158200,1HYDG
+2698,6,2198,Hypericaceae,Q158185,1HPRF
+2699,7,2698,Hypericum,Q156935,1HYPG
+2700,7,2104,Jacaranda,Q311105,1IACG
+2701,8,2253,Jatropha,Q152986,1IATG
+2702,7,23,Iberis,Q158380,1IBEG
+2703,5,2130,Aquifoliales,Q21779,1AQIO
+2704,6,2703,Aquifoliaceae,Q674593,1AQIF
+2705,7,2704,Ilex,,1ILEG
+2706,8,2146,Indigofera,Q310648,1INDG
+2707,8,2132,Dittrichia,Q2703089,1DTZG
+2708,7,2239,Ipomoea,Q161173,1IPOG
+2709,7,2154,Iridoideae,Q6069635,1IRIS
+2710,8,2709,Iris,,1IRIG
+2711,7,2512,Juglans,Q2453469,1IUGG
+2712,6,2103,Acanthaceae,Q53475,1ACAF
+2713,7,2712,Acanthoideae,Q822684,1ACAS
+2714,8,2713,Justicia,Q2046390,1IUIG
+2715,8,2132,Iva,Q4338415,1IVAG
+2716,7,39,Kalmia,Q1427635,1KAMG
+2717,8,12,Bassia,,1BAFG
+2718,8,2140,Kerria,,1KERG
+2719,8,2132,Leucophyta,Q16089820,1LHYG
+2720,8,2234,Koelreuteria,Q132703,1KOTG
+2721,5,2137,Zygophyllales,Q21899,1ZYGO
+2722,6,2721,Krameriaceae,,1KRAF
+2723,7,2722,Krameria,Q290473,1KRAG
+2724,8,2132,Krigia,Q6437019,1KRIG
+2725,8,2132,Kuhnia,Q5032625,1KUHG
+2726,8,2146,Laburnum,Q147184,1LABG
+2727,8,2132,Lactuca,Q578052,1LACG
+2728,6,2162,Lythraceae,Q156022,1LYTF
+2729,7,2728,Lagerstroemia,Q775229,1LAEG
+2730,7,2555,Lantana,,1LANG
+2731,8,2183,Lavandula,Q171892,1LAVG
+2732,6,71,Larix,,1LAXG
+2733,8,2709,Libertia,Q2700376,1LBEG
+2734,7,2353,Leucophyllum,Q2702896,1LCPG
+2735,8,2167,Leonurus,Q157982,1LECG
+2736,8,2164,Leptospermum,Q135621,1LEKG
+2737,8,2146,Lens,,1LENG
+2738,8,2146,Lespedeza,Q1017395,1LESG
+2739,7,23,Lesquerella,,1LEUG
+2740,7,30,Lagenaria,Q1995080,1LGNG
+2741,8,2146,Retama,Q2699268,1RTAG
+2742,7,2148,Notholithocarpus,Q17410244,1NLKG
+2743,7,2436,Lindera,,1LIEG
+2744,7,2438,Ligustrum,Q753099,1LIGG
+2745,6,2116,Plumbaginaceae,Q156141,1PLUF
+2746,7,2745,Limonium,Q157375,1LIIG
+2747,5,2111,Liliales,Q53478,1LILO
+2748,6,2747,Liliaceae,Q53480,1LILF
+2749,7,2748,Lilium,,1LILG
+2750,7,74,Linaria,,1LING
+2751,7,2555,Lippia,Q10514128,1LIPG
+2752,6,2180,Altingiaceae,Q131360,1AJGF
+2753,7,2752,Liquidambar,Q183543,1LIQG
+2754,6,2280,Magnoliaceae,Q120228,1MAGF
+2755,7,2754,Liriodendron,Q157236,1LIRG
+2756,7,2436,Litsea,Q2261537,1LISG
+2757,7,2482,Buglossoides,Q622782,1BUOG
+2758,6,2198,Linaceae,Q155951,1LINF
+2759,7,2758,Linum,Q161100,1LIUG
+2760,6,2116,Aizoaceae,Q156219,1AIZF
+2761,7,2760,Ruschioideae,Q1027546,1RSHS
+2762,8,2761,Lampranthus,Q159047,1LMPG
+2763,7,2135,Lobelioideae,Q1152804,1LOBS
+2764,8,2763,Lobelia,Q158182,1LOBG
+2765,7,2216,Caprifolioideae,Q16542849,1CPFS
+2766,8,2765,Lonicera,Q156047,1LONG
+2767,7,2482,Lappula,Q2641622,1LPLG
+2768,7,2490,Lamourouxia,,1LRXG
+2769,8,2146,Lathyrus,Q157209,1LTHG
+2770,8,2132,Liatris,Q1580155,1LTSG
+2771,7,2411,Ludwigia,Q158391,1LUDG
+2772,7,30,Luffa,Q232909,1LUFG
+2773,8,2146,Lupinus,Q156811,1LUPG
+2774,7,2436,Laurus,Q21188,1LURG
+2775,8,2172,Malva,Q147325,1MALG
+2776,7,39,Lyonia,Q2664959,1LYDG
+2777,7,2157,Lychnis,,1LYHG
+2778,7,2157,Viscaria,Q9338825,1VSKG
+2779,7,2144,Lycianthes,Q137549,1LYIG
+2780,8,2520,Lysimachia,Q157761,1LYSG
+2781,7,2144,Lycium,Q3268411,1LYUG
+2782,7,2348,Maclura,Q137091,1MACG
+2783,7,2754,Magnolia,Q157017,1MAGG
+2784,8,2172,Malvaviscus,Q3237074,1MAIG
+2785,8,2183,Origanum,Q205265,1ORIG
+2786,7,2186,Mammillaria,Q311120,1MAKG
+2787,8,2253,Manihot,Q149056,1MANG
+2788,8,2167,Marrubium,Q159392,1MAQG
+2789,8,2132,Matricaria,Q27618,1MATG
+2790,8,2132,Tripleurospermum,,1TPMG
+2791,8,2172,Malvastrum,Q9297443,1MAVG
+2792,8,2183,Marsypianthes,Q10326791,1MAXG
+2793,7,2436,Machilus,Q6723589,1MCHG
+2794,8,2146,Maackia,,1MCKG
+2795,7,2490,Melampyrum,Q161626,1MEAG
+2796,8,2146,Medicago,Q159549,1MEDG
+2797,6,2108,Meliaceae,Q158979,1MELF
+2798,7,2797,Melia,Q2703639,1MEIG
+2799,7,2157,Silene,,1SILG
+2800,8,2146,Melilotus,Q161142,1MEUG
+2801,7,2256,Mirabilis,Q158323,1MIBG
+2802,8,2182,Mimosa,,1MIMG
+2803,8,2226,Mallotus,,1MLLG
+2804,8,2479,Melicope,Q2700651,1MLQG
+2805,8,2183,Melissa,Q920402,1MLSG
+2806,6,2198,Violaceae,Q156060,1VIOF
+2807,7,2806,Melicytus,Q1935545,1MLYG
+2808,8,2183,Micromeria,Q2306517,1MMJG
+2809,8,2273,Mangifera,Q161807,1MNGG
+2810,7,39,Menziesia,,1MNIG
+2811,8,2358,Manilkara,Q309947,1MNKG
+2812,7,2448,Montia,Q160046,1MNTG
+2813,6,2177,Loasaceae,Q599518,1LOAF
+2814,7,2813,Mentzelia,Q142498,1MNZG
+2815,8,2172,Modiola,,1MODG
+2816,6,2116,Molluginaceae,Q144259,1MOLF
+2817,7,2816,Mollugo,Q2639601,1MOLG
+2818,7,2348,Morus,,1MORG
+2819,7,2239,Distimake,Q43298598,1DTKG
+2820,7,2229,Meryta,Q2598732,1MRYG
+2821,7,2139,Mespilus,Q148723,1MSPG
+2822,8,2164,Metrosideros,Q1313015,1MTDG
+2823,7,23,Matthiola,Q27961,1MTLG
+2824,8,2146,Mucuna,Q2574724,1MUCG
+2825,7,2353,Myoporum,Q115631,1MYMG
+2826,6,2147,Myricaceae,Q843892,1MYIF
+2827,7,2826,Myrica,Q133287,1MYRG
+2828,8,2164,Myrtus,,1MYVG
+2829,8,2164,Ugni,Q138975,1UGIG
+2830,7,2127,Nandina,,1NANG
+2831,8,2686,Narcissus,Q29465,1NARG
+2832,8,2285,Nerium,Q3874774,1NERG
+2833,7,2139,Neviusia,Q144383,1NEVG
+2834,7,2144,Nicandra,Q3339559,1NICG
+2835,7,2144,Nierembergia,Q1702276,1NIEG
+2836,7,2144,Nicotiana,Q851829,1NIOG
+2837,8,2182,Neptunia,Q3235507,1NPTG
+2838,7,2438,Nestegis,Q5413274,1NTGG
+2839,7,2485,Nyssa,Q964952,1NYSG
+2840,7,2436,Ocotea,Q3305677,1OCOG
+2841,8,2132,Olearia,Q291873,1OLRG
+2842,7,2438,Olea,,1OLVG
+2843,7,2199,Oncoba,Q9052423,1ONKG
+2844,7,2482,Lithospermum,Q932776,1LITG
+2845,7,2490,Orthocarpus,Q3314224,1ORCG
+2846,8,2561,Oryza,Q690633,1ORYG
+2847,8,2132,Dimorphotheca,,1DMPG
+2848,7,2260,Ostrya,Q605290,1OSTG
+2849,7,2438,Osmanthus,Q618810,1OSUG
+2850,5,2137,Oxalidales,Q21891,1OXAO
+2851,6,2850,Oxalidaceae,Q156544,1OXAF
+2852,7,2851,Oxalis,Q157378,1OXAG
+2853,7,39,Oxydendrum,,1OXDG
+2854,5,2111,Pandanales,Q269303,1PANO
+2855,6,2854,Pandanaceae,Q736182,1PANF
+2856,7,2855,Pandanus,Q471914,1PADG
+2857,8,2204,Megathyrsus,Q21447466,1MGHG
+2858,8,2204,Panicum,Q934037,1PANG
+2859,6,2180,Paeoniaceae,Q3360397,1PAEF
+2860,7,2859,Paeonia,Q147105,1PAOG
+2861,8,2295,Papaver,Q146391,1PAPG
+2862,6,2198,Passifloraceae,Q157164,1PASF
+2863,7,2862,Passiflora,Q161185,1PAQG
+2864,7,2201,Petroselinum,Q310933,1PARG
+2865,8,2204,Paspalum,Q2333069,1PASG
+2866,7,2201,Pastinaca,Q1479657,1PAVG
+2867,6,2103,Paulowniaceae,Q1896257,1PAZF
+2868,7,2867,Paulownia,Q165173,1PAZG
+2869,8,2132,Pachystegia,Q10343411,1PBGG
+2870,8,2140,Pseudocydonia,Q21446822,1PDCG
+2871,7,2490,Pedicularis,Q129016,1PEAG
+2872,7,2436,Persea,Q132039,1PEBG
+2873,7,74,Penstemon,Q809265,1PEEG
+2874,8,2183,Salvia,Q157151,1SALG
+2875,5,2279,Piperales,Q27287,1PIPO
+2876,6,2875,Piperaceae,Q156522,1PIPF
+2877,7,2876,Peperomia,Q1354632,1PEOG
+2878,7,2144,Petunia,Q161103,1PEUG
+2879,7,39,Gaultheria,Q1626776,1GAHG
+2880,7,2157,Petrocoptis,Q10348998,1PFCG
+2881,8,2204,Pentameris,Q3283834,1PFMG
+2882,8,2132,Phagnalon,Q2388068,1PGAG
+2883,8,2165,Phalaris,Q157573,1PHAG
+2884,7,2482,Phacelia,Q133285,1PHCG
+2885,7,2178,Philadelphus,Q107394,1PHIG
+2886,8,2674,Phormium,Q1639799,1PHMG
+2887,8,2140,Heteromeles,,1HTEG
+2888,8,2140,Photinia,Q1070845,1PHNG
+2889,8,2140,Physocarpus,Q133596,1PHPG
+2890,8,2146,Vigna,Q132634,1VIGG
+2891,6,2116,Phytolaccaceae,Q156981,1PHYF
+2892,7,2891,Phytolacca,Q162075,1PHTG
+2893,7,2380,Coryphoideae,Q142846,1CPYS
+2894,8,2893,Phoenix,,1PHXG
+2895,7,2144,Physalis,Q158663,1PHYG
+2896,8,2273,Pistacia,Q35987,1PIAG
+2897,8,2146,Pisum,Q144795,1PIBG
+2898,6,71,Picea,Q26782,1PIEG
+2899,7,2201,Pimpinella,Q588740,1PIMG
+2900,8,2187,Pinellia,Q1243951,1PING
+2901,7,2876,Piper,,1PIPG
+2902,6,71,Pinus,Q12024,1PIUG
+2903,8,2226,Plukenetia,Q5226286,1PKZG
+2904,7,74,Plantago,Q164686,1PLAG
+2905,5,2129,Taxaceae,Q223751,1TAAF
+2906,6,2905,Phyllocladus,,1PLDG
+2907,8,2152,Plumeria,Q218123,1PLIG
+2908,8,2167,Phlomis,Q157874,1PLMG
+2909,7,2438,Phillyrea,Q1512683,1PLRG
+2910,6,2653,Platanaceae,Q171425,1PLTF
+2911,7,2910,Platanus,Q163025,1PLTG
+2912,8,2132,Pluchea,Q1930933,1PLUG
+2913,8,2136,Platycodon,,1PLXG
+2914,7,2229,Panax,,1PNXG
+2915,8,2165,Poa,Q157656,1POAG
+2916,6,2145,Polygalaceae,Q156360,1POGF
+2917,7,2916,Polygala,Q156909,1POGG
+2918,7,2581,Polygonoideae,Q1238742,1POLS
+2919,8,2918,Polygonum,Q271400,1POLG
+2920,8,2918,Persicaria,Q159000,1PRAG
+2921,8,2918,Reynoutria,Q2714294,1REYG
+2922,7,2199,Populus,Q25356,1POPG
+2923,6,2116,Portulacaceae,Q521874,1PORF
+2924,7,2923,Portulaca,Q159554,1PORG
+2925,7,2637,Phlox,,1POXG
+2926,8,2150,Phalaenopsis,Q133897,1PQAG
+2927,8,2183,Perilla,,1PRJG
+2928,6,2103,Martyniaceae,Q53477,1MANF
+2929,7,2928,Proboscidea,,1PROG
+2930,5,2268,Hymenoptera,Q22651,1HYMEO
+2931,6,2930,Apidae,Q756082,1APIDF
+2932,7,2931,Prosopis,Q133422,1PRSSG
+2933,8,2212,Parthenocissus,Q157587,1PRTG
+2934,8,2164,Psidium,Q320179,1PSIG
+2935,8,2146,Psoralea,Q2589982,1PSRG
+2936,6,71,Pseudotsuga,Q158771,1PSTG
+2937,8,2479,Ptelea,Q612028,1PTAG
+2938,5,2318,Dennstaedtiaceae,Q358326,1DENF
+2939,6,2938,Pteridium,,1PTEG
+2940,8,2197,Dasiphora,Q3917216,1DSRG
+2941,8,2197,Drymocallis,Q5309730,1DMKG
+2942,8,2197,Potentilla,Q156512,1PTLG
+2943,8,2132,Parthenium,Q3236767,1PTNG
+2944,6,2200,Pittosporaceae,Q161261,1PITF
+2945,7,2944,Pittosporum,Q158896,1PTUG
+2946,8,2146,Pueraria,Q133126,1PUEG
+2947,7,2728,Punica,Q4959355,1PUNG
+2948,8,2172,Pavonia,Q3316083,1PVAG
+2949,7,2184,Phryma,Q857944,1PWHG
+2950,7,2229,Polyscias,Q2381113,1PYJG
+2951,8,2123,Ranunculus,Q146130,1RANG
+2952,7,23,Raphanus,Q165507,1RAPG
+2953,8,2132,Ratibida,Q5234634,1RATG
+2954,7,2142,Richardia,,1RCHG
+2955,7,2142,Rudgea,Q3282335,1RDGG
+2956,7,2396,Rhamnus,Q79190,1RHAG
+2957,7,2396,Frangula,Q79189,1FGLG
+2958,8,2918,Rheum,Q7217716,1RHEG
+2959,8,2273,Rhus,Q157649,1RHUG
+2960,8,2273,Toxicodendron,Q1777115,1TOXG
+2961,7,2891,Rivina,Q2714585,1RIVG
+2962,8,2146,Robinia,,1ROBG
+2963,8,2479,Ruta,Q165250,1RUAG
+2964,8,2132,Rudbeckia,Q320510,1RUDG
+2965,8,2132,Echinacea,,1ECEG
+2966,8,2918,Rumex,,1RUMG
+2967,8,2150,Rhynchostylis,Q1300371,1RYSG
+2968,8,2204,Saccharum,Q17136949,1SACG
+2969,8,2234,Sapindus,Q321451,1SAKG
+2970,6,2215,Adoxaceae,Q156677,1ADOF
+2971,7,2970,Sambucus,Q131448,1SAMG
+2972,8,2576,Triadica,Q143677,1TDCG
+2973,7,5,Salsoloideae,Q136782,1SASS
+2974,8,2973,Salsola,Q159544,1SASG
+2975,7,2157,Saponaria,Q157500,1SAWG
+2976,8,2541,Scabiosa,Q147772,1SCBG
+2977,7,2166,Scutellarioideae,Q2889855,1SCDS
+2978,8,2977,Scutellaria,Q156764,1SCDG
+2979,8,2273,Schinus,Q786249,1SCIG
+2980,8,2165,Secale,Q7215110,1SECG
+2981,7,2181,Hylotelephium,Q132737,1HJOG
+2982,7,2181,Sedum,Q156851,1SEDG
+2983,6,2103,Pedaliaceae,Q161187,1PEDF
+2984,7,2983,Sesamum,Q47334,1SEGG
+2985,7,30,Sechium,Q139044,1SEHG
+2986,8,2132,Jacobaea,Q2701040,1JACG
+2987,8,2132,Pericallis,Q2709984,1PKKG
+2988,8,2132,Senecio,Q209596,1SENG
+2989,8,2132,Delairea,Q16029211,1DLWG
+2990,6,31,Sequoia,Q1975652,1SEQG
+2991,8,2204,Setaria,,1SETG
+2992,8,2134,Atalantia,Q5555801,1AYAG
+2993,7,2365,Schima,,1SHMG
+2994,7,2566,Shepherdia,Q247641,1SHPG
+2995,8,2172,Malvella,Q9297420,1MVLG
+2996,8,2172,Sida,,1SIDG
+2997,8,2132,Silphium,Q729352,1SIPG
+2998,7,2144,Salpiglossis,Q676731,1SLGG
+2999,8,2132,Silybum,Q1521997,1SLYG
+3000,7,2125,Monsteroideae,Q5475034,1MNSS
+3001,8,3000,Epipremnum,Q1295844,1EPJG
+3002,8,2132,Santolina,Q224507,1SNTG
+3003,8,2132,Sanvitalia,Q1638845,1SNVG
+3004,8,2146,Sophora,Q309213,1SOBG
+3005,8,2146,Styphnolobium,Q11815640,1SYWG
+3006,8,2132,Sonchus,Q830049,1SONG
+3007,8,2132,Solidago,Q212939,1SOOG
+3008,8,2132,Soliva,Q5625107,1SOVG
+3009,8,2172,Sphaeralcea,Q936759,1SPHG
+3010,8,12,Spinacia,Q148968,1SPQG
+3011,7,2157,Spergula,Q162766,1SPRG
+3012,8,2146,Spartium,Q14566707,1SPUG
+3013,8,2140,Spiraea,Q148745,1SPVG
+3014,7,2144,Streptosolen,Q3500355,1SROG
+3015,8,2146,Strophostyles,Q3313943,1SRTG
+3016,7,2436,Sassafras,Q131532,1SSAG
+3017,7,2760,Sesuvioideae,Q6126273,1SSVS
+3018,8,3017,Sesuvium,Q135024,1SSVG
+3019,7,23,Sisymbrium,Q158183,1SSYG
+3020,8,2167,Stachys,Q156294,1STAG
+3021,7,2157,Stellaria,,1STEG
+3022,8,2183,Clinopodium,Q164026,1CLBG
+3023,8,2576,Stillingia,Q147720,1STLG
+3024,8,2204,Stenotaphrum,Q2191399,1STPG
+3025,6,2173,Strelitziaceae,Q147867,1STZF
+3026,7,3025,Strelitzia,Q147888,1STZG
+3027,7,2365,Stewartia,Q388277,1SWTG
+3028,8,2187,Syngonium,Q2448411,1SYNG
+3029,7,2438,Syringa,Q157449,1SYRG
+3030,6,2161,Symplocaceae,Q588797,1SYMF
+3031,7,3030,Symplocos,Q133714,1SYSG
+3032,8,2164,Syzygium,Q133290,1SYZG
+3033,7,2144,Schizanthus,Q1425929,1SZTG
+3034,6,2116,Tamaricaceae,Q161244,1TAMF
+3035,7,3034,Tamarix,,1TAAG
+3036,6,31,Taxodium,Q147392,1TADG
+3037,6,2116,Talinaceae,Q135110,1TALF
+3038,7,3037,Talinum,Q138395,1TALG
+3039,8,2132,Taraxacum,Q30024,1TARG
+3040,8,2647,Tectona,Q9250007,1TCTG
+3041,7,2760,Aizooideae,Q5661448,1AIZS
+3042,8,3041,Tetragonia,,1TEAG
+3043,7,2104,Tecoma,Q2307801,1TECG
+3044,8,2146,Tephrosia,Q3236409,1TEPG
+3045,7,2166,Ajugoideae,Q12224401,1AIUS
+3046,8,3045,Teucrium,Q157714,1TEUG
+3047,8,2688,Theobroma,Q162078,1THOG
+3048,6,31,Platycladus,Q6078218,1PTZG
+3049,8,2183,Thymus,,1THYG
+3050,6,2162,Melastomataceae,Q648380,1MESF
+3051,7,3050,Tibouchina,Q1035441,1TIBG
+3052,8,2709,Tigridia,,1TIGG
+3053,8,2132,Tithonia,Q136941,1TITG
+3054,8,2136,Triodanis,Q4463141,1TJDG
+3055,8,2132,Vogtia,,1VGTG
+3056,8,2470,Tradescantia,Q157498,1TRAG
+3057,6,2721,Zygophyllaceae,Q155982,1ZYGF
+3058,7,3057,Tribulus,,1TRBG
+3059,8,2226,Tragia,Q7832628,1TRDG
+3060,8,2132,Tragopogon,Q889257,1TROG
+3061,6,71,Tsuga,Q739430,1TSUG
+3062,7,30,Trichosanthes,Q134496,1TTHG
+3063,7,2748,Tulipa,Q93201,1TULG
+3064,8,2132,Tussilago,Q2297615,1TUSG
+3065,8,2146,Ulex,,1ULEG
+3066,7,2436,Umbellularia,Q15933047,1UMBG
+3067,8,2234,Ungnadia,Q2666575,1UNGG
+3068,6,2138,Urticaceae,Q156332,1URTF
+3069,7,3068,Urtica,Q121671,1URTG
+3070,7,2555,Glandularia,Q148131,1GLNG
+3071,7,2555,Verbena,Q165290,1VEBG
+3072,8,2132,Verbesina,Q5189541,1VEEG
+3073,7,74,Veronicastrum,Q2658395,1VEKG
+3074,8,2132,Vernonia,Q1411311,1VENG
+3075,7,2353,Verbascum,Q57051,1VESG
+3076,7,2970,Viburnum,Q158492,1VIBG
+3077,8,2146,Vicia,Q147337,1VICG
+3078,7,2806,Viola,,1VIOG
+3079,8,2132,Viguiera,,1VIUG
+3080,8,2647,Vitex,,1VIXG
+3081,7,2216,Valerianoideae,Q15074600,1VLLS
+3082,8,3081,Valerianella,Q161504,1VLLG
+3083,8,2306,Vincetoxicum,Q158135,1VNCG
+3084,8,2893,Washingtonia,Q158793,1WATG
+3085,8,2539,Weigela,Q157840,1WEGG
+3086,7,2166,Prosterantheroideae,,1PQTS
+3087,8,3086,Westringia,Q3307765,1WESG
+3088,8,2146,Wisteria,Q261903,1WSTG
+3089,7,2109,Xanthoceratoideae,Q15056364,1XACS
+3090,8,3089,Xanthoceras,Q13418151,1XACG
+3091,8,2132,Xanthium,Q598601,1XANG
+3092,8,2187,Xanthosoma,Q763075,1XATG
+3093,7,2208,Zelkova,Q187454,1ZELG
+3094,8,2132,Zinnia,Q205106,1ZIIG
+3095,7,2396,Ziziphus,Q310492,1ZIPG
+3096,8,2561,Zizania,Q831681,1ZIZG
+3097,8,2132,Symphyotrichum,Q2629596,1ZMYG
+3098,7,30,Siraitia,Q7529905,1ZRTG
