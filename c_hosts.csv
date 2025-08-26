@@ -1,96 +1,96 @@
-host,name,q,eppo
-Corn (syn. Maize),Zea mays,Q11575,ZEAMX
-Alfalfa,Medicago sativa,Q156106,MEDSA
-Almond,Prunus amygdalus,Q15545507,PRNDU
-Anemone,Anemone,Q158286,ANMCO
-Apple,Malus,Q104819,1MABG
-Avocado,Aguacate,Q37153,PEBAM
-Bedding Plants,,,
-Beet,Beta vulgaris,Q165191,BEAVX
-Bellflower,Campanula,Q157069,1CMPG
-Blueberry,Vaccinium,Q5079636,1VACG
-Butterfly Flower,Asclepias syriaca,Q158295,ASCSY
-Cacao,Theobroma cacao,Q42385,THOCA
-Carnation,Dianthus caryophyllus,Q158984,DINCA
-Carrot,Daucus carota subsp. sativus,Q11678009,DAUCS
-Chrysanthemum,Chrysanthemum,Q59882,CHYIN
-Cineraria,Cineraria,Q2360058,SENCR
-Cotton,Gossypium hirsutum,Q133481,GOSHI
-Crucifers,Brassicaceae,Q156888,1CRUF
-English (Persian) Walnut,Juglans regia,Q46871,IUGRE
-European Hazelnut,Corylus,Q145889,1CYLG
-Foliage Plants (House Plants),,,
-Fuchsia,Fuchsia,Q161066,FUCHY
-Garden Dahlia,Dahlia pinnata,Q1549236,DAHPI
-Geranium,Geranium,Q157211,1GERG
-Hemp,Cannabis sativa,Q26726,CNISA
-Hop,Humulus lupulus,Q104212,HUMLU
-Kalanchoë,Kalanchoe,Q312063,1KANG
-Mango,Mangifera indica,Q3919027,MNGIN
-"Mimulus, Monkey-Flower",Mimulus,Q159372,1MIUG
-Passionfruit,Passiflora edulis,Q156790,PAQED
-Peach and Nectarine,Prunus persica,Q13189,PRNPS
-Pecan,Carya illinoinensis,Q333877,CYAIL
-Poinsettia,Poinsettia,Q15711519,EPHPU
-Primulas,Primula,Q158974,1PRIG
-Rapeseed = Canola,Brassica napus,Q177932,BRSNN
-Rhododendron,Rhododendron,Q189393,RHOPO
-Rose,Rosa,Q34687,1ROSG
-Sunflower and Jerusalem Artichoke,Helianthus annuus,Q171497,HELAN
-Sweetpotato,Ipomoea batatas,Q37937,IPOBA
-Tea,Camellia sinensis,Q101815,CAHSI
-Mustard,Brassicaceae,Q156888,1CRUF
-Tobacco,Nicotiana tabacum,Q181095,NIOTA
-Rice,Oryza sativa,Q161426,ORYSA
-Onion and Garlic,Allium,Q49391,1ALLG
-Potato,Solanum tuberosum,Q10998,SOLTU
-Barley,Hordeum vulgare,Q11577,HORVX
-Papaya,Carica papaya,Q34887,CIAPA
-Bean,Fabaceae,Q44448,1LEGF
-Soybean,Glycine max,Q11006,GLXMA
-Lettuce,Lactuca sativa,Q83193,LACSA
-Coffee,Coffea,Q156354,1COFG
-Sugarcane,Sugarcane,Q3391243,SACOF
-Elm,Ulmus,Q131113,1ULMG
-Celery,Apium graveolens,Q28298,APUGV
-Red Clover,Trifolium pratense,Q156635,TRFPR
-Pearl Millet,Pennisetum glaucum,Q654332,PESGL
-Wheat,Triticum durum,Q618324,TRZDU
-Oats,Avena sativa,Q12104,AVESA
-Rye,Secale cereale,Q12099,SECCE
-Cultivated Wild Rice,Zizania palustris,Q11142858,ZIZPA
-Spinach,Spinacia oleracea,Q81464,SPQOL
-Lentil,Lens culinaris,Q131226,LENCU
-Pigeonpea,Cajanus cajan,Q632559,CAJCA
-Flax,Linum usitatissimum,Q45108,LIUUT
-Banana and Plantain,Musa,Q8666090,1MUBG
-Caneberries,Rubus,Q602740,1RUBG
-Pepper,Capsicum,Q201959,1CPSG
-Black Walnut,Juglans nigra,Q852572,IUGNI
-Citrus,Citrus,Q81513,1CIDG
-African Violet,Saintpaulia ionantha,Q165406,SNPIO
-Cattleya Lindl. spp,Cattleya,Q133733,1CTBG
-Conifer,Pinophyta,Q132825,1PINP
-Sycamore,Acer pseudoplatanus,Q156944,ACRPP
-Cucurbits,Cucurbitaceae,Q8314,1CUCF
-Common House or Florist's Hydrangea,Hydrangea,Q155997,1HYEG
-Strawberry,Fragaria,Q745,1FRAG
-Cassava,Manihot esculenta,Q83124,MANES
-Coconut Palm,Cocos nucifera,Q13187,CCNNU
-Cyclamen,Cyclamen,Q147295,CYZHE
-Holiday Cacti,Schlumbergera,Q240857,1SBGG
-Cranberry,Vaccinium oxycoccos,Q374399,VACOX
-Grape,Vitis,Q191019,1VITG
-Chickpea,Cicer arietinum,Q81375,CIEAR
-Jerusalem Cherry,Solanum pseudocapsicum,Q1475749,SOLPC
-Azalea,Azalea,Q5986917,1RHOG
-Asparagus,Asparagus,Q2853420,ASPOF
-Sorghum,Sorghum,Q12111,SORVU
-Mint,Mentha,Q47859,1MENG
-Pistachio,Pistacia vera,Q36071,PIAVE
-Safflower,Carthamus tinctorius,Q156625,CAUTI
-Peanut,Arachis hypogaea,Q37383,ARHHY
-African Daisy,Osteospermum,Q942384,1OSPG
-Impatiens,Impatiens,Q141672,1IPAG
-Verbena,Verbena,Q165290,VEBOF
-Lingonberry,Vaccinium vitis-idaea,Q93235,VACVI
+,host,name,q,eppo,found
+0,Corn (syn. Maize),Zea mays,Q11575,ZEAMX,
+1,Alfalfa,Medicago sativa,Q156106,MEDSA,MEDSA
+2,Almond,Prunus amygdalus,Q15545507,PRNDU,PRNDU
+3,Anemone,Anemone,Q158286,ANMCO,ANMSS
+4,Apple,Malus,Q104819,1MABG,MABSD
+5,Avocado,Aguacate,Q37153,PEBAM,PEBAM
+6,Bedding Plants,,,,
+7,Beet,Beta vulgaris,Q165191,BEAVX,BEAVX
+8,Bellflower,Campanula,Q157069,1CMPG,CMPSS
+9,Blueberry,Vaccinium,Q5079636,1VACG,VACMY
+10,Butterfly Flower,Asclepias syriaca,Q158295,ASCSY,GOPPH
+11,Cacao,Theobroma cacao,Q42385,THOCA,THOCA
+12,Carnation,Dianthus caryophyllus,Q158984,DINCA,DINCA
+13,Carrot,Daucus carota subsp. sativus,Q11678009,DAUCS,DAUSS
+14,Chrysanthemum,Chrysanthemum,Q59882,CHYIN,CHYIN
+15,Cineraria,Cineraria,Q2360058,SENCR,SENVU
+16,Cotton,Gossypium hirsutum,Q133481,GOSHI,GOSSS
+17,Crucifers,Brassicaceae,Q156888,1CRUF,
+18,English (Persian) Walnut,Juglans regia,Q46871,IUGRE,
+19,European Hazelnut,Corylus,Q145889,1CYLG,CYLAV
+20,Foliage Plants (House Plants),,,,
+21,Fuchsia,Fuchsia,Q161066,FUCHY,FUCSS
+22,Garden Dahlia,Dahlia pinnata,Q1549236,DAHPI,DAHPI
+23,Geranium,Geranium,Q157211,1GERG,GERSS
+24,Hemp,Cannabis sativa,Q26726,CNISA,CNISS
+25,Hop,Humulus lupulus,Q104212,HUMLU,UPUPEP
+26,Kalanchoë,Kalanchoe,Q312063,1KANG,KANBL
+27,Mango,Mangifera indica,Q3919027,MNGIN,MNGIN
+28,"Mimulus, Monkey-Flower",Mimulus,Q159372,1MIUG,
+29,Passionfruit,Passiflora edulis,Q156790,PAQED,PAQSS
+30,Peach and Nectarine,Prunus persica,Q13189,PRNPS,
+31,Pecan,Carya illinoinensis,Q333877,CYAIL,CYAIL
+32,Poinsettia,Poinsettia,Q15711519,EPHPU,EPHPU
+33,Primulas,Primula,Q158974,1PRIG,
+34,Rapeseed = Canola,Brassica napus,Q177932,BRSNN,
+35,Rhododendron,Rhododendron,Q189393,RHOPO,RHOSS
+36,Rose,Rosa,Q34687,1ROSG,ROSSS
+37,Sunflower and Jerusalem Artichoke,Helianthus annuus,Q171497,HELAN,
+38,Sweetpotato,Ipomoea batatas,Q37937,IPOBA,IPOBA
+39,Tea,Camellia sinensis,Q101815,CAHSI,CAHSI
+40,Mustard,Brassicaceae,Q156888,1CRUF,SINSS
+41,Tobacco,Nicotiana tabacum,Q181095,NIOTA,NIOTA
+42,Rice,Oryza sativa,Q161426,ORYSA,ORYSS
+43,Onion and Garlic,Allium,Q49391,1ALLG,
+44,Potato,Solanum tuberosum,Q10998,SOLTU,SOLTU
+45,Barley,Hordeum vulgare,Q11577,HORVX,HORSS
+46,Papaya,Carica papaya,Q34887,CIAPA,CIAPA
+47,Bean,Fabaceae,Q44448,1LEGF,PHSSS
+48,Soybean,Glycine max,Q11006,GLXMA,GLXMA
+49,Lettuce,Lactuca sativa,Q83193,LACSA,LACSA
+50,Coffee,Coffea,Q156354,1COFG,
+51,Sugarcane,Sugarcane,Q3391243,SACOF,SACSS
+52,Elm,Ulmus,Q131113,1ULMG,ULMSS
+53,Celery,Apium graveolens,Q28298,APUGV,APUGV
+54,Red Clover,Trifolium pratense,Q156635,TRFPR,TRFPR
+55,Pearl Millet,Pennisetum glaucum,Q654332,PESGL,PESGL
+56,Wheat,Triticum durum,Q618324,TRZDU,TRZSS
+57,Oats,Avena sativa,Q12104,AVESA,AVESS
+58,Rye,Secale cereale,Q12099,SECCE,SECCE
+59,Cultivated Wild Rice,Zizania palustris,Q11142858,ZIZPA,
+60,Spinach,Spinacia oleracea,Q81464,SPQOL,SPQOL
+61,Lentil,Lens culinaris,Q131226,LENCU,LENCU
+62,Pigeonpea,Cajanus cajan,Q632559,CAJCA,CAJCA
+63,Flax,Linum usitatissimum,Q45108,LIUUT,LIUSS
+64,Banana and Plantain,Musa,Q8666090,1MUBG,
+65,Caneberries,Rubus,Q602740,1RUBG,
+66,Pepper,Capsicum,Q201959,1CPSG,PIPNI
+67,Black Walnut,Juglans nigra,Q852572,IUGNI,IUGNI
+68,Citrus,Citrus,Q81513,1CIDG,CIDSS
+69,African Violet,Saintpaulia ionantha,Q165406,SNPIO,SNPSS
+70,Cattleya Lindl. spp,Cattleya,Q133733,1CTBG,
+71,Conifer,Pinophyta,Q132825,1PINP,
+72,Sycamore,Acer pseudoplatanus,Q156944,ACRPP,PLTSS
+73,Cucurbits,Cucurbitaceae,Q8314,1CUCF,
+74,Common House or Florist's Hydrangea,Hydrangea,Q155997,1HYEG,
+75,Strawberry,Fragaria,Q745,1FRAG,FRASS
+76,Cassava,Manihot esculenta,Q83124,MANES,MANES
+77,Coconut Palm,Cocos nucifera,Q13187,CCNNU,LODMA
+78,Cyclamen,Cyclamen,Q147295,CYZHE,CYZSS
+79,Holiday Cacti,Schlumbergera,Q240857,1SBGG,
+80,Cranberry,Vaccinium oxycoccos,Q374399,VACOX,VACOX
+81,Grape,Vitis,Q191019,1VITG,VITSS
+82,Chickpea,Cicer arietinum,Q81375,CIEAR,CIEAR
+83,Jerusalem Cherry,Solanum pseudocapsicum,Q1475749,SOLPC,SOLPC
+84,Azalea,Azalea,Q5986917,1RHOG,RHOSS
+85,Asparagus,Asparagus,Q2853420,ASPOF,ASPOF
+86,Sorghum,Sorghum,Q12111,SORVU,SORSS
+87,Mint,Mentha,Q47859,1MENG,MENSS
+88,Pistachio,Pistacia vera,Q36071,PIAVE,PIAVE
+89,Safflower,Carthamus tinctorius,Q156625,CAUTI,CAUTI
+90,Peanut,Arachis hypogaea,Q37383,ARHHY,ARHHY
+91,African Daisy,Osteospermum,Q942384,1OSPG,ATBSS
+92,Impatiens,Impatiens,Q141672,1IPAG,IPASS
+93,Verbena,Verbena,Q165290,VEBSS,BRWAM
+94,Lingonberry,Vaccinium vitis-idaea,Q93235,VACVI,VACVM

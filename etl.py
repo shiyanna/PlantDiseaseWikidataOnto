@@ -44,7 +44,7 @@ tuplify = lambda arr: tuple(i if type(i) in (str,type(None)) else tuple(i) for i
 _AUTHTOKEN = 'your-token-here'
 
 #%%
-0/0
+# 0/0
 
 # Get downloadable eppo files here: https://data.eppo.int/
 # You need one called Bayer
@@ -149,8 +149,11 @@ def _search_taxons(taxons:list,authtoken = None) -> List[Optional[t_eppo]]:
     return res
 
 def search_taxons(taxons:List[str], disable_tqdm = False) -> List[Optional[t_eppo]]:
-    _res1: List[Optional[t_eppo]] = _search_taxons(taxons)
+    # eppo API request
+    _res1: List[Optional[t_eppo]] = _search_taxons(taxons) 
+    # fuzzy search
     _res2 = [search_local_eppo_name(taxon,_dfindings = _dfindings) for taxon in tqdm(taxons,disable=disable_tqdm)]
+    # prioritize fuzzy search
     _res = [i2 or i1 for i1,i2 in zip(_res1,_res2)]
     return _res
     
@@ -287,7 +290,7 @@ all_deseases = res["results"]["bindings"]
 len(all_deseases)
 #%%
 #@
-# Получаем список болезней/ Но и много мусора, который тоже потом отфильтруется (потому что у мусора не будет cause-ов)
+# Получаем список болезней. Но и много мусора, который тоже потом отфильтруется (потому что у мусора не будет cause-ов)
 #%%
 
 os.makedirs("data", exist_ok=True)
@@ -552,11 +555,6 @@ def p(items:str, size:int, page:int): # paginator
     return items[page*size:(page+1)*size]
 #%%
 
-# p_size = 30
-# l = len(hosts_names)
-# pages = int(np.ceil(float(l)/p_size))
-# pages
-
 #%%
 
 hosts:pd.Series = df['hosts']
@@ -744,7 +742,7 @@ for m_desease_name in m_deseases_u:
 
 #%%
 m_deseases_u_dict = match_diseases_dict
-
+#%%
 with open("data/disease_corr.json","w+") as fd:
     json.dump(m_deseases_u_dict,fd,indent=2)
 
@@ -855,8 +853,7 @@ m_deseases_u_afflicts = {i:list(df1[df1["Disease"] == i]["Afflict"].unique()) fo
 m_afflicts_u = list(df1["Afflict"].unique())
 
 #%%
-# Поиск проводится двумя способами, sparql запросом, и по api
-# По причине отсутствия стандартизации поиск доуточнён вручную
+# Поиск проведён fuzzy_search, результат в c_hosts
 
 #%%
 '''
@@ -1799,13 +1796,11 @@ for i in range(len(taxons_hosts_tuples)):
     for ix in taxons_hosts_tuples_indexes[i]:
         # print(hosts_taxonomy_tuples[ix])
         if ix == 0:
-            print("FOOOOO",i,ix)
+            print("Fault",i,ix)
             print(taxons_hosts_tuples[i][ix])
             print(hosts_taxonomy_tuples[ix])
             print()
             print()
-    
-    
 
 
 #%%
